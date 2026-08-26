@@ -1,0 +1,621 @@
+<SceneText>
+  <FriendlyName>Dunamis Orphanage</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>リィム</JapaneseText>
+      <EnglishText>Rimu</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ルーティ</JapaneseText>
+      <EnglishText>Rutee</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>デュナミス孤児院</JapaneseText>
+      <EnglishText>Dunamis Orphanage</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>デュナミス孤児院</JapaneseText>
+      <EnglishText>Dunamis Orphanage</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ふうっ
+お洗濯、おしまい！</JapaneseText>
+      <EnglishText>Phew.
+Laundry's done!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>みんな、エンリョなく
+どろんこにしちゃうから
+タイヘンなのよね～</JapaneseText>
+      <EnglishText>Everyone gets soaked in
+mud without enryo...
+so it's really hard.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>リィムは
+いいヨメさんになりそうだな</JapaneseText>
+      <EnglishText>Rimu is going to
+be a good wife.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Kyle&gt;にいちゃん
+&lt;Loni&gt;にいちゃんも
+あんまり服をよごしちゃダメよ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, &lt;Loni&gt;, don't get
+your clothes too dirty.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ごめいわくおかけします････</JapaneseText>
+      <EnglishText>Sorry for the inconvenience...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ふうっ
+お洗濯、おしまい！</JapaneseText>
+      <EnglishText>Phew.
+Laundry's done!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>みんな、エンリョなく
+どろんこにしちゃうから
+タイヘンなのよね～</JapaneseText>
+      <EnglishText>Everyone gets soaked in
+mud without enryo...
+so it's really hard.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>おはよう････リィム
+Ｚｚｚ････</JapaneseText>
+      <EnglishText>Good morning...Rimu
+Zzz...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>あらあら
+&lt;Kyle&gt;にいちゃん
+ヨダレがたれてるわよ</JapaneseText>
+      <EnglishText>Oh my.
+&lt;Kyle&gt;, you're drooling.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>もう&lt;Kyle&gt;にいちゃんったら
+ホントだらしないわねぇ</JapaneseText>
+      <EnglishText>Kyle, you're such a slacker.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>&lt;Kyle&gt;にいちゃん
+あんまり服よごさないでよ</JapaneseText>
+      <EnglishText>Don't get your clothes too dirty, Kyle.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>ゴメン
+今日も汚れると思う････</JapaneseText>
+      <EnglishText>Sorry, I think I got dirty again today...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>もう････！
+&lt;Kyle&gt;にいちゃんの服が
+いちばんお洗濯が大変なんだからね～！</JapaneseText>
+      <EnglishText>Again...!
+&lt;Kyle&gt;'s clothes are
+the hardest to wash...!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>もう････
+&lt;Kyle&gt;にいちゃんったら
+また、服よごして</JapaneseText>
+      <EnglishText>Again...
+&lt;Kyle&gt; you're making
+the clothes dirty again!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>ハンカチとチリガミはもった？
+わすれものはない？</JapaneseText>
+      <EnglishText>Have you got a handkerchief and a dustpan?
+Have you lost anything?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>リィム、母さんみたいなこと
+言うなよな～</JapaneseText>
+      <EnglishText>Rimu, you starting
+to sound like mom...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>だって、&lt;Kyle&gt;にいちゃんは
+そういうトコが
+ゼンゼンなってないんだもの</JapaneseText>
+      <EnglishText>Because &lt;Kyle&gt;, you're not very
+good at that kind of thing.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>&lt;Kyle&gt;にいちゃん
+お洗濯も、ちゃんとじぶんで
+やらないとダメよ！</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, you have to do
+your own laundry, too!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>はい････</JapaneseText>
+      <EnglishText>Okay...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>あ、おかえり、&lt;Kyle&gt;にいちゃん！
+洗濯ものあったら
+出しといてね</JapaneseText>
+      <EnglishText>Oh, welcome back, Kyle!
+If you have laundry to do,
+please take it out.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>ベランダは、いちばん
+見晴らしがいいでしょ</JapaneseText>
+      <EnglishText>The balcony is the best
+place to get a good view.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>スタン父さんが帰ってきたら
+いちばん最初に
+見つけられるかな？</JapaneseText>
+      <EnglishText>Can you be the first
+one to find Stahn when
+he gets home?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>ふ～ん････
+その人、おにいちゃんの恋人？</JapaneseText>
+      <EnglishText>Hmmm...
+Is that guy your boyfriend?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>えっ！
+そんな････恋人だなんて････!!</JapaneseText>
+      <EnglishText>What!
+No way...lovers...!!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>あなた････
+&lt;Kyle&gt;にいちゃんの服
+お洗濯してるの？</JapaneseText>
+      <EnglishText>You...
+I'm washing &lt;Kyle&gt;'s clothes.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>うん････
+ときどきだけど････</JapaneseText>
+      <EnglishText>Yeah...
+Sometimes though...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>リィム
+やめろって････!!</JapaneseText>
+      <EnglishText>Rimu,
+stop it...!!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>あ、おかえり、&lt;Kyle&gt;にいちゃん！
+洗濯ものあったら
+出しといてね</JapaneseText>
+      <EnglishText>Oh, welcome back, &lt;Kyle&gt;!
+If you have laundry to do,
+please take it out.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>&lt;Kyle&gt;にいちゃんの服は
+ず～っと、わたしが
+お洗濯してたんだよ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, I've been washing
+your clothes for a long time.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>さてと、お洗濯はおしまい！
+あ～っ、いそがしい！</JapaneseText>
+      <EnglishText>Okay, laundry's done!
+Oh, I'm so busy!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>剣術のケイコとかで
+スタン父さんと&lt;Kyle&gt;にいちゃんが
+すぐ服をよごしてくるから、ね！</JapaneseText>
+      <EnglishText>Pap Stahn and &lt;Kyle&gt; will
+soon get their clothes dirty
+after sword training.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>&lt;Kyle&gt;にいちゃん
+お出かけもいいけど、洗濯ものは
+ちゃんと出しといてね</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, you can go out,
+but make sure you take
+out the laundry.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>はい････</JapaneseText>
+      <EnglishText>Okay...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>このフラグでの会話未設定</JapaneseText>
+      <EnglishText>Conversation not set for this flag.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>あ、いたいた
+母さ････</JapaneseText>
+      <EnglishText>Ah, there she is.
+Mo...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>待てよ、&lt;Kyle&gt;
+ちょっと耳かせ</JapaneseText>
+      <EnglishText>Wait a sec, &lt;Kyle&gt;.
+Hear me out for a bit.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>いいね、それ
+やろう、&lt;Loni&gt;！</JapaneseText>
+      <EnglishText>Ooh, that's a great idea.
+Let's do it, &lt;Loni&gt;!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>せぇーの････</JapaneseText>
+      <EnglishText>Ready, set...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>&lt;size:00000200&gt;わっ！</JapaneseText>
+      <EnglishText>&lt;size:00000200&gt;BOO!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>&lt;size:00000200&gt;わっ！</JapaneseText>
+      <EnglishText>&lt;size:00000200&gt;BOO!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>きゃっ！</JapaneseText>
+      <EnglishText>Wah!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>&lt;Kyle&gt;！
+あんたって子は････!!</JapaneseText>
+      <EnglishText>Kyle!
+You naughty little...!!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>････&lt;Loni&gt;!?</JapaneseText>
+      <EnglishText>...&lt;Loni&gt;?!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>へへへ････
+ただいま、ルーティさん</JapaneseText>
+      <EnglishText>Heh heh heh...
+I'm back, Rutee.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>もう、ったくあんたって子は！
+アタモニ神団に入ってからこっち
+手紙のひとつもよこさないで････！
+心配したでしょ、このバカっ！</JapaneseText>
+      <EnglishText>Oh honestly, you naughty boy!
+You haven't sent us a single
+letter since you went off to
+join the Church of Atamoni and...!
+{02}I was worried sick, you idiot!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>ちょ、ちょっと待った、ルーティさん！
+ぐ、苦じい････！
+がああぁぁッ････!!</JapaneseText>
+      <EnglishText>W, wait just a minute,
+Rutee! I-I can't breaze...!
+Gwaaaaahhh...!!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>良い天気だ
+眠くなってきちゃったよ････</JapaneseText>
+      <EnglishText>It's a beautiful day.
+I'm getting sleepy.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>うう････このフトンにくるまって
+眠りたい････</JapaneseText>
+      <EnglishText>Ugh...I want to sleep
+wrapped up in this futon...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>{16}{25}{C6}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C6}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>{16}{25}{CE}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,901 @@
+<SceneText>
+  <FriendlyName>Darilsheid Prison</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Darilsheid Prison</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Darilsheid Prison</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>おい&lt;Kyle&gt;、相手にすんな
+あいつ、あからさまにあやしいぞ</JapaneseText>
+      <EnglishText>Hey, &lt;Kyle&gt;, don't mess with him.
+That guy's got some serious shit going on.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;03:00000000&gt;休みますか？
+　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Do you want to rest?
+Yes
+No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>こらあっ！
+話も聞かずに牢屋に閉じこめるたぁ
+どういう了見だ！</JapaneseText>
+      <EnglishText>Hey, I know you're out there!
+What's the big idea, locking us up in prison
+without even listening to our side of the story!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>おいこら！
+責任者、出てこい!!</JapaneseText>
+      <EnglishText>Hey, I'm not screaming for my health here!
+Bring out the person in charge!!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>くそッ！　しくじっちまったぜ
+まさか、こんなハメになるとは････</JapaneseText>
+      <EnglishText>Dammit! Well, that was a complete flop.
+Never would've guessed that 
+things would wind up like this...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>う～ん････
+こ、ここは････？</JapaneseText>
+      <EnglishText>Nhh...w, where are we...?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>えっと、ラグナ遺跡に行って
+レンズを見つけたんだけど、割れちゃって
+アタモニ神団に捕まって････</JapaneseText>
+      <EnglishText>Lemme think, we went to the Laguna Ruins and
+found the Lens, but it shattered into pieces
+and we got caught by the Church of Atamoni...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>････あれ？
+それから、どうしたんだっけ？</JapaneseText>
+      <EnglishText>Huh?
+What happened after that again?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>････のん気だねぇ、おまえは</JapaneseText>
+      <EnglishText>Boy, ain't got a care in the world, do you?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>見てのとおり
+牢にぶちこまれたんだよ
+たぶん、ダリルシェイドの地下だろう</JapaneseText>
+      <EnglishText>As you can see, we've been thrown in a cell.
+I'm guessing that we're probably in the jail
+underneath Darilshade.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>えっ</JapaneseText>
+      <EnglishText>Eh?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>笑ってる････</JapaneseText>
+      <EnglishText>He's laughing...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>お、おい、&lt;Kyle&gt;!?
+どうした!?　頭でも打ったか!?
+ちょっと、見せてみろ！</JapaneseText>
+      <EnglishText>H, hey, &lt;Kyle&gt;!? What's wrong!?
+Did they hit you on the head too!?
+C'mere, let me take a look at it!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>ちがうよ、&lt;Loni&gt;
+オレさ、今すっごく幸せなんだ！
+だってさ、冒険がはじまったんだよ！</JapaneseText>
+      <EnglishText>No, no, &lt;Loni&gt;, it's not that.
+It's just that I'm really happy right about
+now! I mean, my adventure's finally begun!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>冒険････？</JapaneseText>
+      <EnglishText>Adventure...?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>あの子が現れた瞬間、オレ、思ったんだ
+冒険がはじまったんだって</JapaneseText>
+      <EnglishText>The moment that girl appeared, I thought to
+myself, &quot;My adventure has begun.&quot;</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>だってさ、レンズの中から出てきて
+「英雄を探しているの」だよ！</JapaneseText>
+      <EnglishText>I mean, she came out of a Lens and said
+&quot;I'm searching for a hero,&quot; you know!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>お話の中でしか････いや、お話の中だって
+こんなことなかった！
+それが、オレの目の前で起こったんだ！</JapaneseText>
+      <EnglishText>All we did was...no. Although all we did was
+talk to her, look at everything that happened!
+{02}And it all took place right before my very eyes!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>そうだ、&lt;Loni&gt;！
+オレ、クレスタへ戻ったら旅に出るよ</JapaneseText>
+      <EnglishText>Wait, I know, &lt;Loni&gt;!
+When we get back to Cresta, I'm going on a journey.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>旅････？</JapaneseText>
+      <EnglishText>Journey...?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>そう、英雄になるための冒険の旅！</JapaneseText>
+      <EnglishText>Yup, a journey full of adventure
+in order to become a hero!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>あの子が探してるのはオレなんだ！
+いまは違うかもしれないけど
+････そう！　未来のオレだ！</JapaneseText>
+      <EnglishText>I'm the one that girl is searching for!
+I might not be the one right now,
+but...I know! It's the future me!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>それをあの子に教えに････
+いや、わからせに行くんだ！</JapaneseText>
+      <EnglishText>I'm going to go tell her that... no,
+I'm going to make her see that!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>未来のおまえ････か
+フッ････嫌いじゃないぜ、そういうの</JapaneseText>
+      <EnglishText>The future you...huh.
+Heh...can't say that has such a bad ring to it.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>よし！　その旅、俺もつきあうぜ！</JapaneseText>
+      <EnglishText>Alrighty then!
+I'm gonna keep you company on that journey of yours!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>えっ!?
+でも&lt;Loni&gt;は
+アタモニ神団に････</JapaneseText>
+      <EnglishText>Eh!?
+But &lt;Loni&gt;, you're in the Church of Atamoni...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>あんな連中、こっちから願い下げだ
+今回のことで、よーくわかったよ！
+あそこは、俺のいるべき場所じゃねえ</JapaneseText>
+      <EnglishText>I'm cutting ties with those jerks.
+This incident really taught me something:
+that place ain't where I belong!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>俺のいるべき場所は････
+&lt;Kyle&gt;、おまえのとなりだ････
+だから、俺はおまえにつきあうぜ</JapaneseText>
+      <EnglishText>The place where I belong is...
+by your side, &lt;Kyle&gt;...
+That's why I'm goin' along with ya.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>&lt;Loni&gt;････</JapaneseText>
+      <EnglishText>&lt;Loni&gt;...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>それにな、俺はスタンさんの････
+おまえのオヤジさんの代わりが
+できたらと思ってる</JapaneseText>
+      <EnglishText>And besides, you could say that 
+I think of myself as a substitute for
+Sta-... your father.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>あの日から、ずっと････</JapaneseText>
+      <EnglishText>Ever since that day...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>あの日････？</JapaneseText>
+      <EnglishText>That day...?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>フッフッフ････
+ハッハッハッハッ！</JapaneseText>
+      <EnglishText>Hm hm hm...
+Ha ha ha ha!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>だれだッ!?</JapaneseText>
+      <EnglishText>Who's there!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>おまえ、自分が英雄になれるなどと
+本気で思っているのか？
+だとしたら、おめでたいヤツだ</JapaneseText>
+      <EnglishText>Do you seriously think that you can become a hero?
+If so, then you're about as green as they come.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>ねぇ、なんでオレが英雄になれないの!?</JapaneseText>
+      <EnglishText>Hey, why can't I become a hero!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>フッ、簡単なことだ</JapaneseText>
+      <EnglishText>Hmph, it's a simple matter, really.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>英雄とは、過去の功績に対して
+人々から贈られる称号</JapaneseText>
+      <EnglishText>The title of hero is awarded to a person by the masses
+based on his orher past achievements.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>自らなろうとするものではないし
+ましてや、なりたいと思って
+なれるものでもない</JapaneseText>
+      <EnglishText>It's not something that you try to become,
+much less something that you can become
+just by wanting to become one.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>ずいぶんわかったような口を
+きくじゃないか
+まるで、自分が英雄だとでも言いたげだな</JapaneseText>
+      <EnglishText>Well, someone sure sounds like Mr. Know-It-All, now doesn't he.
+You even talk as if you're a hero yourself.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>････
+････････</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>僕自身は英雄じゃない
+だが、そう呼ばれる人物を
+少なくとも四人、知っている</JapaneseText>
+      <EnglishText>I'm not a hero.
+But I know of at least four people who
+are characterized as being heroes.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>四人？　ははぁ～ん････
+俺たちなんざ、知ってるだけじゃない
+そのうち二人と知り合いだぜ！</JapaneseText>
+      <EnglishText>Four people? Oh ho ho...
+The thing is, we don't just know about them,
+we're personally acquainted with two of them!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>なにせ、こいつの両親が、そうだからな</JapaneseText>
+      <EnglishText>Anyhow, I guess we owe that to the
+fact that they're his parents.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>両親が････英雄!?
+････！
+そうか、あいつらの････！</JapaneseText>
+      <EnglishText>Your parents are...heroes!?
+...!
+I see, you're their...!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>へっへ～！　驚いて
+声も出ないって感じだな</JapaneseText>
+      <EnglishText>Heh heh...! I take it that the shock has
+left you at a loss for words, eh?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>そんなことより、&lt;Loni&gt;
+早く、クレスタに戻ろうよ！
+そうじゃないと、冒険に････</JapaneseText>
+      <EnglishText>Never mind that, &lt;Loni&gt;,
+let's hurry up and get back to Cresta! If we
+don't, then we can't go on an adventure...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>わかってるって
+とはいえ、ここの牢屋は
+頑丈だからなぁ････</JapaneseText>
+      <EnglishText>Alright already.
+That being said though, the door to this
+cell is built like a friggin' rock...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>おい、おまえたち</JapaneseText>
+      <EnglishText>Hey, you two.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>んだよ？
+俺たちは忙しいんだよ
+見てわかんねぇか？</JapaneseText>
+      <EnglishText>Whaddaya want? 
+We're busy here, can't ya tell?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>ここを出たいのだろう？
+なら、僕にいい考えがある</JapaneseText>
+      <EnglishText>You want to leave this place, am I right?
+In that case, I have a great idea.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>ホント!?
+なに、いい考えって!?</JapaneseText>
+      <EnglishText>Really!?
+What's this great idea of yours!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>おいおい、&lt;Kyle&gt;
+こいつの言うことなんか</JapaneseText>
+      <EnglishText>信用すんなよ
+Hey now, &lt;Kyle&gt;, don't go
+trusting what this guy has to say.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>仮面で顔を隠してるような輩だぜ？
+なに考えてるか
+わかったもんじゃないぞ？</JapaneseText>
+      <EnglishText>You see how the guy's hiding his face behind a mask?
+There's no tellin' what the man's thinking, you know?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>でも、こんなところでグズグズしてたら
+あの子、どんどん遠くへ行っちゃうよ！
+オレ、早く冒険に出たいんだよ!!</JapaneseText>
+      <EnglishText>But that girl is just going to get
+farther and farther away from us if
+we sit around in a place like this!
+I want to hurry up and start on my adventure!!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>････わかったよ
+おまえの好きにしろ</JapaneseText>
+      <EnglishText>...Fine, I hear ya.
+Do as you please.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>決まり！
+それじゃ、教えてよ！
+え～っと････</JapaneseText>
+      <EnglishText>It's settled then!
+So, tell us about it!
+Um...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>名前か？
+････名前など、僕にとっては
+無意味なものだ</JapaneseText>
+      <EnglishText>My name?...
+Things such as names are meaningless to me.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText>?????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>おまえたちの好きなように
+呼べばいい</JapaneseText>
+      <EnglishText>You two can call me
+whatever you'd like.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>じゃあ････&lt;Judas&gt;！</JapaneseText>
+      <EnglishText>Okay then... &lt;Judas&gt;!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>&lt;Judas&gt;････か
+まあ、それで我慢してやろう</JapaneseText>
+      <EnglishText>&lt;Judas&gt;...huh.
+Oh well, I'll just have to deal with it.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>で、&lt;Judas&gt;さんよ
+こっからどうやって脱出するつもりだ？</JapaneseText>
+      <EnglishText>So, Mr. &lt;Judas&gt;, how do you intend
+to escape from this lovely place?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>簡単なことだ
+出口から出ればいい</JapaneseText>
+      <EnglishText>A simple enough matter.
+All we need to do is leave through the exit.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>出口からって････おい！</JapaneseText>
+      <EnglishText>Through the exit... hey!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>さがっていろ</JapaneseText>
+      <EnglishText>Stand back.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>ハァッ！</JapaneseText>
+      <EnglishText>Haa!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>すげえ････！</JapaneseText>
+      <EnglishText>Awesome...!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>なにをぼーっとしている？
+さっさといくぞ</JapaneseText>
+      <EnglishText>What are you gawking at?
+Let's get moving.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>&lt;Kyle&gt;は
+称号「&lt;item:00000809&gt;」を得ました
+&lt;Kyle&gt; acquired the title
+&quot;&lt;item:00000809&gt;&quot;.</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>&lt;Loni&gt;は
+称号「&lt;item:0000080C&gt;」を得ました</JapaneseText>
+      <EnglishText>&lt;Loni&gt; acquired the title
+&quot;&lt;item:0000080C&gt;&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>&lt;Judas&gt;が仲間になりました</JapaneseText>
+      <EnglishText>&lt;Judas&gt; joined your party.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>開かない</JapaneseText>
+      <EnglishText>It won't open.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>{16}{25}{CA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>{16}{25}{D2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Found {16}{25}{D2}{C0}, but
+inventory full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

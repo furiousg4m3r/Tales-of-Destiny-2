@@ -1,0 +1,444 @@
+<SceneText>
+  <FriendlyName>Laguna Ruins</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>隊長</JapaneseText>
+      <EnglishText>Commander</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>隊員</JapaneseText>
+      <EnglishText>Church Member</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>調査隊が来てるって言ってたけど、
+姿が見えないじゃんか</JapaneseText>
+      <EnglishText>You said that an investigation team is coming,
+but I don't see 'em anywhere, do you?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>どうやら俺たちの方が先に
+着いたらしいな････って言ってるそば
+から来やがった　&lt;Kyle&gt;、隠れろ！</JapaneseText>
+      <EnglishText>It appears that we somehow managed to
+get here before they did...and speak of
+the devil, here they come. Kyle, hide!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ここか？
+巨大レンズがあるという遺跡は</JapaneseText>
+      <EnglishText>So these are the ruins where
+the gigantic Lens is said to be.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>はっ！　自分は以前、確かにこの遺跡で
+レンズを目撃しました！</JapaneseText>
+      <EnglishText>Yes sir! I personally observed the Lens during a
+previous visit, so I can attest to its presence here!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>この遺跡はレンズが作られた時代の
+都市であると考えられています</JapaneseText>
+      <EnglishText>It is believed that these ruins date back to the
+era where cities were constructed out of Lenses.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>だから、レンズがあっても
+不思議ではないと言うのか？
+････疑わしいものだ</JapaneseText>
+      <EnglishText>And that is why you say that there is
+nothing strange about a Lens being here?
+...I somehow have my doubts.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>現物を見れば
+信じていただけるでしょう
+レンズはこの中です</JapaneseText>
+      <EnglishText>I hope that you will be able to
+believe us once you see the actual
+item. The Lens is inside here.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>おい、ソーサラースコープを</JapaneseText>
+      <EnglishText>Hey, bring out the Sorcerer's Scope.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>どうしよう････
+急がないと、あいつらに
+レンズを取られちゃうよ！</JapaneseText>
+      <EnglishText>What're we gonna do...
+those guys will end up taking
+the Lens if we don't hurry!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>とはいえ、正面から
+遺跡に入るのはヤバいな
+あいつらと、はち合わせしちまう</JapaneseText>
+      <EnglishText>Be that as it may, entering the
+ruins from the front is chancy.
+We may accidentally bump into them.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>じゃあ、あっちの横穴はどう？</JapaneseText>
+      <EnglishText>Then how about that tunnel over there?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ん････なんとか行けそうだな
+&lt;Kyle&gt;、急ぐぜ！</JapaneseText>
+      <EnglishText>Hm...that looks like it just might work.
+Kyle, let's get moving!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>あれ、ここは････？</JapaneseText>
+      <EnglishText>Huh, is this...?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>ラグナ遺跡だな</JapaneseText>
+      <EnglishText>The Laguna Ruins.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>かつては空中都市とよばれていた遺跡だが
+あらかた調べつくされて
+考古学的な価値はゼロって話だ</JapaneseText>
+      <EnglishText>The ruins of what used to be an aerial city,
+but it's been completely destroyed. There's
+no archeological value to it.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>････････
+････････････････</JapaneseText>
+      <EnglishText>......
+............</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>どうした？
+気になるものでもあったか？</JapaneseText>
+      <EnglishText>What's up?
+Is there something on your mind?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>いや、そうじゃないけど
+ここにいると
+なんだか不思議な感じがするんだ</JapaneseText>
+      <EnglishText>No, I'm not, but...
+When I'm here,
+I get this strange feeling.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>不思議な感じ？</JapaneseText>
+      <EnglishText>Strange, isn't it?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>口じゃうまく言えないよ
+ただ、だれかが呼んでるような
+それもよく知ってるはずのだれかが････</JapaneseText>
+      <EnglishText>I can't really put my finger on it.
+But it's like someone's calling me.
+And it's someone you know well...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>おい、気味悪ぃな
+うらみを残して死んだ女が････
+なんてのはゴメンだぜ</JapaneseText>
+      <EnglishText>Hey, I don't want a dead woman
+with a creepy grin on her face.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>そんなに気になるなら、いってこいよ
+ここで待っててやるから</JapaneseText>
+      <EnglishText>If it bothers you that much,
+go ahead, I'll wait here for you.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>うん、そうするよ
+ごめんね、&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Yeah, I will.
+I'm sorry, &lt;Loni&gt;.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>この辺から入っていった気がするけど････？
+見つかったらマズイし、オレたちは横穴から
+中に入ろう</JapaneseText>
+      <EnglishText>I think we went in from around here?
+If they see us, we'll have to go in through the side hole.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>ここが入口かなあ？
+でも、開け方が分からないや
+なにか道具が手に入ったら、また来てみよう</JapaneseText>
+      <EnglishText>I wonder if this is the entrance.
+I can't figure out how to open it,
+we need to come back with some tools.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>{16}{26}{16}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>{16}{26}{1E}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>{16}{36}{44}{C0}を
+&lt;0B:00000001&gt;{14}{36}{40}{C0}&lt;0B:00000000&gt;個手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>{16}{36}{44}{C0}が&lt;0B:00000001&gt;{14}{36}{48}{C0}&lt;0B:00000000&gt;個ありましたが
+これ以上もてません
+宝箱に戻しました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>{16}{36}{44}{C0}が&lt;0B:00000001&gt;{14}{36}{48}{C0}個ありましたが
+全部は持つことはできません
+・{14}{36}{40}{C0}個取り、{14}{36}{4C}{C0}&lt;0B:00000000&gt;個捨てる
+・宝箱に戻す</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

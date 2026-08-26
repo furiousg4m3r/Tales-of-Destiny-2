@@ -1,0 +1,690 @@
+<SceneText>
+  <FriendlyName>Cresta - Townhouse</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>おばあさん</JapaneseText>
+      <EnglishText>Elderly Woman</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>子供</JapaneseText>
+      <EnglishText>Child</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>司書</JapaneseText>
+      <EnglishText>Librarian</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>クレスタの街・長屋</JapaneseText>
+      <EnglishText>Cresta - Townhouse</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>クレスタの街</JapaneseText>
+      <EnglishText>Cresta City</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>長屋</JapaneseText>
+      <EnglishText>Townhouse</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;item:00000069&gt;を２個手に入れました</JapaneseText>
+      <EnglishText>Acquired 2x &lt;item:00000069&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>もう&lt;item:00000069&gt;は無い････</JapaneseText>
+      <EnglishText>Lost &lt;item:00000069&gt;...</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>旧オベロン社製品
+『レンズ湯わかし機』がある</JapaneseText>
+      <EnglishText>Formerly an Oberon product,
+this is a &quot;Lens Water Heater&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>『レンズ湯わかし機』は
+オベロン社の売れすじ商品
+だったらしい</JapaneseText>
+      <EnglishText>Apparently, the &quot;Lens Water Heater&quot;
+is Oberon's best-selling product.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>キレイなトイレだが
+別に何があるというわけでもない</JapaneseText>
+      <EnglishText>It's a clean bathroom, but it's
+not really anything special.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>マーボーカレーだ！</JapaneseText>
+      <EnglishText>Mapo Curry!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>う、うまい！</JapaneseText>
+      <EnglishText>Ooh, that's good!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>酒がある
+『アクアヴェイル産にごり酒・神殺し』
+アルコール度数８０度</JapaneseText>
+      <EnglishText>There's sake.
+&quot;Aquaveil Nigori Sake, God Killer.
+Alcohol content: 80%&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>オレはまだお酒は飲めないけど････
+これは飲まないほうが良い気がする････</JapaneseText>
+      <EnglishText>I'm not a drinker yet, but...
+I don't think I should drink this...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>おやまぁ、&lt;Loni&gt;
+ずいぶんと、男まえに
+なったじゃないかい</JapaneseText>
+      <EnglishText>Oh my, &lt;Loni&gt;!
+You've become quite
+the man, haven't you?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>そういうバアさんこそ
+あいかわらず、イイ女じゃねえか</JapaneseText>
+      <EnglishText>This lil' lady is still
+good-looking, isn't she?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>ホッホッホ、なに言ってるんだい
+あたしをクドこうなんて
+五十年おそいんだよ</JapaneseText>
+      <EnglishText>Whoa, whoa, whoa, what are you talking about?
+You can't seduce me,
+You're fifty years too late!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>いつまでもガキだと思ってたけど
+アンタもいい男になったもんだねえ</JapaneseText>
+      <EnglishText>I thought you'd always be a kid.
+You've become a good man, haven't you?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>&lt;Kyle&gt;
+あんたの父さんは
+すごくセクスィーな、イイ男だった････</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;
+Your father...
+He was a very sexy, good-looking man.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>あんたも、あたしごのみの
+イイ男になって、帰ってくるんだよ</JapaneseText>
+      <EnglishText>You're going turn out to
+be as good a man as he is.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>あんたたちの旅がうまくいくように
+アタモニさまに
+祈っといてあげようかね</JapaneseText>
+      <EnglishText>I'll pray to Atamoni that
+your journey goes well.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>そろそろスタンが旅から帰ってくるから
+&lt;Kyle&gt;も&lt;Loni&gt;も
+朝からはしゃぎっぱなしだよ</JapaneseText>
+      <EnglishText>It's about time Stahn came back from his trip.
+&lt;Kyle&gt; and &lt;Loni&gt; have been excited all morning.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>&lt;Kyle&gt;････</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>スタンったら&lt;Kyle&gt;をおいて
+旅に出ちまうなんてねえ
+まあ無事でなによりだよ</JapaneseText>
+      <EnglishText>I can't believe Stahn
+left Kyle behind.
+I'm glad you're okay.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>&lt;Kyle&gt;
+あんたも旅してセクスィーな嫁さんを
+見つけたみたいだねえ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, looks like you found
+a sexy wife on your travels.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>バ、バアちゃん！</JapaneseText>
+      <EnglishText>B-baa-chan!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>もうっ
+おばあさんったら････
+Jeez, granny...</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>あんたも女の子とデートするような
+としごろになったのかい</JapaneseText>
+      <EnglishText>Are you old enough
+to be dating a girl?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>スケベな&lt;Loni&gt;に
+似ないといいがねえ････</JapaneseText>
+      <EnglishText>I hope you don't end up
+like that perverted &lt;Loni&gt;.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>&lt;Kyle&gt;、恋人でもさがしに行くのかい？
+あたしも新たな恋をさがして
+旅に出ようかねえ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, are you going to look for your lover?
+I can't go on a journey looking for new love.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>いつになったら
+白馬の王子さまは
+あたしをむかえにくるのかねえ</JapaneseText>
+      <EnglishText>I wonder when my prince charming on
+a white horse will come to meet me.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>へっへ～♪
+見てくれよ、&lt;Kyle&gt;！
+さっきレンズ拾ったんだ</JapaneseText>
+      <EnglishText>Heh...
+Look at this, &lt;Kyle&gt;!
+I just picked up a lens.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>ふ～ん、レンズかぁ
+俺がガキのころは、オベロン社製の
+便利なレンズ商品があったなぁ</JapaneseText>
+      <EnglishText>Hmmm...when I was a kid, Oberon
+made useful products with lens.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>でも、今どきレンズなんか持ってても
+アタモニ神団にくれてやるしか
+使い道がないぞ</JapaneseText>
+      <EnglishText>But even if you have a lens nowadays,
+the only use for it is to give it to
+the Church of Atamoni.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>さっきひろったレンズ
+いったい、なにに使おうかなあ？
+う～ん････</JapaneseText>
+      <EnglishText>The lens I just picked up,
+what should I use it for?
+Hmmm... </EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>クレスタじゃ、お金にもかえられないし
+価値が無いなあ</JapaneseText>
+      <EnglishText>It's not even worth
+anything in Cresta.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>&lt;Kyle&gt;、英雄ごっこしようぜ！
+オレがスタン役で
+&lt;Kyle&gt;はリオン役！</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, let's play hero!
+I'll play Stahn.
+&lt;Kyle&gt;, you play Leon!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>ええ～っ！
+リオンなんて悪役じゃないか
+オレ、ヤだよ！</JapaneseText>
+      <EnglishText>Oh, no!
+Leon's a villain!
+I don't want to!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>ちぇっ
+誰もリオン役をやってくれないんだよな</JapaneseText>
+      <EnglishText>Tsk.
+No one's going to play Leon, are they?</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>ま、裏切り者の役なんて
+誰もやりたがらないよなー</JapaneseText>
+      <EnglishText>Well, no one wants to play
+the role of a traitor, right?</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>お、&lt;Kyle&gt;じゃん！
+おかえり！
+もう、英雄にはなれたのか？</JapaneseText>
+      <EnglishText>Hey, it &lt;Kyle&gt;!
+Welcome back!
+Did you become a hero?</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>英雄････か････
+どうして、オレは英雄になりたいって
+思ったんだっけ････</JapaneseText>
+      <EnglishText>A hero...huh...
+Why did I want to be a hero?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>なんだ、&lt;Kyle&gt;
+英雄になれたんじゃなかったの？</JapaneseText>
+      <EnglishText>What...&lt;Kyle&gt;,
+I thought you were supposed to be a hero.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>おれ、もう少し大きくなったら
+&lt;Kyle&gt;みたいに
+英雄を目指すよ！</JapaneseText>
+      <EnglishText>When I grow up,
+I'm going to be
+a hero like &lt;Kyle&gt;!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>いや、おまえにはここに残って
+母さんや、みんなのことを
+守ってほしいんだ</JapaneseText>
+      <EnglishText>No, I need you to stay here
+and protect your mother and
+everyone else.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>そっか、そうだよな
+&lt;Kyle&gt;も&lt;Loni&gt;もいなくなっちゃったら
+オレがクレスタを守らなきゃな</JapaneseText>
+      <EnglishText>Oh, yeah, that's right.
+With &lt;Kyle&gt; and &lt;Loni&gt; gone,
+I'll have to protect Cresta.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>四英雄の故郷をたずねて
+はるばるハイデルベルグから
+やって来ました</JapaneseText>
+      <EnglishText>I came all the way from
+Heidelberg to visit the
+home of the four heroes.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>英雄にふさわしい大きな街だと
+思っていましたが
+なんとも牧歌的なところですね</JapaneseText>
+      <EnglishText>I thought it would be a
+big city, fit for a hero,
+but what an idyllic place.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>ルーティさんにお会いしましたが
+飾らない、ステキな人でした</JapaneseText>
+      <EnglishText>I've met with Rutee.
+She is a lovely person.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>なるほど、確かにあの人は
+英雄ですよ
+素晴らしい女性ですね</JapaneseText>
+      <EnglishText>Well, she's a hero,
+that's for sure, and
+a wonderful woman.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>さて、そろそろハイデルベルグに
+帰らなくては</JapaneseText>
+      <EnglishText>Well, I'd better get
+back to Heidelberg.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>余りに居心地が良いので
+つい長居をしてしまいましたよ</JapaneseText>
+      <EnglishText>It was so comfortable that I ended
+up staying there for a long time.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>クレスタでの日々は
+良い思い出になりました</JapaneseText>
+      <EnglishText>My days in Cresta were
+filled with good memories.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>いつの日か
+また来てみたいですね</JapaneseText>
+      <EnglishText>I'd love to come back someday.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>四英雄の本を書こうと思って
+はるばるハイデルベルグから
+取材に来ました</JapaneseText>
+      <EnglishText>I came all the way from
+Heidelberg to write a book
+about the four heroes.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>スタンさんとルーティさんに
+お会いしましたが
+二人とも、暖かく歓迎してくれましたよ</JapaneseText>
+      <EnglishText>I met with Stahn and Rutee,
+they both gave me a warm welcome.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>四英雄とはどんなに偉い人かと思いましたが
+お二人とも素朴で優しい人でした</JapaneseText>
+      <EnglishText>I wondered how great the four heroes were,
+but they were both simple and kind.</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>{16}{25}{CA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>{16}{25}{D2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

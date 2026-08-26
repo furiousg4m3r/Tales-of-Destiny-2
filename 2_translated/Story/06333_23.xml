@@ -1,0 +1,489 @@
+<SceneText>
+  <FriendlyName>Laguna Ruins</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>隊長</JapaneseText>
+      <EnglishText>Captain</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>隊員</JapaneseText>
+      <EnglishText>Troops</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;item:000000B5&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:000000B5&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ここはレンズ無し部屋です</JapaneseText>
+      <EnglishText>This is a room without lens.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>あっ、待ってよ、君！
+ねえってば！</JapaneseText>
+      <EnglishText>Ah, wait up, you!
+Hey, I said wait!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>いったいなんなんだ？
+いきなりレンズの中から出てくるわ
+何事もなかったかのように立ち去るわ</JapaneseText>
+      <EnglishText>What the hell was that all about?
+Oh look, I just popped out of a Lens all of a sudden.
+Oh look, I'm just going to leave as if nothing happened.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>おまけに
+「英雄を探しているの」だぜ？</JapaneseText>
+      <EnglishText>And then she goes and tops it off with
+&quot;I'm searching for a hero&quot;?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>追おう、&lt;Loni&gt;！</JapaneseText>
+      <EnglishText>Let's go after her, &lt;Loni&gt;!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>追うって････
+あの子をか!?</JapaneseText>
+      <EnglishText>Go after her...
+You mean after that girl!?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>早く行こうよ！</JapaneseText>
+      <EnglishText>C'mon, let's go, hurry!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>うわっ！　ヤバ････</JapaneseText>
+      <EnglishText>Gah! Christ on a...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>なんだ、貴様らは!?
+ここでなにをしている！</JapaneseText>
+      <EnglishText>Identify yourselves, you rogues!
+What do you think you're doing here!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>た、大変です！
+レンズが、なくなってます！</JapaneseText>
+      <EnglishText>T, this is terrible!
+The Lens, it has disappeared!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>なにッ！　どういうことだ!?</JapaneseText>
+      <EnglishText>What! What do you mean!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>自分は以前、この部屋で
+巨大なレンズを確かに見ました！
+それが跡形もなく････</JapaneseText>
+      <EnglishText>I am certain that I saw a gigantic Lens in
+this room during my last visit!
+It has vanished without a trace...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>レンズをどこへやった!?
+さあ、言えッ！</JapaneseText>
+      <EnglishText>What have you done with the Lens!?
+Come now, speak up!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>し、知るもんか！
+オレたちだって、なにがなんだか
+さっぱり、わからないんだ！</JapaneseText>
+      <EnglishText>H, hell if I know!
+It's not like we have the foggiest
+idea about what's going on either!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>いきなり、女の子が出てきて
+レンズが砕けて････</JapaneseText>
+      <EnglishText>This girl came out of nowhere,
+the Lens broke, and then...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>なっ････！
+貴重な巨大レンズを割るとは
+バカなことを････！</JapaneseText>
+      <EnglishText>Wha...!
+What manner of a fool would shatter a
+precious Lens of that size...!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>おい、こいつらを
+ひっとらえろ！
+そっちの男もだ!!</JapaneseText>
+      <EnglishText>You there, arrest this person!
+And that man as well!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>た、隊長！
+こいつ、&lt;Loni&gt;＝デュナミスです!!</JapaneseText>
+      <EnglishText>C, Captain!
+This person is &lt;Loni&gt; Dunamis!!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>････あちゃ～</JapaneseText>
+      <EnglishText>Ho boy...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>貴様････護衛兵でありながら
+盗っ人と共にいるとは
+どういうことだ!?</JapaneseText>
+      <EnglishText>You lout...why are you, a military escort,
+in the company of a thief!?
+Explain yourself!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>盗っ人って、オレのこと!?</JapaneseText>
+      <EnglishText>Are you calling me a thief!?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>他に誰がいる！</JapaneseText>
+      <EnglishText>Who else would I be referring to!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>オレは、盗っ人なんかじゃない！</JapaneseText>
+      <EnglishText>I'm not some sort of thief!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>盗っ人は、みんなそう言うんだ！
+さぁ、いっしょに来てもらおうか
+貴様もだぞ、&lt;Loni&gt;！</JapaneseText>
+      <EnglishText>All thieves say that!
+Now then, you'll be coming with us.
+And you as well, Loni!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>････なりゃ････だ････！</JapaneseText>
+      <EnglishText>If this's...then...!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>聞いてるのか
+&lt;Loni&gt;＝デュナミス！</JapaneseText>
+      <EnglishText>Did you not hear me, &lt;Loni&gt; Dunamis!?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>････あぁもう、やぶれかぶれだ！</JapaneseText>
+      <EnglishText>That's it, I've had it up to here with you people!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>こうなりゃ強行突破だ！
+ついてこい、&lt;Kyle&gt;！</JapaneseText>
+      <EnglishText>If this's how ya want it,
+then I'm bustin' my way outta here!
+Come with me, &lt;Kyle&gt;!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>&lt;Loni&gt;っ！</JapaneseText>
+      <EnglishText>&lt;Loni&gt;!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>ダリルシェイドへ連行しろ！
+レンズの行方を
+かならず、はかせるんだ！</JapaneseText>
+      <EnglishText>Take them to Darilshade!
+Make them disclose the whereabouts of the
+Lens by any means necessary!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>はッ！</JapaneseText>
+      <EnglishText>Yes sir!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>なぜだろう？
+ここへ来るのは
+初めてじゃないような気がする････</JapaneseText>
+      <EnglishText>Why do I get this feeling that
+this is not the first time I've been here?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>なんだろう？
+この胸の痛みは････</JapaneseText>
+      <EnglishText>What is this?
+This pain in my chest is...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>････気のせいかな？</JapaneseText>
+      <EnglishText>...just my imagination?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>&lt;Loni&gt;が待ってるし
+もう帰ろう････</JapaneseText>
+      <EnglishText>&lt;Loni&gt; is waiting for me,
+let's go home now.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>#{16}{25}{C6}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C6}{C0}.
+Acquired {16}{25}{C6}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>{16}{25}{CE}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Found {16}{25}{CE}{C0}, but
+inventory full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,775 @@
+<SceneText>
+  <FriendlyName>Cresta Inn &amp; Grocery</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>食材屋</JapaneseText>
+      <EnglishText>Grocery</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>雷光のネルソン</JapaneseText>
+      <EnglishText>Lightning Nelson</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>シェフ</JapaneseText>
+      <EnglishText>Chef</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>クレスタの街・宿屋＆食材屋</JapaneseText>
+      <EnglishText>Cresta Inn &amp; Grocery</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>クレスタの街</JapaneseText>
+      <EnglishText>Cresta City</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>宿屋＆食材屋</JapaneseText>
+      <EnglishText>Inn &amp; Grocery</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ちょっと&lt;Kyle&gt;！
+そんなにたくさん持って行っちゃ
+ダメでしょ！</JapaneseText>
+      <EnglishText>Hey, Kyle!
+You can't take
+that many with you!</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>大きな肉が、火であぶられている････</JapaneseText>
+      <EnglishText>A large piece of meat is being fried in the fire...</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>これは食用の花のようだ
+宿屋の料理で使うのだろう</JapaneseText>
+      <EnglishText>These appear to be edible flowers,
+to be used in the innkeeper's cooking.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>食用花をそれとなく食べてみた
+さすがに生ではまずかった</JapaneseText>
+      <EnglishText>I tried to eat the edible flowers
+without thinking about it, but
+they were indeed not good raw.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>おっ!?
+そこに居るのは
+つむじ風の&lt;Loni&gt;じゃないか！</JapaneseText>
+      <EnglishText>Whoa!
+It's Whirlwind &lt;Loni&gt;,
+in the flesh!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>よう、ネルソン！久しぶりだな！
+相変わらずジョーと一緒に
+スカートめくりやってんのか？</JapaneseText>
+      <EnglishText>Hey, Nelson! Long time no see!
+Are you still flipping skirts with Joe?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>ハハハ！　俺はもう所帯持ちだからな
+いつまでも遊んでられないよ</JapaneseText>
+      <EnglishText>Ha ha ha!　I've got a family now,
+so I can't keep playing with you.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>なっ････
+お前、結婚したのか!?</JapaneseText>
+      <EnglishText>Huh...
+You're a married man now?!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>&lt;Loni&gt;は、相変わらず
+独り身なのか？</JapaneseText>
+      <EnglishText>&lt;Loni&gt;, are you still single?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ああ！　モテねーんだよ！
+ちくしょう！　俺とジョーとお前は
+ずっと独り身だと思ってたのに！</JapaneseText>
+      <EnglishText>Agh, I'm not popular, dammit! I thought
+me, you, and Joe would be forever alone!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>イヤな想像をしないでくれよ････</JapaneseText>
+      <EnglishText>Don't get any bad ideas from me...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>昔は俺とジョーと&lt;Loni&gt;で
+伝説を作ったもんだな</JapaneseText>
+      <EnglishText>Back in the day, me, Joe, and &lt;Loni&gt;
+would make legends of our own.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>だが少年の日々は、もう終わりさ
+俺、もうすぐ父親になるんだ</JapaneseText>
+      <EnglishText>But my boyhood days are over, and
+I'm going to be a father soon.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>なにっ！
+一人だけ良い思いしやがって！
+こ、この裏切り者め！</JapaneseText>
+      <EnglishText>What the hell! You're the only one
+living the good life!
+You little traitor!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>俺と同い年のヤツが、もうオヤジに
+なるなんてな････
+複雑な気分だぜ</JapaneseText>
+      <EnglishText>I can't believe you're my age
+and already an old man...
+It's perplexing.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>まあ、お前には一生、機会がない
+ことだろうからな</JapaneseText>
+      <EnglishText>Well, you probably won't have a
+chance for the rest of your life.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>俺、もうすぐ父親になるんだよ
+早く俺とジョーと&lt;Loni&gt;がつくった
+伝説を語り継ぎたくて
+ウズウズしてるんだ</JapaneseText>
+      <EnglishText>I'm going to be a father soon,
+and I'm itching to pass on the
+legend that &lt;Loni&gt;, Joe, and I've created.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>スカートめくりの話なんて
+語り継がないほうが････</JapaneseText>
+      <EnglishText>It's better not to retell the
+story of the skirt-flipping...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>&lt;Kyle&gt;、俺たちの伝説をナメちゃいけない
+俺たちの活躍は四英雄に匹敵するほどなんだぜ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, don't underestimate our legends,
+our exploits rival those of the Four Heroes.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>よお&lt;Loni&gt;
+どっか行くのか？</JapaneseText>
+      <EnglishText>Yo, Loni,
+are you going somewhere?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>ああ
+運命の出会いってやつを
+さがしにな</JapaneseText>
+      <EnglishText>Yeah, I'm looking for
+a meeting with destiny.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>運命の出会いー？
+止めとけ止めとけ！
+お前に見つけられるハズがないって！</JapaneseText>
+      <EnglishText>Meeintg with destiny's meeting?
+Stop, stop, stop! There's no way
+you're gonna find it!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>つむじ風の&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Whirlwind &lt;Loni&gt;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>なんか、ヒドい言われようだな････</JapaneseText>
+      <EnglishText>What an awful thing to say...</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>俺も、もうすぐ父親だ
+時の流れってのは早いもんだぜ</JapaneseText>
+      <EnglishText>I'm going to be a father, soon
+Time just flies.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>&lt;Kyle&gt;、ガキの頃なんて
+あっという間に過ぎちまう
+今のうちに、せいぜいバカを
+やっておきな</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, your childhood will be over
+before you know it, so go ahead and
+make a fool of yourself while you can.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>&lt;Loni&gt;は
+称号「&lt;item:0000082E&gt;」を得ました</JapaneseText>
+      <EnglishText>&lt;Loni&gt; got the title
+&quot;&lt;item:0000082E&gt;&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>宿屋</JapaneseText>
+      <EnglishText>Inn</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>いらっしゃい&lt;Kyle&gt;！
+オヤツでも買いに来たのかい？</JapaneseText>
+      <EnglishText>Welcome, &lt;Kyle&gt;!
+Have you come to buy some snacks?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>ありがとうね！</JapaneseText>
+      <EnglishText>Thanks!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>またね！</JapaneseText>
+      <EnglishText>See you later!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>食材屋</JapaneseText>
+      <EnglishText>Grocer</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>いらっしゃい&lt;Kyle&gt;！
+ゆっくりしておいきよ</JapaneseText>
+      <EnglishText>Welcome, &lt;Kyle&gt;!
+Take your time.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>{16}{34}{8C}{C0}作ってる？</JapaneseText>
+      <EnglishText>Are you making {16}{34}{8C}{C0}?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>{16}{34}{8C}{C0}の作り方を
+知りたいですか？</JapaneseText>
+      <EnglishText>Do you want to know
+how to make {16}{34}{8C}{C0}?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>{16}{34}{8C}{C0}の作り方を
+教えてあげよう</JapaneseText>
+      <EnglishText>I'll show you how
+to make a {16}{34}{8C}{C0}.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>自分で作るのかい？
+まぁ、それもいいだろう</JapaneseText>
+      <EnglishText>You want to make your own?
+Well, suit yourself.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>{16}{34}{8C}{C0}のレシピがあるんだが、
+&lt;0B:00000001&gt;{14}{34}{84}{C0}&lt;0B:00000000&gt;ガルドで買わないか？</JapaneseText>
+      <EnglishText>I've got a recipe for {16}{34}{8C}{C0}.
+Would you like to by it for &lt;0B:00000001&gt;{14}{34}{84}{C0}&lt;0B:00000000&gt; gald?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>シェフ</JapaneseText>
+      <EnglishText>Chef</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>お金が足りないね</JapaneseText>
+      <EnglishText>You don't have enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>{16}{34}{8C}{C0}のレシピを
+売ってあげよう</JapaneseText>
+      <EnglishText>I'll sell you the
+recipe for {16}{34}{8C}{C0}.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>まぁ、しようがないな</JapaneseText>
+      <EnglishText>Well, I can't help it.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>{16}{24}{90}{C0}、{16}{24}{92}{C0}、{16}{24}{94}{C0}、
+{16}{24}{96}{C0}、{16}{24}{98}{C0}</JapaneseText>
+      <EnglishText>{16}{24}{90}{C0}, {16}{24}{92}{C0}, {16}{24}{94}{C0},
+{16}{24}{96}{C0}, {16}{24}{98}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>{16}{34}{8C}{C0}を作るのに必要な食材は
+{18}{44}{88}{C0}です</JapaneseText>
+      <EnglishText>{18}{44}{88}{C0} is needed
+to make {16}{34}{8C}{C0}.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>材料を持っているじゃないか</JapaneseText>
+      <EnglishText>You have the ingredients.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>ゆずってくれれば{16}{34}{8C}{C0}を
+作るがどうだい？</JapaneseText>
+      <EnglishText>How about you give it to me,
+and I'll make {16}{34}{8C}{C0}?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>そうか、待ってな　
+すぐに{16}{34}{8C}{C0}を作ってやるよ</JapaneseText>
+      <EnglishText>Alright, just wait.
+I'll make some {16}{34}{8C}{C0} right away.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>残念だな
+凄く美味いのに･･･</JapaneseText>
+      <EnglishText>It's a shame,
+because it's really good...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>食材を探しているんだ
+見つけたら持ってきてくれないかい？</JapaneseText>
+      <EnglishText>I'm looking for some ingredients.
+If you find it, could you bring it to me?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>お前には資格がない
+また、出直して来るといい</JapaneseText>
+      <EnglishText>You're not qualified, and you're
+gonna have to come back with more.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>お前のような奴を待ってた
+これをゆずるのに相応しい料理人を</JapaneseText>
+      <EnglishText>I've been waiting for someone like you,
+a cook worthy to take this place.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>{16}{34}{8C}{C0}のレシピを拾いました</JapaneseText>
+      <EnglishText>Acquired recipe for {16}{34}{8C}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>{16}{34}{A0}{C0}の作り方を覚えました</JapaneseText>
+      <EnglishText>Leanred how to make {16}{34}{A0}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay the night?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Don't have enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>I look forward to seeing you again.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>{16}{25}{EE}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{EE}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>{16}{25}{F6}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{F6}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>
