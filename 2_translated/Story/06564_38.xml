@@ -1,0 +1,2442 @@
+<SceneText>
+  <FriendlyName>地上軍拠点</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Harold&gt;</JapaneseText>
+      <EnglishText>Harold</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>『２８０ｍｍ地対地丸太砲』がある</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ここが千年前の世界
+天地戦争時代か････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>さて、着いたはいいけど
+これからどうする？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>まずは、情報を集めなくてはな
+エルレインが、どうやって天地戦争の
+勝敗をひっくり返すつもりなのか････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>それがわからないことには
+動きようがない</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>ところでよ、ここって････
+地上軍の拠点じゃねえか？
+ほら、イクシフォスラーが置いてあった</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>たしかにそうだな
+ちょうどいい、ここなら
+情報も集めやすい</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>じゃあ、まずは
+ここにいる人から
+話を聞いてみよう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>････なんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>待ちなさ～～～い！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>こらあっ！　あんたのマスターは
+この私なのよっ！
+言うこと聞きなさい！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>ちょっとばかし試作パーツを
+組みこんだぐらいで暴走するなんて！
+こらぁ～～～～っ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>なんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>さぁ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>止まれっていうのが、わからないの
+このポンコツが！
+スクラップにして、ジャンク箱行きよ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>な、なによ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>こらあぁ～～～～っ！
+私は、あんたのマスターだって
+言ってるでしょうがっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>あの、ちょっと････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>ムダだ、&lt;Reala&gt;
+どうやら、取りこみ中らしい</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>う、うわっ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>ちょ、ちょっとあんた！
+なに隠れてんだよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>ちょっと、あんたたち！
+あれ、チャッチャと
+片づけちゃって！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>････もしかしてそれは
+俺たちに言ってるのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>他の誰に、言ってるように聞こえる？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>俺たちは関係ないだろうが！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>どうやら、あいつは
+僕たちも敵とみなしたようだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>冷静に言ってる場合か！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>ほら、グチってるヒマはないよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>ふぅ、ビックリしたぁ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>まったく、いきなり
+こんなことに巻きこまれるとは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>おい、ねーちゃん
+ケガはなかったか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>････････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>････な、なんだよ？
+俺の顔に、なんかついてるか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>････････とうっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>でぇ！　なっ、なっ、なっ････
+なにしやがる、この野郎！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>なにって、仕返し</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>はぁ!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>私のＨＲＸ－２型
+壊したでしょ？
+だから、仕返し</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>仕返しって････おまえ自分で
+「片づけちゃって！」
+とか言ってただろうが！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>いいじゃない
+本来なら軍法会議もののところが
+跳び蹴りですんだのよ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>軍法会議!?
+それじゃ、これって････
+地上軍のものなの!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>ま、しょうがないわよねぇ
+あんたたち、未来から来たんだから
+事情もわからなかったんだろうし</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>ちょ、ちょっとまってよ！
+なんにも言わないのに、どうして････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>あ、当たってた？
+イチバン可能性がないものを
+言ってみたんだけど</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>カマをかけた、というわけか
+まんまと乗せられたな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>････それにしても
+どうして、僕たちが未来人だ
+などと思ったんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>根拠は、時空間の歪みから生ずる
+大気中の成分の変化から
+あくびの仕方まで、三十六通りほどあるけど</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>ま、イッチバン大きかったのは「カン」ね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>カン････？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>ほら、女のカンは
+カオス理論をも越えるって
+よく言うじゃない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>ね、ねぇ
+「かおすりろん」って、なに？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>さぁ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>とにかく、このねーちゃんはヤバいぞ
+とっととずらかろうぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>しかし、あのロボットを
+操っていたということは
+おそらく、軍の関係者だろう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>しかも、機械を扱っているということは
+&lt;Harold&gt;博士の助手かもしれん</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>&lt;Harold&gt;博士って、
+オレたちが使ったイクシフォスラーを
+作った人だよね？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>博士ならば、
+エルレインの介入に関しても、
+なにかつかんでいるかも知れない</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>それに博士は、軍師カーレルの双子の弟だ
+軍関係の情報も詳しいだろう
+やはり、&lt;Harold&gt;博士に面会を････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>呼んだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>よ、呼んでないよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>で、でもさ････
+あの人、ホントに学者なの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>まず、それが疑わしいよなぁ
+泣く子もダマる天才科学者の
+助手っていうには、ムリがねえか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>ねぇ、呼んだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>呼んでないってば！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>だって今「天才科学者」って
+それ、私のことでしょ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>････あんたじゃねえよ
+あんたの上司････かどうかは知らねえが
+&lt;Harold&gt;博士って、知ってるんだろ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>もしできるのなら、会わせてほしい
+話がしたいんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>話がしたいの？
+そんなこと、お安いご用よ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>ホント？
+じゃあ、博士のところまで
+案内してよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>その必要はないわ
+さ、話して</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>お、おいおい、話が違うじゃねーか！
+俺たちは、&lt;Harold&gt;博士に
+話があってだな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>だから、ここで話せばいいじゃない！
+わかんないやつねぇ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>だぁーかぁーら！　俺たちは
+&lt;Harold&gt;博士に話があるんで
+助手であるあんたには････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>助手？　私が？
+誰の助手なの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>････おまえは、&lt;Harold&gt;博士の
+助手じゃないのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>私は、助手なんかじゃないわよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>ハァ････アホらし････
+さ、行こうぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>だって、私が&lt;Harold&gt;だもの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>はいはい、わかったわかった
+あんたが&lt;Harold&gt;････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>え？　ほ、ホントに････？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>うん</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>くだらない冗談はよせ
+おまえが&lt;Harold&gt;博士なわけが････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>あんたの背中にあるの
+シャルティエでしょ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>細身の曲刀で、刃渡り６７．３cｍ
+柄も含めた全長は８１．７cｍ
+重さは２．６４ｋｇ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>柄はシャルティエ自身の
+手にあわせて若干ふくらみを持たせてる
+レリーフに刻まれてるのはジェルベ模様</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>属性は地
+主に石や岩などを用いた晶術を使用････
+あ、初期状態で使える晶術も聞きたい？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>そこまで詳細なデータを････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>把握していて当然よ
+設計者なんだから</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>で、でもよぉ！
+&lt;Harold&gt;博士は男だろうが！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>あ、やっぱりそういうことに
+なってるんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>いや～、男の名前にしとけば
+み～んなカン違いすると思ったのよねぇ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>案の定、みんな、まんまと
+ダマされてるってワケね！
+グフ、グフフフッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>じゃ、じゃあ
+あなたは本当に
+&lt;Harold&gt;博士････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>あぁ、&lt;Harold&gt;でいいわよ
+「博士」って、言葉の響きが硬すぎて
+かわいくないし</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>かわいくないって････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>さて、じゃ行きましょうか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>ちょ、ちょっと待って
+行くって、どこに････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>みんなに、あんたたちを紹介するわ
+私の部下ってことでね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>そしたら、ラディスロウの中でも
+動きやすいでしょ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>････それと、これはマジメな話
+あんたたちが、この時代に来た理由
+絶対に、ナイショにしておいてね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>うん、わかった！
+&lt;Harold&gt;以外の人間には
+絶対に言わないよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>違う、違う！
+私にもナイショにしておくの！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>え？　だって････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>こんな、おもしろい問題があるのに
+答えをいきなり聞いちゃったら
+つまらないじゃない！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>いい？　私が考えてる最中は
+答えを絶対に言っちゃダメよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>それじゃ、ラディスロウの中へ
+レッツゴー！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>････と、とにかく
+行こうか、みんな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>&lt;Harold&gt;が仲間になりました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>141</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>142</Id>
+      <JapaneseText>&lt;Harold&gt;博士
+リトラー総司令がお呼びです
+すぐに「作戦会議室」へ出頭してください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>143</Id>
+      <JapaneseText>やっぱ、ディムロスさんのこと････だよね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>144</Id>
+      <JapaneseText>ま、行けばわかるわよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>145</Id>
+      <JapaneseText>士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>146</Id>
+      <JapaneseText>&lt;size:0000019C&gt;天上軍と地上軍！
+この戦争に勝つのは
+どちらであるかっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>147</Id>
+      <JapaneseText>下士官Ａ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>148</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>149</Id>
+      <JapaneseText>下士官Ｂ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>150</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>151</Id>
+      <JapaneseText>下士官Ｃ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>152</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>153</Id>
+      <JapaneseText>士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>154</Id>
+      <JapaneseText>&lt;size:0000019C&gt;リトラー総司令と
+ラディスロウに向けて
+万歳三唱！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>155</Id>
+      <JapaneseText>士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>156</Id>
+      <JapaneseText>&lt;size:0000019C&gt;天上軍と地上軍！
+この戦争に勝つのは
+どちらであるかっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>157</Id>
+      <JapaneseText>下士官Ａ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>158</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>159</Id>
+      <JapaneseText>下士官Ｂ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>160</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>161</Id>
+      <JapaneseText>下士官Ｃ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>162</Id>
+      <JapaneseText>&lt;size:00000200&gt;地上軍であります！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>163</Id>
+      <JapaneseText>士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>164</Id>
+      <JapaneseText>&lt;size:0000019C&gt;ソーディアン諸兄に
+対して万歳三唱！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>165</Id>
+      <JapaneseText>下士官Ａ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>166</Id>
+      <JapaneseText>&lt;size:00000200&gt;万歳！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>167</Id>
+      <JapaneseText>下士官Ｂ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>168</Id>
+      <JapaneseText>&lt;size:00000200&gt;万歳！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>169</Id>
+      <JapaneseText>下士官Ｃ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>170</Id>
+      <JapaneseText>&lt;size:00000200&gt;万歳！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>171</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>172</Id>
+      <JapaneseText>彗星が落ちてすぐ、あらゆる
+軍隊や治安維持部隊は力を失った</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>173</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>174</Id>
+      <JapaneseText>なにせ、物資も人員の補給も
+まったく出来なくなったんだからな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>175</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>176</Id>
+      <JapaneseText>こんな木の棒で
+ベルクラントに立ち向かうことに
+なろうとはな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>177</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>178</Id>
+      <JapaneseText>よくもまあ、いままでベルクラントに
+撃たれなかったもんだよな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>179</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>180</Id>
+      <JapaneseText>へっ
+天上軍にはまともな照準手が
+いないんだろうよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>181</Id>
+      <JapaneseText>下士官</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>182</Id>
+      <JapaneseText>錬度の無い兵隊ほど
+役に立たないものはないな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>183</Id>
+      <JapaneseText>門衛</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>184</Id>
+      <JapaneseText>サー
+ここ数日、敵性目標は
+目撃されておりません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>185</Id>
+      <JapaneseText>門衛</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>186</Id>
+      <JapaneseText>状況に変化があるまで
+監視任務を続行いたします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>187</Id>
+      <JapaneseText>門衛</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>188</Id>
+      <JapaneseText>サー
+自分たちになにか不手際でも？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>189</Id>
+      <JapaneseText>いや、邪魔をして悪かったな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>190</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>191</Id>
+      <JapaneseText>このあたりで
+配給されるはずの物資の横流しが
+行われているというのだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>192</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>193</Id>
+      <JapaneseText>貴重な物資をなんだと思っているのだ
+犯人を必ず見つけて営倉に
+叩きこんでくれる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>194</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>195</Id>
+      <JapaneseText>食料、装備、あらゆる物が足りない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>196</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>197</Id>
+      <JapaneseText>士気が高いうちは、まだ不満を
+押さえることが出来るが
+限界が近いのは誰の目にも明らかだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>198</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>199</Id>
+      <JapaneseText>次の作戦に、全ての物資を
+まわせと通達が来た</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>200</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>201</Id>
+      <JapaneseText>だが、もし作戦が失敗したら
+どうなるのだ
+食べる物も持たず
+この吹雪の中で凍え死ねというのか</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>202</Id>
+      <JapaneseText>あんたアホね
+突入作戦が失敗したら
+遅かれ早かれ地上軍は全滅よ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>203</Id>
+      <JapaneseText>だったら持てる力の全てを
+この作戦にまわすべきじゃない</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>204</Id>
+      <JapaneseText>補給将校</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>205</Id>
+      <JapaneseText>本当に勝てる見こみがある上での
+命令なのだろうか
+私は納得できない････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>206</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>207</Id>
+      <JapaneseText>おまえら、ずいぶんと変わった
+装備をつけてるな
+所属はどの隊だ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>208</Id>
+      <JapaneseText>隊？軍隊の事はよく分からないよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>209</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>210</Id>
+      <JapaneseText>分からない？
+ああ、さては臨時徴兵された
+民兵だな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>211</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>212</Id>
+      <JapaneseText>なげかわしいな
+民間人に武器を持たせるなんて
+軍隊の面目が無いじゃねえか</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>213</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>214</Id>
+      <JapaneseText>軍人ってのは民間人を守るために
+存在してるんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>215</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>216</Id>
+      <JapaneseText>その民間人の力をかりなきゃ
+いけないなんて、本末転倒だぜ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>217</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>218</Id>
+      <JapaneseText>いよいよダイクロフト突入作戦が
+発動されるらしいな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>219</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>220</Id>
+      <JapaneseText>敵の本拠地に乗りこむんだ
+生きては帰れないかもしれんな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>221</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>222</Id>
+      <JapaneseText>だが、それでもやるしかないんだ
+この世界の命運がかかってるんだからな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>223</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>224</Id>
+      <JapaneseText>もし生き残ったら
+軍人は廃業だな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>225</Id>
+      <JapaneseText>兵卒</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>226</Id>
+      <JapaneseText>ストレイライズ教団にでも入って
+平和に暮らしたいもんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>227</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>228</Id>
+      <JapaneseText>なあ、信じられるかい？
+ベルクラントみたいな兵器にたいして
+俺たちは剣と弓で戦いを挑んでるんだぜ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>229</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>230</Id>
+      <JapaneseText>イカれてるぜ
+勝てっこねえよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>231</Id>
+      <JapaneseText>元空挺兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>232</Id>
+      <JapaneseText>俺はもともと空挺兵だったんだが
+今じゃ飛行機なんざ一機も
+残ってない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>233</Id>
+      <JapaneseText>元空挺兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>234</Id>
+      <JapaneseText>いや、たとえ残っていたとしても
+ベルクラント相手じゃ、なにも
+出来ねえよな････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>235</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>236</Id>
+      <JapaneseText>ソーディアンねえ････
+たかが剣一本が、戦局をくつがえすってのか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>237</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>238</Id>
+      <JapaneseText>兵隊一人、武器一個で
+戦争が終わるわけないだろうが</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>239</Id>
+      <JapaneseText>ところがどっこい
+本当に終わっちまうのが
+歴史の不思議ってやつだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>240</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>241</Id>
+      <JapaneseText>ソーディアンの性能が本当なら
+俺だって使いたいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>242</Id>
+      <JapaneseText>地上軍兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>243</Id>
+      <JapaneseText>こんなクソみたいな戦争は
+とっとと終わらせなきゃいけない
+そのために、有効に使ってやるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>244</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>245</Id>
+      <JapaneseText>私は臨時徴兵された民兵なの
+これまでは軍隊なんて
+無縁の存在だったんだけどね････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>246</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>247</Id>
+      <JapaneseText>軍人って、ほんとタフよ
+この吹雪の中、よく立ち続けて
+られるわよね････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>248</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>249</Id>
+      <JapaneseText>おっと、ボヤいてると
+上官に怒鳴られちゃうわ
+ちゃんと見張りをしてないと</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>250</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>251</Id>
+      <JapaneseText>それにしても寒いわぁ
+凍死しちゃいそう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>252</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>253</Id>
+      <JapaneseText>天上軍に勝利したら、正式に入隊
+しようと思ってるの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>254</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>255</Id>
+      <JapaneseText>戦争が終わっても、しばらくは
+混乱した状態が続くわ
+兵隊は一人でも多いほうが
+いいでしょうからね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>256</Id>
+      <JapaneseText>女性兵</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>257</Id>
+      <JapaneseText>絶対に勝って
+より良い世界を子供たちに
+残さなきゃね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>258</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>259</Id>
+      <JapaneseText>&lt;Harold&gt;博士
+リトラー総司令がお呼びです
+すぐに「作戦会議室」へ出頭してください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>260</Id>
+      <JapaneseText>回収、回収～♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>261</Id>
+      <JapaneseText>持ち物がいっぱいね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>262</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>263</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>264</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>265</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>266</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>267</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>268</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>269</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>270</Id>
+      <JapaneseText>{16}{25}{CA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>271</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>272</Id>
+      <JapaneseText>{16}{25}{D2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>273</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>274</Id>
+      <JapaneseText>&lt;item:00000012&gt;屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>275</Id>
+      <JapaneseText>こちらでは&lt;item:00000012&gt;の
+販売を行っています</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>276</Id>
+      <JapaneseText>&lt;item:00000012&gt;を使ってリファインすると
+ステキな物が作られることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>277</Id>
+      <JapaneseText>武器や鎧をリファインすると
+付加能力が引継がれることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>278</Id>
+      <JapaneseText>ひと瓶&lt;0B:00000001&gt;{14}{35}{DC}{C0}&lt;0B:00000000&gt;ガルドになりますが、
+&lt;item:00000012&gt;を買いますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>279</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　&lt;0B:00000001&gt;{14}{25}{E6}{C0}本まとめて買う（{14}{35}{E0}{C0}ガルド）&lt;0B:00000000&gt;　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>280</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>281</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>282</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>283</Id>
+      <JapaneseText>&lt;item:00000012&gt;はひと瓶
+&lt;0B:00000001&gt;{14}{35}{DC}{C0}&lt;0B:00000000&gt;ガルドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>284</Id>
+      <JapaneseText>リファイン講座を聞きたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>285</Id>
+      <JapaneseText>&lt;03:00000000&gt;　聞きたい　
+　聞きたくない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>286</Id>
+      <JapaneseText>何について知りたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>287</Id>
+      <JapaneseText>&lt;03:00000000&gt;　４、スロットについて　
+　５、装飾品のリファイン　
+　６、リファインできない装備品について　
+　前のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>288</Id>
+      <JapaneseText>&lt;03:00000000&gt;　１、リファインとは
+　２、アイテムの変化　　　　　　　　　　
+　３、装備品の合成　
+　次のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>289</Id>
+      <JapaneseText>リファインとは、選択したアイテムを
+別なアイテムに変化させたり
+武器や防具を合成することのできるコマンドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>290</Id>
+      <JapaneseText>リファインを行うのに必要なのは
+&lt;item:00000012&gt;とレンズです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>291</Id>
+      <JapaneseText>&lt;item:00000012&gt;は、各地にいる
+私たちルーンボトル屋からお求めください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>292</Id>
+      <JapaneseText>レンズはモンスターと
+戦えば拾うことができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>293</Id>
+      <JapaneseText>これを機会に、あなたも
+どんどんリファインを行ってください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>294</Id>
+      <JapaneseText>アイテムの変化とは、アイテム単体に
+リファインを行うことによって
+別なアイテムに変化させることです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>295</Id>
+      <JapaneseText>例えば、&lt;item:00000001&gt;にリファインを行うと
+&lt;item:00000002&gt;に変化し
+逆に、&lt;item:00000002&gt;にリファインを行うと
+&lt;item:00000001&gt;に変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>296</Id>
+      <JapaneseText>また、装備品単体をリファインすることによって
+&lt;item:00000001&gt;などのアイテムにも変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>297</Id>
+      <JapaneseText>ダンジョンなどでアイテムが尽きてしまった時などに
+行うと、有効な場合もあります
+もちろん、最初からきちんと準備をしておくほうが
+賢いといえますが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>298</Id>
+      <JapaneseText>リファインの一番の特徴は
+やはり、装備品の合成です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>299</Id>
+      <JapaneseText>装備品を合成すると
+お気に入りの装備品に
+お気に入りのスロットが付いた
+装備品を作ることができます････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>300</Id>
+      <JapaneseText>ああ、まずはスロットの説明を
+しなければいけませんね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>301</Id>
+      <JapaneseText>スロットとは、装備品に
+付けることができる
+付加能力のようなものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>302</Id>
+      <JapaneseText>スロットについては、また別に
+詳しく説明させていただきます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>303</Id>
+      <JapaneseText>いちばん簡単な装備品のリファインは
+スロットが一つついた装備品どうしの
+リファインです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>304</Id>
+      <JapaneseText>これを行うと、何とステキなことに
+スロットが二つ付いた装備品ができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>305</Id>
+      <JapaneseText>注意しなければいけないのは
+剣は剣、鎧は鎧といったように
+同じ種類の装備品でしか
+リファインできません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>306</Id>
+      <JapaneseText>他にもいろいろな組み合わせがありますが
+それはやってみてのお楽しみです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>307</Id>
+      <JapaneseText>スロットについて
+詳しく説明いたします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>308</Id>
+      <JapaneseText>スロットは数多くの種類があり
+アタック：攻撃力が上昇します
+ディフェンス：防御力が上昇します
+などが代表的なものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>309</Id>
+      <JapaneseText>スロットによって装備品の名前も変わります
+&lt;item:00000078&gt;　＋　アタックで
+アタックソードなどです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>310</Id>
+      <JapaneseText>また、スロットにはレベルがあり
+レベルが高いと効果も上昇します
+最高はレベル８です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>311</Id>
+      <JapaneseText>スロット付きの装備品は
+主にモンスターが落とします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>312</Id>
+      <JapaneseText>モンスターとたくさん戦って
+スロット付き装備品を手に入れて
+あなただけのスロット付き装備品を
+作ってみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>313</Id>
+      <JapaneseText>ここだけの話ですが、装飾品も
+リファインすることができます
+でも、それは装飾品どうしではありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>314</Id>
+      <JapaneseText>装飾品と、装備品のような
+形でのみリファインが可能なのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>315</Id>
+      <JapaneseText>この場合の利点は、リファインする
+装備品の場所によってスロットが
+変化するということです
+武器、防具によって違います</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>316</Id>
+      <JapaneseText>また、装飾品は一つしか装備できないので
+いらない装飾品を、リファインに活用すれば
+非常に有効です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>317</Id>
+      <JapaneseText>その他にも、外装つまり「マント」も
+装飾品と同様に装備品とリファインできます
+その場合はなんと、装備品に属性を
+付加することができるのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>318</Id>
+      <JapaneseText>装飾品とのリファインもうまく活用し
+さらにステキなリファイン職人を
+目指してみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>319</Id>
+      <JapaneseText>たまに、装備品の中に黄色い枠の
+アイコンが付いたものがありますね
+それは、ユニークアイテムと
+呼ばれているものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>320</Id>
+      <JapaneseText>ユニークアイテムは見た目にも
+かっこよく、攻撃力も高く
+スロットレベルも高いものが多いですが
+スロットは一つしかありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>321</Id>
+      <JapaneseText>しかし、その反面、装飾品以外のユニークアイテムは
+リファインすることができません
+これ以上強化することができないのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>322</Id>
+      <JapaneseText>ですから、いらなくなったアイテムは
+どんどん売ってしまうことをお勧めします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>323</Id>
+      <JapaneseText>なぜなら、アイテムをたくさん持っていると
+モンスターがアイテムを
+落としてくれなくなってしまうという
+噂があるからです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>324</Id>
+      <JapaneseText>････アイテム整理も大切ですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>325</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>326</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>327</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>328</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>329</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>330</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>331</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>332</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>333</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>334</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>335</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>336</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>337</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>338</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

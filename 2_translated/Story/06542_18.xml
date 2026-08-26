@@ -1,0 +1,288 @@
+<SceneText>
+  <FriendlyName>未開の森</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;char:000003E8&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>未開の森</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>未開の森</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>未開の森</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>未開の森</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>おいおいおい････なんだ、この密林は！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>たしかに、こりゃあすごいね
+ここまですごいジャングルは
+あたしもはじめてだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>こんなところ、通れるのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>他に道は無いみたいだし
+ここを進むしかないね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>････はぁ、やっぱりかよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>おっ、今見えたのはガルムじゃないか！
+アイツのキバは、よく燃えるんだ
+そうだね････五本もあれば、大丈夫だよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>よぉし！
+根性で捕まえてみせるぜ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>ただ追っかけてるだけじゃ、ダメさ
+どこか、落とし穴を掘れる場所を探すんだ
+ソーサラーなんとかを使うんだよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>アイツらは、水が苦手なんだ
+水を使って道をふさぐんだよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>捕らえたっ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>ガルムの牙を五本集めました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ガルムの牙を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>落とし穴にかかった</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>ガルムが落とし穴にかかった</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>{16}{28}{56}{08}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>{16}{28}{5E}{08}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

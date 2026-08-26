@@ -1,0 +1,1002 @@
+<SceneText>
+  <FriendlyName>スパイラルケイブ</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Harold&gt;</JapaneseText>
+      <EnglishText>Harold</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>スパイラルケイブ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>スパイラルケイブ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;item:00000041&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>いた！
+アトワイトさんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>待て、&lt;Kyle&gt;！
+上だ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>アトワイトさん！
+待っててください
+今行きますから！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>････････！
+ダメっ、来ないで!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>えっ････!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>な、なんだこりゃ!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>これは、魔法障壁!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>ディムロスめ、臆したか････
+まぁいい、貴様たちが網にかかったのなら
+それはそれで、楽しめる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>バルバトス、貴様ッ!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ああ、言い忘れていたが
+その魔法障壁に触れると
+タダではすまんぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>くそっ！
+みんな、障壁から離れろ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>みな、まとめて殺してやる
+それなら、寂しくないだろう？
+ククク････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>どうした？　もう逃げ場はないぞ!?
+ククク････アーッハッハッハッ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>はあぁぁぁぁぁっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>ぐおぉぉぁぁぁッ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>今のは････晶術!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>ってことは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>貴様の相手は
+私ではなかったのか
+バルバトス!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>ディムロス････中将!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>ディムロス････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>はぁい、アトワイト、元気？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>&lt;Harold&gt;！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>ごめんねぇ、ちょっと遅れちゃったわ
+こいつを引っ張り出すのに
+時間かかっちゃって</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>まんまとだまされたよ
+新兵器のテストだと
+言われて来てみれば････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>でも、こいつが相手なら
+思う存分やれるでしょ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>あぁ、その通りだ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>その剣は････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>新兵器の味
+その身で、確かめるがいい!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>ぬかせ！　ソーディアンを
+手に入れたぐらいで
+俺に勝てると思っているのか!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>貴様こそ、状況をよく判断するんだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>なに････!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>バルバトス、覚悟!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>さっきはよくもやってくれたね！
+倍にして、返してやるよ!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>さっきは、あんな姑息な罠を使ったんだ
+今さら、一対七で卑怯とは
+言わねえよな？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>バルバトス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>････ちっ！
+またも、邪魔だてが入るか････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>ディムロスさん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>すまない、&lt;Kyle&gt;くん
+君たちを危険な目にあわせてしまった</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>わたしたちのことは、いいですから
+早く、アトワイトさんを</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>････ああ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>････今さらだと、君は言うかもしれない
+一度は見捨てたじゃないかと
+なじるかもしれない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>だが････だがそれでも
+私は、君を助けたいと思った
+君を失いたくなかった、だから････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>ア、アトワイトさんっ････！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>あなたは、関係ない&lt;Kyle&gt;さんや
+多くの部下を従える、自分の身を
+危険にさらした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>しかも、私情のため････
+たったひとりの女のために、です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>････決して
+許されることではありません
+あなたは、軍人失格です！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>だけど････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>だけど私は、そんなあなたを
+愛しています！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>････あなたが来てくれて
+私、本当に････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>アトワイト････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>よかった････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>ああ！
+ふたりとも、ホントにうれしそうだね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>あたりまえよ
+好きな人が、自分のことを
+助けに来てくれたんですもの</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>それが、どれぐらいうれしいことか
+わたしには、わかるわ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>････そっか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>････ねえ、&lt;Kyle&gt;
+もしも････もしもよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>今回のディムロスさんのように
+すごく大事なことと、わたしの、
+どちらかを選ばなきゃいけないとしたら････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>もちろん、オレは
+なにがあっても
+&lt;Reala&gt;を選ぶよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>････････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>････どうしたの？
+まさか、選ばないって
+思ってるの!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>ひっどいなあ！
+オレはぜっっったいに
+&lt;Reala&gt;を選ぶよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>････うん
+そう、だね････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>おーい、ディムロス
+いちゃつくのはいいんだけど
+先にソーディアン返して</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>いちゃついてなど････！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>もう、&lt;Harold&gt;ったら！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>はいはい、わかったわかった</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>ふたりとも、まずは
+ラディスロウに戻って
+まだ、やることがあるっしょ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>そうだな････
+まだ、やるべきことは
+残っているからな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>あ、私たちは別行動を取るから
+帰り道は、おふたりでどーぞー</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>&lt;Harold&gt;！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>････あー、オホン！
+行くぞ、アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>アトワイト</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>はい････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>へぇ、意外と気が利くじゃない
+&lt;Harold&gt;
+ふたりっきりにさせるなんてさ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>ま、たまにはね
+これからあのふたり
+タイヘンだろうし</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>上層部の決定を待たずして
+アトワイトを救出に向かったんだ
+処罰はまぬがれないだろう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>そっか････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>さて、私たちも
+帰るとしますか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>&lt;Harold&gt;が仲間になりました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}ガルドを手に入れました&lt;0B:00000000&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>{16}{26}{86}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>{16}{26}{8E}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

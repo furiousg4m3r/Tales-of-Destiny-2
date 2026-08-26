@@ -1,0 +1,562 @@
+<SceneText>
+  <FriendlyName>地上軍拠点</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>少年</JapaneseText>
+      <EnglishText>Boy</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>子供</JapaneseText>
+      <EnglishText>Kid</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>女の子</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Harold&gt;</JapaneseText>
+      <EnglishText>Harold</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>地上軍拠点</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>これ、現代でオレたちが使った
+イクシフォスラーかな？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>天地戦争の最中には
+完成してなかったのね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>何かのエンジンだろうか？
+これは一体、何なのだろう････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>これ、空中都市の機関部なんだってさ
+わざわざ墜落した空中都市から引っ張り出して
+来たんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>貴重な代物だよ
+今の技術じゃ、これと同じ物を作るのは
+無理だからね
+昔の人は凄かったんだなあ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>&lt;item:00000012&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>航空力学に関する文献がある</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>ディムロス</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>あとは君たちだけだ
+準備ができたら、乗りこんでくれ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>準備はできましたか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>これは現在、開発中の
+飛行機械です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>部品が足りず、作業が進められないため
+残念ながら実戦投入はできないでしょうね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>まともな部品さえあれば
+すぐにでも完成させられるんですけどね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>ま、終戦後に
+ゆっくりと作りますよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>拠点には子供たちの遊び場に
+使えるような場所が無いんです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>ですので格納庫を遊び場代わりに
+してあげたんですが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>これがまた、ウルサイのなんの
+研究がはかどらなくて
+困ってます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>この子たち、僕のあとを継いで
+科学者になってくれないかな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>科学者</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>そしていつか
+世の役に立つ機械を
+作ってくれたらウレシイですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>僕、科学者になって
+世の中の役に立つ機械を
+たくさん作るんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>そのために、今からいろいろと
+勉強しておかなきゃね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>自分で会社を作って
+役に立つ機械を売り出すんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>会社の名前は、僕の名前を取って
+『オベロン社』でいいかな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>毎日ヒマだなー
+なんでここから遠くに行っちゃ
+いけないの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>せんそうなんてつまらないよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>最近、配給が少なくなったって
+お母さんが困ってたよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>なんで、お腹一杯
+食べ物を食べられないの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>私のお父さん
+『てんじょうぐん』ってところに
+行ったんだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>ずっと前に
+『かくめいにさんかする』って言って
+いなくなっちゃったの</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>いつかまた、お父さんと
+会えるかなあ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>もう何年、太陽を見てないんだろう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>青い空なんて
+思い出せないわ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>私が大人になる前に
+雪は止むのかしら</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>もうすぐ戦争は終わるって
+大人たちは騒いでるけど
+本当かしら</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>早く、思いきり外で遊びたいわ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>いつかまた、太陽の下で
+遊びたいわ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>飛べ～、飛べ～、ロケット～♪
+燃料吹き出し、火をあげて～♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>&lt;item:00000041&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>{16}{25}{C2}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>{16}{25}{CA}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

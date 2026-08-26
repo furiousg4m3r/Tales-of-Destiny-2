@@ -1,0 +1,263 @@
+<SceneText>
+  <FriendlyName>Darilsheid Prison, Underground Canal</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ダリルシェイド地下水路</JapaneseText>
+      <EnglishText>Darilsheid Prison, Underground Canal</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ダリルシェイド地下水路</JapaneseText>
+      <EnglishText>Darilsheid Prison, Underground Canal</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>・ボスに勝利していない
+・石切り機を拾う
+・石像を切り離した
+・石像を切り離していない</JapaneseText>
+      <EnglishText>- You have not defeated the boss.
+- Picked up the stone cutter.
+- Separated the stone statue.
+- Did not detach the stone statue</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>張り紙がされています
+『ドロボウがここから逃げたようなので
+　以後、この出口を封鎖します』</JapaneseText>
+      <EnglishText>There's a sign on the door.
+&quot;From now on, this exit will be closed,
+since a thief has escaped from here.&quot;</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>あれっ!?</JapaneseText>
+      <EnglishText>Huh!?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ソーサラーリングでは
+火力が足りないようだな
+なにか燃える物を持ってくるんだ</JapaneseText>
+      <EnglishText>The heat from the Sorcerer's Ring
+isn't enough. We need something
+more flammable.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>うわ！　なんだこの
+ネバネバしたのは!?</JapaneseText>
+      <EnglishText>Ew! What the heck is this sticky stuff!?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>これを手で取り払うのは
+不可能だな････</JapaneseText>
+      <EnglishText>Hmm, clearing this away by
+hand is out of the question...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>石切り機を使って
+石像と土台を切り離しました</JapaneseText>
+      <EnglishText>Used the stone cutter.
+The stone statue and the base were separated.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>石像があります
+石の土台にしっかりと固定されていますが
+切り離せば引きずって動かせそうです</JapaneseText>
+      <EnglishText>There is a stone statue.
+It's firmly fixed to a stone base,
+but if you detach it, you can drag it around.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>････待て！なにかいるぞ！
+気を付けろ！</JapaneseText>
+      <EnglishText>Wait! There's something here!
+Stay on guard!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>{16}{25}{CA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>{16}{25}{D2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

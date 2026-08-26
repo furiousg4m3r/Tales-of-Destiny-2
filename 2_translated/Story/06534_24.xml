@@ -1,0 +1,1160 @@
+<SceneText>
+  <FriendlyName>蒼天都市ヴァンジェロ</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>若者</JapaneseText>
+      <EnglishText>Young Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>女の子</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>おばさん</JapaneseText>
+      <EnglishText>Woman</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>おじさん</JapaneseText>
+      <EnglishText>Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>蒼天都市ヴァンジェロ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>蒼天都市ヴァンジェロ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>蒼天都市ヴァンジェロ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ドームごしでなく
+直接、日差しを浴びてたら
+命がいくつあっても、たりないよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>今日は、ちょっぴり日差しが強いね
+気をつけないと、倒れてしまいそうだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>日差しが強いって････
+ここ、ドームに被われてんだぞ？
+直射日光があたるわけでもないのに</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>あたりまえじゃないか
+直接、日差しを浴びたりしたら
+命にかかわるよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>････････
+････････････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>なんか、えらい警戒されてるな
+おい、&lt;Judas&gt;、おどかすなよ
+かわいそうじゃねえか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>僕は、なにもしていない
+おまえの、大きすぎる態度に
+おびえているんじゃないのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>････････
+････････････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>････････
+････････････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>こんにちは！どうしたの？
+お兄ちゃんたちの顔に
+なんかついてる？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>････････
+････････････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>外は、汚染された外気で満ちています
+わざわざ危険をおかしてまで
+他の街にいく必要は、ないじゃないですか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ってことは････あんたたちは
+この街から、１歩も出ないってことか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>ええ、そうですよ
+外から人が来ることも、まれですし</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>ほら、お兄ちゃんたちに
+ごあいさつなさい
+「こんにちは」って</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>すみません、この子
+この街以外の人と会うのは
+はじめてなもので</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>え？もう結構、大きいよね？
+他の街にいったこと、ないのかい？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>ここで、なんの不自由もない
+生活ができるのに
+どうして、他の街にいく必要があるんです？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>あそこに、子どもがいるだろ？
+あの子が生まれる前に、ひとり来たはずだ
+それ以来だよ、外から人が来たのは</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>そうすると、十年ぐらいは
+人の交流がなかったということか････
+正確には、何年前だかわかるか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>そんなきっちりは、覚えていないよ
+あの子が生まれる前
+それ以上細かいことは、わからないな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>外から人が来るなんて
+ずいぶん、ひさしぶりだなぁ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>ひさしぶりって
+どれぐらい前なんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>どれぐらいって････そうだな
+あそこにいる子が
+生まれる前ぐらいだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>あのドームは････街だったのか！
+まるで、でっかいレンズに町全体が
+おおわれてるみたいだぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>ホントだ、スゴいや････！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>それにしても、この気密性の高さはどうだ
+外界から空気が入るのを
+完全に防ぐよう設計されている</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>どうして、そこまでする必要があるのさ？
+たしかに外は荒れた世界だけど
+生きてけないってほどじゃないのに</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>なんらかの理由で
+外界と遮断せざるをえない････
+といったところだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>あ、あんたら、外から来たのかい!?
+大丈夫か!?
+レンズは、どうしたんだ!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>････あんたこそ、なんで
+頭にレンズなんか
+はり付けてるんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>なんでって････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>あぁ！　外気にふれたせいで
+頭がやられちまったのか！
+こりゃあ、大変だ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>なに言ってんだよ！
+オレたちは別に････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>････どうやら、そうらしい
+なにも、思い出せないんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>&lt;Judas&gt;!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>&lt;size:000000C8&gt;いいから、だまっていろ
+このほうが、情報を手に入れやすい</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>すまないが、教えてもらえないか？
+レンズのことや、この街のことを</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>ああ、わかった
+困ったときは、おたがいさまだからな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>ここは、蒼天都市ヴァンジェロって街さ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>で、あんたたちが、なくしちまったのは
+「命のレンズ」って呼ばれてる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>この命のレンズがあればこそ
+人は汚染された外気に触れても
+生きることができるんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>慈悲ぶかきエルレインさまは
+ドームの中でしか生きられなかった我々に
+希望の光を与えてくださったんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>エルレインが････！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>あぁ、エルレインさまのことは
+覚えているんだね
+よかった････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>なにせ、エルレインさまは
+我らにこのドームと、生きるための力を
+与えてくださる、大事な方だからね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>そんな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>あんたたち、とりあえず
+フォルトゥナ神団の方たちに
+話をしてみなよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>フォルトゥナ神団？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>あぁ、フォルトゥナ神団ってのは
+エルレインさまを支える人たちの
+集まりのことさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>街の人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>みんな、優しい方ばかりだから
+きっと親身になって
+相談にのってくれるよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>････わかった、ありがとう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>････たしかに、ここは僕たちのいた世界だ
+エルレインという名前が
+それを証明している</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>にしたって、この変わりようは
+ただごとじゃないよ!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>命のレンズとやらも、ドームもそうだが････
+まるでエルレインが
+この世界を支配しているみたいじゃねえか！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>相当大がかりな
+歴史改変が行われたらしいな
+いったい、なにが起こったんだ････？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>{16}{25}{C2}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>{16}{25}{CA}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>&lt;item:00000012&gt;屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>こちらでは&lt;item:00000012&gt;の
+販売を行っています</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>&lt;item:00000012&gt;を使ってリファインすると
+ステキな物が作られることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>武器や鎧をリファインすると
+付加能力が引継がれることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>ひと瓶&lt;0B:00000001&gt;{14}{35}{D4}{C0}&lt;0B:00000000&gt;ガルドになりますが、
+&lt;item:00000012&gt;を買いますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　&lt;0B:00000001&gt;{14}{25}{DE}{C0}本まとめて買う（{14}{35}{D8}{C0}ガルド）&lt;0B:00000000&gt;　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>&lt;item:00000012&gt;はひと瓶
+&lt;0B:00000001&gt;{14}{35}{D4}{C0}&lt;0B:00000000&gt;ガルドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>リファイン講座を聞きたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>&lt;03:00000000&gt;　聞きたい　
+　聞きたくない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>何について知りたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>&lt;03:00000000&gt;　４、スロットについて　
+　５、装飾品のリファイン　
+　６、リファインできない装備品について　
+　前のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>&lt;03:00000000&gt;　１、リファインとは
+　２、アイテムの変化　　　　　　　　　　
+　３、装備品の合成　
+　次のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>リファインとは、選択したアイテムを
+別なアイテムに変化させたり
+武器や防具を合成することのできるコマンドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>リファインを行うのに必要なのは
+&lt;item:00000012&gt;とレンズです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>&lt;item:00000012&gt;は、各地にいる
+私たちルーンボトル屋からお求めください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>レンズはモンスターと
+戦えば拾うことができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>これを機会に、あなたも
+どんどんリファインを行ってください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>アイテムの変化とは、アイテム単体に
+リファインを行うことによって
+別なアイテムに変化させることです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>例えば、&lt;item:00000001&gt;にリファインを行うと
+&lt;item:00000002&gt;に変化し
+逆に、&lt;item:00000002&gt;にリファインを行うと
+&lt;item:00000001&gt;に変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>また、装備品単体をリファインすることによって
+&lt;item:00000001&gt;などのアイテムにも変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>ダンジョンなどでアイテムが尽きてしまった時などに
+行うと、有効な場合もあります
+もちろん、最初からきちんと準備をしておくほうが
+賢いといえますが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>リファインの一番の特徴は
+やはり、装備品の合成です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>装備品を合成すると
+お気に入りの装備品に
+お気に入りのスロットが付いた
+装備品を作ることができます････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>ああ、まずはスロットの説明を
+しなければいけませんね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>スロットとは、装備品に
+付けることができる
+付加能力のようなものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>スロットについては、また別に
+詳しく説明させていただきます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>いちばん簡単な装備品のリファインは
+スロットが一つついた装備品どうしの
+リファインです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>これを行うと、何とステキなことに
+スロットが二つ付いた装備品ができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>注意しなければいけないのは
+剣は剣、鎧は鎧といったように
+同じ種類の装備品でしか
+リファインできません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>他にもいろいろな組み合わせがありますが
+それはやってみてのお楽しみです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>スロットについて
+詳しく説明いたします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>スロットは数多くの種類があり
+アタック：攻撃力が上昇します
+ディフェンス：防御力が上昇します
+などが代表的なものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>スロットによって装備品の名前も変わります
+&lt;item:00000078&gt;　＋　アタックで
+アタックソードなどです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>また、スロットにはレベルがあり
+レベルが高いと効果も上昇します
+最高はレベル８です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>スロット付きの装備品は
+主にモンスターが落とします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>モンスターとたくさん戦って
+スロット付き装備品を手に入れて
+あなただけのスロット付き装備品を
+作ってみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>ここだけの話ですが、装飾品も
+リファインすることができます
+でも、それは装飾品どうしではありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>装飾品と、装備品のような
+形でのみリファインが可能なのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>この場合の利点は、リファインする
+装備品の場所によってスロットが
+変化するということです
+武器、防具によって違います</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>また、装飾品は一つしか装備できないので
+いらない装飾品を、リファインに活用すれば
+非常に有効です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>その他にも、外装つまり「マント」も
+装飾品と同様に装備品とリファインできます
+その場合はなんと、装備品に属性を
+付加することができるのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>装飾品とのリファインもうまく活用し
+さらにステキなリファイン職人を
+目指してみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>たまに、装備品の中に黄色い枠の
+アイコンが付いたものがありますね
+それは、ユニークアイテムと
+呼ばれているものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>ユニークアイテムは見た目にも
+かっこよく、攻撃力も高く
+スロットレベルも高いものが多いですが
+スロットは一つしかありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>しかし、その反面、装飾品以外のユニークアイテムは
+リファインすることができません
+これ以上強化することができないのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>ですから、いらなくなったアイテムは
+どんどん売ってしまうことをお勧めします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>なぜなら、アイテムをたくさん持っていると
+モンスターがアイテムを
+落としてくれなくなってしまうという
+噂があるからです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>････アイテム整理も大切ですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>141</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>142</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>143</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>144</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>145</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>146</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>147</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>148</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

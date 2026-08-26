@@ -1,0 +1,1155 @@
+<SceneText>
+  <FriendlyName>ハイデルベルグ・装備品屋</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>武器屋</JapaneseText>
+      <EnglishText>Weapon Shop</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>防具屋</JapaneseText>
+      <EnglishText>Armor Shop</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ハイデルベルグ・装備品屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ハイデルベルグ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>装備品屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>多種多様な武器が並べられている
+珍しい異国の武器や、古代の刀剣も見うけられる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いろいろな服が下がっている
+デザインもなかなかのものだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;item:00000122&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>華麗に飾り付けられた武具が展示されている
+どれもこれも年代物の高級品のようだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>いらっしゃい！
+こちらでは武器を扱ってるわよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>ありがとうございました！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>何か買って････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>武器屋</JapaneseText>
+      <EnglishText>Weapon Shop</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>いらっしゃい！
+こちらでは武器を扱ってるわよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>いらっしゃいませ！
+こちらでは防具を取り扱っております！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>お買い上げ、ありがとうございました！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>ちっ　冷やかしか</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>防具屋</JapaneseText>
+      <EnglishText>Armor Shop</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>いらっしゃいませ！
+こちらでは防具を取り扱っております！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>ワタシ、究極の剣を開発しました！
+ソーディアンすら、その存在がかすむ
+名づけて「十徳ソード」!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>従来の剣とは大ちがい！
+なんと、刃の部分が三倍にのびる！
+これで、高いところの敵も倒せるよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>「高いところの敵」って
+なんだよ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>刃の部分は、取りはずし可能
+水で洗えて、簡単便利！
+パーツを変えれば、缶切りにも変身だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>････便利だと思うんだけどなぁ
+この店には、置けないって言うんだ
+どうしてかなぁ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>「十徳ソード」
+便利だと思うんだけどなぁ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>お似合いですね、おふたりさん★
+そんなあなたに、今日のイチ押し
+「ラブラブソード」の登場です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>男性用の剣と、女性用のナイフを
+赤いクサリでつないでみました
+愛の力で、戦力アップ間違いなし！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>････おカネもらっても
+使いたくない････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>「ラブラブソード」
+売れると思ったんだけどなぁ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>たった今、キケンな音がしましたよ
+そんな時には、便利な武器を
+特別価格で提供します！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>通常の刀身の他に、ツカの部分に
+刃をさした、究極の剣！
+前後の敵を同時に倒せます！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>名づけて、「諸刃の剣」！
+どうです!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>そんな危なっかしいモン
+振り回せるか！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>トホホ････
+ダメか････
+やっぱり、商才ないのかなぁ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>debug</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>ウィンターズくん
+例の物、それぞれ１５着ずつ
+よろしく頼まれてくれるかね？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>それなら二十日で３０万ガルドだ
+それ以上は時間も金もまからん</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>わかった、それで手を打とう
+ところでウィンターズくん
+この前の話だが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>オーダーメイドは、お断りだ
+時間がかかりすぎる
+だいいち、いい素材が手元にない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>納得できる素材と持ち主でないと
+仕事は引き受けない････か
+さすがは天才といったところか</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>ま、だからこそ君の作る物には
+価値があるのだがね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>おや？　君たちも
+ウィンターズくんに用があるのかい？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>え？　ウィンターズさん？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>なんだ、知らないで来たのか
+ここの店主のウィンターズくんは
+『その道』では有名な人なんだよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>ノイシュタットの商人</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>なんなら、彼に話を聞いてみたらどうかね
+色々と面白い事が聞けるかもしれないぞ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>よぉ、いらっしゃい
+俺はこの店『ソウル＆ソード』の店主の
+ウィンターズだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>色々な武器があるだろ？
+みんな俺が作ったんだぜ
+どうだ、スゴイだろ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>ヒマだったらウィンドウショッピングでも
+楽しんでいきな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>････待てよ、やはり素材が悪い
+強度と柔軟性を確保するには、やはり
+ベルセリウムを使うしかないな････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>あの～！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>････ん？　あぁ、お客さんか
+すまない、考え事をしてたんでな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>私は店主のウィンターズだ
+『ソウル＆ソード』へようこそ
+伝統だけは長い、古ぼけた店だが
+よかったら、いろいろ見てってくれ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>伝統が長いって････どれぐらいなの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>ひいじいさまが、いうには
+『天地戦争時代から続く由緒正しき店』だそうだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>すごいや！
+ねぇ、頼めば何か作ってくれるの!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>いや、オーダーメイドは
+時間がかかりすぎるんでな
+普段は断ってる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>････ん？　あんたたち
+見たところ、冒険者みたいだな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>そうだよ！　オレ、&lt;Kyle&gt;
+よろしく！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>そうか、冒険者か
+ふむ　ならば例の件、頼めるかもしれんな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>&lt;Kyle&gt;、俺は今『ベルセリウム』という
+幻の鉱石を探しているんだが
+こいつはおそろしく希少価値があって
+滅多に手に入らないんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>もし、そのベルセリウムを持ってきたら
+お前さんの頼みを聞いてやるよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>オーケー！
+『ベルセリウム』と引き換えだね！
+持ってくるから、スゴイ物を作ってね！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>よぉ、&lt;Kyle&gt;
+『ベルセリウム』は見付かったか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>うん！
+持ってきたよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>おおおお！
+そいつはすごいぜ！
+よく見つけたな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>で、どうする？&lt;Kyle&gt;！
+ソイツと引き換えに、なにか作ってみるか？
+俺が好きなように作るから
+どんなものに仕上がるかはお楽しみだがな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>&lt;03:00000000&gt;　お願いします　
+　遠慮します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>よし！
+それじゃ早速、作業に取り掛かるぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>そうか････残念だが仕方ないか
+気が向いたら、また話しかけてくれよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>残念だけど、持ってないんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>そうか
+まあ、幻の鉱石ってくらいだからな
+そう簡単には見付からないだろうよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>洋服セット・低レベルその１</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>洋服セット・低レベルその２</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>装飾品セット・低レベル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>ハッハァー！
+&lt;Kyle&gt;、お前は運が良いぜ！
+とんでもないものを作っちまったよ、俺は！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>さあ、受け取りな！
+ウィンターズ、会心の一品だぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>&lt;item:000000BF&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>うわあ････すごい！
+ありがとう、ウィンターズさん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>できたぞ！
+その名も『{18}{44}{6C}{C0}』だ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>フフフ････我ながら、素晴らしい物を
+作ってしまったぜ
+確認してみな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>{18}{44}{6C}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>洋服セット・高レベルその１</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>洋服セット・高レベルその２</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>洋服セット・高レベルその３</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>装飾品セット・高レベルその１</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>装飾品セット・高レベルその２</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>装飾品セット・高レベルその３</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>福袋セット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>ハッハァー！
+&lt;Kyle&gt;、お前は運が良いぜ！
+とんでもないものを作っちまったよ、俺は！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>さあ、受け取りな！
+ウィンターズ、会心の一品だぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>&lt;item:0000011C&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>うわあ････すごい！
+ありがとう、ウィンターズさん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>できたぞ！
+その名も『{18}{44}{6C}{C0}』だ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>ウィンターズ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>フフフ････我ながら、素晴らしい物を
+作ってしまったぜ
+確認してみな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>141</Id>
+      <JapaneseText>{18}{44}{6C}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>142</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>143</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>144</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>145</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>146</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>147</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>148</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>149</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>150</Id>
+      <JapaneseText>{16}{25}{C6}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C6}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>151</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>152</Id>
+      <JapaneseText>{16}{25}{CE}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>153</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>154</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>155</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>156</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>157</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>158</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>159</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>160</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>161</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>162</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>163</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>164</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>165</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>166</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>167</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

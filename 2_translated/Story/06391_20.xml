@@ -1,0 +1,972 @@
+<SceneText>
+  <FriendlyName>Straylise Grand Temple</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ストレイライズ神殿</JapaneseText>
+      <EnglishText>Straylise Temple</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>司祭</JapaneseText>
+      <EnglishText>Priest</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>神官</JapaneseText>
+      <EnglishText>Priest</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ストレイライズ大神殿</JapaneseText>
+      <EnglishText>Straylise Grand Temple</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ストレイライズ大神殿</JapaneseText>
+      <EnglishText>Straylise Grand Temple</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ストレイライズ神殿</JapaneseText>
+      <EnglishText>Straylise Temple</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>大きくノッポな古時計がある
+どこかのおばあさんが使用していたのだろうか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>不思議な輝きを放つ水晶だ
+とんでもなく大きいが、一体どれくらいの
+値段になるのだろう････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ここは礼拝堂です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ここは････未来の
+ストレイライズ大神殿････？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>おい、おまえたち！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>こんなところで、なにをしている!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>あ、えっと、オレたちは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>エルレインはどこですか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>なんだ、おまえは？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>お、おい！
+あのペンダント！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>もしかして、せ、聖女さま････!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>エルレインさまは、
+こちらにはいらっしゃいません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>では、どこにいるのです？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>それがその････
+誰にも行き先をつげるな、と</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>事は急を要します
+答えなさい、エルレインはどこですか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>兵士</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>････････カ、カルビオラです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>カルビオラっていえば、
+&lt;Nanaly&gt;の村の近くの
+巨大レンズがあったところだったな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>ヤツがなにをたくらんでいるのか････
+とにかく急いだ方がいい</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>ああ、わかってる
+行こう、カルビオラへ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>はて？
+本日は、礼拝の日ではないはずだが････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>だって、あの子がここに････！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>ハハッ････
+ちょっとした手ちがいです
+どうも、どうも～</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>まったく、こまったものだ････
+エルレインさまから、礼拝をとりやめるよう
+おおせつかっていたというのに</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>大神殿内に賊が侵入し
+フィリアがおそわれたようだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>しかし、神殿を敵に回すとは････
+神をもおそれぬ行為とは
+まさに、このことだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>ん？
+ところで、キミたちは
+どこのだれなんだね？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>おや、あなたが
+このような場所にいらっしゃるなんて
+めずらしいですな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>この人
+&lt;Reala&gt;のしりあい？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>きっと、人ちがいをしてるんだわ････
+行きましょ、&lt;Kyle&gt;</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>どうぞ、ごゆっくり
+おくつろぎください</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>司祭であるわたしでさえも
+降臨の儀には、たちあえんというのか････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>ううっ････
+そういわれると
+なおさら見たくなるではないか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>しかし、あそこに通すことをゆるされた
+あの娘は、いったい何者なんだろうか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>どうした!?
+なんのさわぎだ？
+とうとう神が降臨なされたのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>ヘヘッ
+そうカンタンに
+なされてたまるかってんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>エルレインさまは
+いったい、どこへ行かれたのだ!?
+儀式は、どうなったのだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>エルレインさまのお言葉では
+世界が幸福へとみちびかれる日も
+そう遠くないそうだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>やれやれ････
+こいつら、ほんとうに
+なにも知らされていないようだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>エルレインさまのお言葉では
+世界が幸福へとみちびかれる日も
+そう遠くないそうだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>エルレインがみちびくのは
+この世界だけ････
+人類は、その中にふくまれてないのよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>はやく世界中が
+幸福につつまれるとよいのぉ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>どうしました？
+神になにか相談ごとでも
+おありですかな？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>相談ごと？
+女の子しょうかいして、とか言ったら
+天罰くだされそうだな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>なにごともあきらめずに努力すれば
+きっと、神のご助力が
+えられることでしょう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>本日は礼拝日ではないはずです････
+これは、いわゆるひとつの
+ルール違反というヤツじゃありませんか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>えっ！
+あっ････　いや、そのう････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>違反をおかしてでも
+礼拝したいという気持ちはわかりますが
+以後、気をつけてくださいね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>あなたがたは
+いわゆるひとつの
+信仰熱心なかたがたなんですね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>何者かが侵入したそうです！
+世間一般でいう
+「賊」というやからです！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>誤解されないうちに
+ずらかったほうが、よさそうだぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>これは、いわゆるひとつの
+「キケンな状況」というヤツでは
+ありませんか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>アイグレッテに
+争いごとを持ちこむのは
+いつも外部の人間なんです</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>世界中がアイグレッテのようになれば
+争いごとなど消えると思うんですが････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>フン！
+よけいなお世話だよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>人々は幸福でなくてはなりません
+外の世界の人たちには
+なぜ、それがわからないのでしょうね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>「密室にうらわかき乙女が二人きり」
+････はっ！
+いえ、わたしはみだらな想像など････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>こ、これは、世間一般でいうとこの
+「誤解」というヤツです！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>こんなヤツ、ほっといて
+ほかをあたるよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>ああっ！
+わたしは、なんてはしたないことを</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>なんなんですか、外のさわぎは！
+もしかして、これが世にいう
+「世界のおわり」ってヤツですか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>はぅ～
+昨晩のつまみぐいが
+このようなバチをあたえようとは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>先ほどのみだらな想像も
+アタモニ神には
+つつぬけだったのですか～!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>俗にいう「ハッピーエンド」
+というヤツが
+おとずれようとしているわけです</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>なにがハッピーエンドだ
+自分につごうよく
+終わらせようとしてるだけじゃねえか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>このまま
+終わらせるわけにはいかないわ････
+この世界を････、&lt;Kyle&gt;たちの歴史を････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>「幸福な世界」というのは
+世間一般でいうと
+どんなかんじなんでしょうねぇ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>みなさんの笑顔をみるたびに
+あらたなエネルギーが
+わいてくるんです</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>いわゆるひとつの充実感というヤツが
+わたしの体を
+かけめぐってるわけですね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>あなたがたにも
+「充実感」にみちた毎日が
+おとずれますように</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>あら？
+今日は礼拝の日じゃないはず････
+ということは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>ギクぅ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>見学のかたですね！
+神官になりにきたんですの？
+騎士になりにきたんですの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>いっしょに力をあわせて
+幸福な世界をつくりましょうね～♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>どうしましょう！
+悪い人が侵入なさったみたいなの！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>「侵入なされた」って････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>でも、相手も人間
+話せば、きっとわかってくれるわ！
+うん、うん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>悪い人だって
+幸せになりたくて
+悪いことをやってるのよ～</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>フォルトゥナ神が
+降臨なされてから
+世界はとっても平和なんですよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>わたしもフォルトゥナ神と
+お話してみたいわ～♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>さっきから、お外が
+さわがしいんですけど
+なにかあったんでしょうか～？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>ああっ！　もう
+急いでるんだから、はなしてくれよ～</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>エルレインさまのおっしゃる
+幸福な世界って
+いったいどんな世界なのかしら</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>きっと、みんなが
+笑顔でくらせる世界よね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>儀式がおわれば
+世界は幸福につつまれるんですって～</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>今は、まだ大変だけど
+みんなで力をあわせてがんばれば
+幸せな世界になるはずよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>だって、みんな
+「幸せになりたい」って思いは
+おんなじですものね～♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>「幸せになりたい」って
+思ってる者どうし
+きっと、力をあわせていけるはずだわ～</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

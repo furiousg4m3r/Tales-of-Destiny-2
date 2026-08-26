@@ -1,0 +1,489 @@
+<SceneText>
+  <FriendlyName>Cresta City - Inn</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>おじいさん</JapaneseText>
+      <EnglishText>Old Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>富豪</JapaneseText>
+      <EnglishText>Millionaire</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>クレスタの街・宿屋</JapaneseText>
+      <EnglishText>Cresta City - Inn</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>クレスタ</JapaneseText>
+      <EnglishText>Cresta</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>孤児院の子をひきとろうと思って
+この街にきたんじゃが
+どの子にするかなんて選べないねえ････</JapaneseText>
+      <EnglishText>I came to this city to adopt a child
+from the orphanage,but I can't choose
+which child to take in. </EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>兄弟みたいに仲のいい
+あの子たちを引きはなすなんて
+なんだか、しのびなくて････</JapaneseText>
+      <EnglishText>I can't bear to part with them,
+they're like brothers to me.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いっそのこと
+ワシたちがこの街に
+引っこしてこようかねぇ</JapaneseText>
+      <EnglishText>Maybe we should just
+move to this town.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ここは平和で静かで良いところじゃよ
+この幸せが永遠に続いたらいいのにのぉ</JapaneseText>
+      <EnglishText>It's nice and peaceful and quiet here.
+I wish this happiness could last forever.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>この歳になると
+子供の笑顔が恋しくてね
+孤児を引き取りたいって申し出たんだ</JapaneseText>
+      <EnglishText>At my age, I miss the smile of a child,
+so I offered to adopt an orphan.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>だけど、ルーティさんに断られたよ
+「ご厚意はありがたいのですが
+みんな、ウチの子ですから」ってね</JapaneseText>
+      <EnglishText>But Ms. Rutee refused, saying,
+&quot;We appreciate your kindness,
+but they're all our children.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>あの子たちは
+孤児院で生活するのが
+いちばん幸せなのかもしれないね</JapaneseText>
+      <EnglishText>Maybe those kids are happiest
+living in an orphanage.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>あの、お日さまのような
+笑顔を見ていると
+そんな気がしてくるよ</JapaneseText>
+      <EnglishText>I feel that way when I
+look at that sunny smile.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>孤児院の子供たちが
+どうして、あんなに笑えるのかを
+ずっと考えていたのじゃよ</JapaneseText>
+      <EnglishText>I've been trying to figure out
+why the kids at the orphanage
+can smile so much.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>だけど、ようやくわかったわい
+なんのことはない
+スタンさんとルーティさんを
+親として、あそこは家族なんじゃとな</JapaneseText>
+      <EnglishText>But I finally understood that
+Stahn and Rutee were my parents,
+and that we were a family.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>孤児院は経営が苦しそうだから
+子供を引き取ろうと考えておったが
+そんな必要はなかったみたいじゃな</JapaneseText>
+      <EnglishText>The orphanage was struggling,
+so I thought I'd take the kids in,
+but it looks like that wasn't necessary.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>私の娘が、この街に
+嫁いだんですけどね････</JapaneseText>
+      <EnglishText>My daughter married
+into this city...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>まさか、こんな田舎だったなんて
+なぜアイグレッテでの裕福な生活を捨てて
+ここへ来たのでしょう？</JapaneseText>
+      <EnglishText>I had no idea it was this rural.
+Why did I leave my wealthy life
+in Aigrette to come here?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>住みやすい街なら、他にいくらでも
+あるでしょうに････</JapaneseText>
+      <EnglishText>I'm sure there are plenty of other
+cities that are more habitable.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>なんだか、土クサイですし････
+洗練されたワタクシには
+似合わない場所ですねえ</JapaneseText>
+      <EnglishText>This place smells like shit,
+not really a place for someone
+sophisticated like me...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>ハァ････
+娘はアイグレッテに戻る気は
+無いようね</JapaneseText>
+      <EnglishText>Huh...my daughter doesn't seem
+to want to go back to Aiglette.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>住みなれてしまえば、ここも
+良い場所には違いないんだけど
+アイグレッテ以上ではないわ</JapaneseText>
+      <EnglishText>It must be a nice place to live
+once you get used to it, but it's
+not better than Aigrette.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>何と言ってもアイグレッテには
+エルレイン様がいらっしゃるんですもの</JapaneseText>
+      <EnglishText>After all, Lady Elrane
+is in Aigrette.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>アイグレッテは
+エルレイン様の加護を受けた街</JapaneseText>
+      <EnglishText>Aigrette is a city
+blessed by Lady Elrane.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>アイグレッテ以上の
+街なんて無いのに････
+There is no city
+better than Aiglette...</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>ここの食事は
+とても、おいしいですねぇ</JapaneseText>
+      <EnglishText>The food here is
+very, very good!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>田舎風の味つけも
+苦になりませんし</JapaneseText>
+      <EnglishText>I don't mind the
+country-style flavoring.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>ここの料理は、ウチの母さん直伝なんだよ
+母さんも、誰かに
+料理を教わったらしいけどね</JapaneseText>
+      <EnglishText>The recipes here were handed down
+from my mother, who also learned
+how to cook from someone else.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>アナタのお母さまに
+料理を教えたのは
+いったい、誰なのでしょう</JapaneseText>
+      <EnglishText>Who taught your mother how to cook?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>ぜひ、ウチ専属のシェフに
+なってほしいですわ</JapaneseText>
+      <EnglishText>I would love to have
+her as my personal chef.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>風景画がある
+どこかの遺跡の絵のようだ</JapaneseText>
+      <EnglishText>There's a landscape painting.
+Looks like a painting of some ruins.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>緑に覆われた遺跡の絵だ
+クレスタの近くに、そんな場所があったような････</JapaneseText>
+      <EnglishText>It's a picture of ruins covered in greenery.
+There was such a place near Cresta.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>ここは客室
+勝手に触らないでおこう</JapaneseText>
+      <EnglishText>This is a guest room.
+Let's not touch it without permission.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>何も入っていないようだ</JapaneseText>
+      <EnglishText>Doesn't look like there's anything in there.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>奥に何かありそうですが････？</JapaneseText>
+      <EnglishText>Is there something in the back...?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>何かあるな････</JapaneseText>
+      <EnglishText>There's something here...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>&lt;item:00000122&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:00000122&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>これは････
+ネルソンさんの趣味かな････</JapaneseText>
+      <EnglishText>This...
+I wonder if this is one of Nelson's hobbies...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Don't have enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>I look forward to seeing you again.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>{16}{25}{CA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{CA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>{16}{25}{D2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{D2}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

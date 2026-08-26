@@ -1,0 +1,950 @@
+<SceneText>
+  <FriendlyName>Dunamis Orphanage</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>デュナミス孤児院</JapaneseText>
+      <EnglishText>Dunamis Orphanage</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;char:000003E8&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>トニア</JapaneseText>
+      <EnglishText>Tonya</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ユニー</JapaneseText>
+      <EnglishText>Yuni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>シナモン</JapaneseText>
+      <EnglishText>Cinnamon</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>バジル</JapaneseText>
+      <EnglishText>Basil</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>ソルト</JapaneseText>
+      <EnglishText>Salt</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>デュナミス孤児院</JapaneseText>
+      <EnglishText>Dunamis Orphanage</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>元・&lt;Loni&gt;のベッドだ
+今はシナモンが使っている</JapaneseText>
+      <EnglishText>&lt;Loni&gt;'s old bed.
+Cinnamon is using it now.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>昔のテストがしまわれていた
+&lt;Loni&gt;：数学３５点
+&lt;Kyle&gt;：歴史２８点</JapaneseText>
+      <EnglishText>Old test papers are here.
+&lt;Loni&gt;: Math - 35 Points
+&lt;Kyle&gt;: History - 28 Points</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>これは！</JapaneseText>
+      <EnglishText>This is...!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いろいろのクイズ問題を見つけた！</JapaneseText>
+      <EnglishText>Found all sorts of quiz questions!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>クイズ本に新しいジャンルが追加されました</JapaneseText>
+      <EnglishText>A new category has been added to the quiz books!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>『レンズ科学読本・不思議パワーを解明せよ』
+なにやらあやしげな本が置かれている</JapaneseText>
+      <EnglishText>There's some kind of suspicious book on the shelf.
+{02}The Lens Science Reader:
+Uncovering the Mysterious Power</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>もう、&lt;Kyle&gt;ってば
+歩きながら眠らないでよ
+ゾンビみたいで、こわいでしょ！</JapaneseText>
+      <EnglishText>Hey, &lt;Kyle&gt;.
+Stop sleep walking.
+You look like a zombie and it's scary!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>ムニャムニャ････
+オナカ････へったぁ････
+もっと食べたいなぁ････</JapaneseText>
+      <EnglishText>Mmmm, Mmmm....
+Ma, hey....
+'m still hungry....</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>やっぱり、&lt;Kyle&gt;は
+本物の英雄をめざすんだね････</JapaneseText>
+      <EnglishText>After all, &lt;Kyle&gt;
+Is aiming to be a real hero....</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>ごめんな、トニア
+さびしい想いをさせるけど････
+I'm sorry, Tonya
+I know you're a bit lonely....</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>ん、だいじょうぶ
+ルーティやみんながいるから････
+あたしは、さびしくないよ
+Hmm, It's fine.
+Because of Rutee and everyone else,
+I'm not lonely.</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>ガンバってね、&lt;Kyle&gt;！
+ルーティが悲しむようなこと
+しちゃダメだかんね！</JapaneseText>
+      <EnglishText>Dummy, &lt;Kyle&gt;!
+Don't do things that
+make Rutee sad!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>&lt;Loni&gt;が帰ってきてうれしいなー</JapaneseText>
+      <EnglishText>I'm glad &lt;Loni&gt; is back!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>あれぇ？
+&lt;Kyle&gt;がこんな時間に起きるなんて
+めずらしいね！</JapaneseText>
+      <EnglishText>Huh?
+I can't believe &lt;Kyle&gt;'s awake
+at this hour. That's weird!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>そんなことないって････
+ちゃんと、ニンジンも残さないで
+食べてるだろ････</JapaneseText>
+      <EnglishText>That's not true...
+I'm sure you've eaten all
+the carrots you could...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>&lt;Kyle&gt;、まだ
+寝ぼけてるみたいだね････</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, you look like
+you're still sleepwalking.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>ムニャムニャ････
+おしっこ～････</JapaneseText>
+      <EnglishText>Munya Munya...
+Pee...</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>ふわぁ････あれぇ？
+&lt;Kyle&gt;、おでかけするの？</JapaneseText>
+      <EnglishText>Fuwaa...huh?
+&lt;Kyle&gt;, are you going out?</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>････ああ
+しばらく、留守にするんだ
+いい子にしててくれよな</JapaneseText>
+      <EnglishText>...Oh.
+I'm going away for a while.
+You be good, okay?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>ふたりとも
+いってらっしゃ～い････
+ふわぁ････</JapaneseText>
+      <EnglishText>Have a good day, you two!
+Fuwaa...</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>ねえ、みてみて！
+このスカート
+あたしが作ったんだよ！</JapaneseText>
+      <EnglishText>Hey, look at this!
+I made this skirt by myself!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>ほー、こりゃたいしたもんだ
+ユニーは、将来
+いいお嫁さんになるな！</JapaneseText>
+      <EnglishText>Wow, that's great!
+Yunie, you're going
+to be a great wife!</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>えへへ～★
+みんなの服、あたしが作ってるんだよ
+&lt;Loni&gt;にも、なにか作ったげようか？</JapaneseText>
+      <EnglishText>Hehehe...★
+I'm making clothes for everyone.
+Can I make something for &lt;Loni&gt; too?</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>そうだ！　&lt;Loni&gt;に
+あたしとおそろいのスカートを
+作ってあげるよ！</JapaneseText>
+      <EnglishText>I know!
+I'll make &lt;Loni&gt; a
+matching skirt with mine!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>いや
+スカートはちょっと････</JapaneseText>
+      <EnglishText>No, skirts are kindda...</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>ね！　ね！　&lt;Loni&gt;にも
+あたしとおそろいのスカート
+作ってあげるよ！</JapaneseText>
+      <EnglishText>Hey!　Hey!
+I'll make &lt;Loni&gt; a matching skirt!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>へっへ～！
+おれ、さっきの冒険で
+レンズ拾っちゃった～！</JapaneseText>
+      <EnglishText>Heh...!
+I picked up a lens on
+our adventure just now!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>なんだよ、そんなにレンズを集めて
+アタモニ神団にでも
+寄付するのか？</JapaneseText>
+      <EnglishText>What, you're going to collect
+lens and donate them to the
+Church of Atamoni?</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>ちがうよ、このレンズを
+おカネにかえて
+ルーティにあげるんだ！</JapaneseText>
+      <EnglishText>No way, I'm going to trade this lens
+for money and give it to Mama Rutee!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>このレンズを
+おカネにかえて
+ルーティにあげるんだ！</JapaneseText>
+      <EnglishText>I'm going to trade this lens for
+money and give it to Mama Rutee!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>これだけレンズがあったら
+この建物を、お城みたいに
+できるだろ！</JapaneseText>
+      <EnglishText>If I had lots of lens,
+I could make this building
+look like a castle!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>お～い、&lt;Kyle&gt;
+だいじょうぶか？
+なんだか、フラフラしてるぞ</JapaneseText>
+      <EnglishText>Hey, &lt;Kyle&gt;.
+Are you all right?
+You look a little dizzy.</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>････Ｚｚｚ････</JapaneseText>
+      <EnglishText>...Zzz...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>････眠りながら歩けるってのも
+才能だよな････</JapaneseText>
+      <EnglishText>...Being able to sleep
+walk is also a talent...</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>お～い、&lt;Kyle&gt;
+だいじょうぶか？
+なんだか、フラフラしてるぞ</JapaneseText>
+      <EnglishText>Hey, &lt;Kyle&gt;.
+Are you all right?
+You look a little dizzy.</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>おっ、寝ぼすけ&lt;Kyle&gt;
+今日は、早起きじゃん！</JapaneseText>
+      <EnglishText>Whoa, sleepyhead &lt;Kyle&gt;!
+You're up early today!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>おっ、寝ぼすけ&lt;Kyle&gt;
+今日は、早起きじゃん！</JapaneseText>
+      <EnglishText>Whoa, sleepyhead &lt;Kyle&gt;!
+You're up early today!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>おれ、もう少し大きくなったら
+&lt;Kyle&gt;みたいに
+英雄を目指すよ！</JapaneseText>
+      <EnglishText>When I'm older,
+I'm going to be
+a hero like &lt;Kyle&gt;!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>････いや、おまえにはここに残って
+母さんや、みんなのことを
+守ってほしいんだ</JapaneseText>
+      <EnglishText>No, I want you to
+stay here and protect
+mom and everyone else.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>そっか、そうだよな････
+&lt;Kyle&gt;も&lt;Loni&gt;もいないんだ
+おれが、ここを守らなきゃ････</JapaneseText>
+      <EnglishText>Oh yeah, that's right...
+&lt;Kyle&gt; and &lt;Loni&gt; aren't here,
+so I have to protect this place. </EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>ふたりとも、孤児院のことは
+おれに任せてくれよ
+しっかりと、守るからさ</JapaneseText>
+      <EnglishText>Both of you, leave the orphanage to me,
+and I'll make sure to protect it!</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>モンスターに会った時
+ただ、ふるえていました････
+ボクは、おくびょう者です････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>バジルは、バジルで
+いいところがたくさんあるさ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>自分らしさですか････
+他人の事はわかっても
+自分の事って意外と
+わからないんですよねぇ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>あいたた、&lt;Kyle&gt;さん
+ひっぱらないでくださいよ
+ボク、これから朝の仕事が････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>それよりも
+レンズを手に入れるのが先だろ
+早く行こうぜ、&lt;Loni&gt;････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>おい････
+俺はこっちだ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>あ～ん
+ひっぱらないでくださいよぅ
+&lt;Kyle&gt;さん････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>うぅん････まだねむいよぉ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>わ、&lt;Kyle&gt;さんが起きてるなんて
+ボク、ひょっとして
+寝坊したんですか!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>ボク、ひょっとして
+夢でも見てるのかな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>あっ、&lt;Kyle&gt;さんだ
+おかえりなさい！
+冒険もいいけど、ムリは禁物ですよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>････母さんとおなじこと
+言うなよ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>だって、&lt;Kyle&gt;さん
+無鉄砲で、行きあたりばったりで
+もう、ドキドキハラハラですよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>&lt;Kyle&gt;さん、
+無鉄砲で、行きあたりばったりで
+もう、ドキドキハラハラですよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>&lt;Kyle&gt;、傷だらけだよ
+たまには、部屋で本でも
+読んでたら？</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, you're all scratched up.
+Why don't you go to your room and
+read a book sometime?</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>読書もいいけど
+おひさまの下で遊ぶのも
+楽しいぜ</JapaneseText>
+      <EnglishText>Reading is nice.
+But playing in the sun is fun.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>ううん････ボクはいいよ
+ひとりで、本を読むのが
+好きだもん････</JapaneseText>
+      <EnglishText>Nah...I like to read books alone.</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>ボクはいいよ
+ひとりで、本を読むのが
+好きだもん････</JapaneseText>
+      <EnglishText>I like to be alone
+and read books.</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>&lt;Kyle&gt;、はやく
+ハミガキしておいでよ</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, go brush your teeth.</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>う～ん････、それじゃ
+ハミガキセットを買ってこなきゃ････
+Ｚｚｚ････</JapaneseText>
+      <EnglishText>Mmmm...I'll have to get
+the toothpaste then...
+Zzz...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>&lt;Kyle&gt;、ハミガキの前に
+顔をあらったほうが
+いいかも････</JapaneseText>
+      <EnglishText>&lt;Kyle&gt;, you might want to
+wash your face before brushing.</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>あ、&lt;Kyle&gt;････
+よかった、ボク
+怖い夢をみたんだ････</JapaneseText>
+      <EnglishText>Oh, &lt;Kyle&gt;...
+Good, I thought I'm
+having a scary dream.</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>どうして？
+ここには、みんないるじゃないか
+怖いことなんて、ないだろ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>うん････わかってるよ････
+わかってるけど････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>ボクと仲良くしてくれるのは
+&lt;Kyle&gt;だけだもん
+どうせみんなは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>なに言ってんだ
+おまえの方から寄っていけば
+みんな、受け入れてくれるぞ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>オレだって、いつまでも
+ここにいるわけじゃないんだぜ
+自分で、なんとかしないとな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>そうだよね････
+&lt;Kyle&gt;の言うとおりだ
+ボク、がんばってみるよ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>そうだな、がんばろうな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>&lt;Kyle&gt;
+早起きしてどこかに行くの？
+危ないトコに、行かないでね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>心配するなよ
+オレはだいじょうぶさ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>&lt;Kyle&gt;
+あまり、危ないトコには
+行かないでね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>こいつの面倒は
+この&lt;Loni&gt;兄ちゃんが見てるから
+安心しろよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>&lt;Kyle&gt;、なんだか
+本の中の英雄みたい
+カッコいいな････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>ね！
+ボク、最近ユニーといっしょに
+畑の仕事をしてるんだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>そうかあ！
+仕事も遊びも、みんなといっしょだと
+楽しいだろ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>うん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>そろそろ、キュウリとトマトの
+収穫時期なんだ
+楽しみだな！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Found {16}{25}{C2}{C0}, but
+inventory full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

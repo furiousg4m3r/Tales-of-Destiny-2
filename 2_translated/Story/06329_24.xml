@@ -1,0 +1,412 @@
+<SceneText>
+  <FriendlyName>Laguna Ruins</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>　戦闘不能</JapaneseText>
+      <EnglishText>Knocked out</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;item:0000002D&gt;を手にいれました</JapaneseText>
+      <EnglishText>Acquired &lt;item:0000002D&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>あいたたた････
+おい、&lt;Kyle&gt;、大丈夫か？</JapaneseText>
+      <EnglishText>Ow-ow-ouch...
+Hey, &lt;Kyle&gt;, are you alright?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>うん、なんとか････</JapaneseText>
+      <EnglishText>Yeah, somehow...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>････うわ！
+ずいぶんと落ちちゃったね
+あーあ、ついてないなぁ････</JapaneseText>
+      <EnglishText>...Whoa!
+We really fell a long way, didn't we.
+Ah man, we can't reach that.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ここはどこだろうな？
+色々な物が落ちてるが････</JapaneseText>
+      <EnglishText>I wonder where we are?
+There's a lot of stuff down here...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ホントだ････
+ずいぶん、いろんなものがあるね</JapaneseText>
+      <EnglishText>Yeah, no kidding.
+There's a little bit of everything here.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>こんだけありゃあ
+上にあがるために使えそうなもんも
+見つけられるはずだ</JapaneseText>
+      <EnglishText>We should be able to find something
+that we can use to climb back up with
+this much crap laying around.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>あの枝にロープを引っかければ
+上にあがれそうだな</JapaneseText>
+      <EnglishText>I bet we could climb up if 
+we tossed the rope onto that branch.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>わかった、やってみるよ！</JapaneseText>
+      <EnglishText>Gotcha, I'll give it a shot!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>何か道具があれば
+ここから登れそうだ！</JapaneseText>
+      <EnglishText>It appears that we could ascend
+from here if we had some kind of tool!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>なんだこれ？
+まだ動いてるみたいだ</JapaneseText>
+      <EnglishText>What's this thing?
+It looks like it's still running.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>こいつは････天地戦争時代の機械だ
+前に、神殿の本で見たことがある</JapaneseText>
+      <EnglishText>This's... a machine from the Aeth'er Wars,
+I saw it once in one of the books at the shrine.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>確か、分析だか透視だかをする
+機械だったハズだ</JapaneseText>
+      <EnglishText>If I remember correctly, it's supposed
+to be either an assay or x-ray machine.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>ブンセキ？　トーシ？
+どういうこと？</JapaneseText>
+      <EnglishText>As-sey? Ex-ray?
+What're those?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>ま、見てろって
+たとえば、このバンダナを
+入れるとだな････</JapaneseText>
+      <EnglishText>Well, here, just watch.
+For example, if I insert
+this bandana like so...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>バンダナ
+主に頭部を装飾するのに使用する</JapaneseText>
+      <EnglishText>Bandana
+An object which mainly adorns the head
+but can also be used for other purposes.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>この穴にモノを入れれば
+それが何なのか教えてくれるんだよ</JapaneseText>
+      <EnglishText>If we put something into this opening,
+then it'll tell us what it is.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>こいつを使えば、
+上にあがるのに使えそうなものも
+ラクに探せるってワケだ</JapaneseText>
+      <EnglishText>Which means that it'll be easier for us to find something
+that we can use to climb up out of here if we put
+this sucker to use.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>おもしろ～い！
+ねぇ&lt;Loni&gt;、オレもやってみたい！</JapaneseText>
+      <EnglishText>Ooh, spiffy!
+Hey &lt;Loni&gt;, I wanna give it a try too!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>それじゃ、&lt;Kyle&gt;
+『動かせそうなもの』の前に立って
+&lt;button:00000025&gt;ボタンを押すんだ</JapaneseText>
+      <EnglishText>Okay then, &lt;Kyle&gt;.
+Stand in front of &quot;something that looks movable&quot; and
+press the &lt;button:00000025&gt; button.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>&lt;button:00000025&gt;ボタンを押しっぱなしにして
+移動すれば、物を引きずれる
+それを、この機械の中に入れるんだ</JapaneseText>
+      <EnglishText>You can drag things if you move while holding
+down the &lt;button:00000025&gt; button.
+Then just pop 'em inside this machine.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>{15}{24}{A2}{C0}  レベル : {14}{24}{A4}{C0}</JapaneseText>
+      <EnglishText>{15}{24}{A2}{C0}  Level: {14}{24}{A4}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>　毒</JapaneseText>
+      <EnglishText> Poison</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>　衰弱</JapaneseText>
+      <EnglishText> Weak</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>　麻痺</JapaneseText>
+      <EnglishText> Paralyze</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{18}{44}{B4}{C0}{18}{44}{B8}{C0}{18}{44}{BC}ﾀ{18}{44}{C0}ﾀ{18}{44}{C4}{C0}
+ＨＰ : {14}{24}{A8}{C0}／{14}{24}{AA}{C0}  ＴＰ : {14}{24}{AC}{C0}／{14}{24}{AE}{C0}&lt;0B:00000000&gt;</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>{16}{26}{12}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>{16}{26}{1A}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Found {16}{26}{1A}{C0}, but
+inventory full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,44 @@
+<SceneText>
+  <FriendlyName>&lt;0B:00000001&gt;&lt;03:00000000&gt;あなた＝{14}{25}{46}{C0}枚：トランプマン＝{14}{25}{48}{C0}枚&lt;0B:00000000&gt;</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;0B:00000001&gt;&lt;03:00000000&gt;あなた＝{14}{25}{46}{C0}枚：トランプマン＝{14}{25}{48}{C0}枚&lt;0B:00000000&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>引き分けです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>あなたの勝ちです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>トランプマンの勝ちです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;03:00000000&gt;ＧＡＭＥをやめますか？
+　
+&lt;button:00000035&gt;やめる　&lt;button:00000036&gt;やめない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

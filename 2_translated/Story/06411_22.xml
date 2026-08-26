@@ -1,0 +1,836 @@
+<SceneText>
+  <FriendlyName>ノイシュタット</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>雑貨屋</JapaneseText>
+      <EnglishText>General Store</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>悪趣味な金色のトロフィーが飾られている</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>これ見よがしに宝石が飾られている</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>高価そうな陶器が自慢げに展示されている</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;item:00000189&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>高そうな葉巻が机の上に置かれている</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>「オベロン社廃坑」は
+この街の西にあります</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>南の海岸線に沿って
+白雲の尾根の中を進めば
+すぐ見付かるはずです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>わかった！
+必ず、宝物を
+取ってくるよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>「オベロン社廃坑」は
+この街の西にあります</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>南の海岸線に沿って
+白雲の尾根の中を進めば
+すぐ見付かるはずです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>トホホホ････
+あの巨大企業オベロン社の宝が
+こんなガラクタだったなんて････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>気の毒だったな、おっさん
+ま、そのうち、いいことあるって</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>くぅ～っ！
+苦労して手に入れた
+遺言状がぁっ！！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>ホーホッホッホッ
+こんなすばらしい武芸者に会えるとは
+ついてますなぁ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>どういうことなんですか！
+わたしもひと口のせてくれると
+おっしゃったのにぃ～っ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>彼が紙をわたせと言ったから
+遺言状のことだと思って
+わたしたんですよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>そしたら、それをひったくって
+そのままトイレに駆けこむなんて････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>いらっしゃいませ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>ありがとうございました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>またおこしください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>メイド</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>この先はご主人様の私室となっております
+申し訳ありませんが、お客様はお引き取り下さい</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>おお、お待ちしておりましたぞ！
+必ず来てくださるものと
+信じておりました！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>あったりまえさ！
+困っている人を助けるのも
+英雄たるものの使命だからね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>････で、俺たちに
+頼みたいことってのはなんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>実はですな
+以前、この街にオベロン社という
+大企業の支部がありまして････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>先の大乱でオベロン社が消滅したあと
+そこの金庫に収められていた宝も
+霧のように消え失せてしまいました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>ところが、私が調べましたところ
+その宝が街の近くの廃坑に
+眠っていることがわかったのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>つまり、「その宝を
+廃坑から取ってきてほしい」
+そういうわけか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>お礼はいくらでもいたしますゆえ
+なにとぞ、なにとぞ
+よろしくお願い申し上げます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>････貴様、どこからかぎつけた？
+彼女の遺言状にしか記されていないことを
+貴様がなぜ知っている？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>イ、イレーヌさまの遺言状など
+私どもは、つゆと存じ上げません！
+すべて、偶然に知ったことでして････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>おかしいな、僕は「彼女」と言っただけだ
+イレーヌなどとは
+一言も言っていないぞ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>そ、それは････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>おいおい、&lt;Judas&gt;
+なにつっかかってんだよ！
+おっさん、おびえてるだろうが</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>おびえている？
+図星をつかれて
+あわてているだけだろうが</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>ず、図星などとは、いいがかりだ！
+こんなことなら
+この話、なかったことに････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>わ～～っ！
+と、とにかく！
+宝を取ってくれば、いいんだよね？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>････まぁ、そうですが
+しかし････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>よし、わかった！
+待っててよ、おじさん
+オレたちが必ず持って帰って来るから！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>オベロン社跡地の
+この屋敷を買い取ったら
+金庫に遺言状が入っておってな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>それにしても、あのバカども
+ちょっとおだてたら、飛んで行きよった</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>ヤツらが途中でのたれ死んだところで
+こっちの被害は１ガルドもない
+我ながら、うまくしてやったものだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>あいかわらず、商売上手でいらっしゃる
+あやかりたいものですなぁ
+ホーホッホッホッ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>おお、お待ちしておりましたぞ！
+ケガなどされていないかと
+そればかり心配で････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>ケッ、ウソこけ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>ところで、お約束の品は
+持ち帰って、いただけましたかな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>ああ、もちろんさ！
+ほらっ、これ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>････これが
+本当に宝なのですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>これしか、それらしいものは
+なかったぜ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>････あの、これはいったい
+なんなんでしょうか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>知らない！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>俺たちは、ただ宝を持ってこいと
+言われただけなんでねぇ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>････ふっ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>そ、それはそうですが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>さ、約束のモノは持ってきたんだ
+報酬をいただきたいんだが？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>････し、しかし
+なんなのか、わからないものでは
+宝とは呼べないのではないかと････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>････この期におよんで
+まだなにか
+持ってこいと言うのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>Businessman</JapaneseText>
+      <EnglishText>商人</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>ひっ！
+な、な、なんでもありませんっ！
+どどどど、どうぞお受け取りを！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>&lt;0B:00000001&gt;&lt;num:00000BB8&gt;&lt;0B:00000000&gt;ガルドを手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>やったぁ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>んじゃ、そういうことで</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

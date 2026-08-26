@@ -1,0 +1,432 @@
+<SceneText>
+  <FriendlyName>Old Darilsheid - Inn</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>宿屋</JapaneseText>
+      <EnglishText>Inn</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>シェフ</JapaneseText>
+      <EnglishText>Chef</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド・宿屋</JapaneseText>
+      <EnglishText>Old Darilsheid - Inn</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Old Darilsheid </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>使い古された家具が並んでいる</JapaneseText>
+      <EnglishText>A row of worn-out furniture.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a great day! </EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It costs &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; Gald 
+to spend the night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Stay the night?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+ いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Enjoy your stay!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>Please visit again.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0}, but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>Nothing else here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>{16}{35}{D8}{C0}作ってる？</JapaneseText>
+      <EnglishText>Are you making {16}{35}{D8}{C0}?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>{16}{35}{D8}{C0}の作り方を
+知りたいですか？</JapaneseText>
+      <EnglishText>Would you like to know 
+how to make {16}{35}{D8}{C0}?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>{16}{35}{D8}{C0}の作り方を
+教えてあげよう</JapaneseText>
+      <EnglishText>I will teach you
+how to make {16}{35}{D8}{C0}</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>自分で作るのかい？
+まぁ、それもいいだろう</JapaneseText>
+      <EnglishText>Did you make it by yourself?
+Well, that's fine.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>{16}{35}{D8}{C0}のレシピがあるんだが、
+&lt;0B:00000001&gt;{14}{35}{D0}{C0}&lt;0B:00000000&gt;ガルドで買わないか？</JapaneseText>
+      <EnglishText>I've got a recipe for {16}{35}{D8}{C0}.
+Would you like to buy it for &lt;0B:00000001&gt;{14}{35}{D0}{C0}&lt;0B:00000000&gt; gald?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>シェフ</JapaneseText>
+      <EnglishText>Chef</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>お金が足りないね</JapaneseText>
+      <EnglishText>You don't have enough Gald.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>{16}{35}{D8}{C0}のレシピを
+売ってあげよう</JapaneseText>
+      <EnglishText>I can sell 
+you the recipe for {16}{35}{D8}{C0}.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>まぁ、しようがないな</JapaneseText>
+      <EnglishText>Well, it can't be helped.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>{16}{25}{DC}{C0}、{16}{25}{DE}{C0}、{16}{25}{E0}{C0}、
+{16}{25}{E2}{C0}、{16}{25}{E4}{C0}</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>{16}{35}{D8}{C0}を作るのに必要な食材は
+{18}{45}{D4}{C0}です </JapaneseText>
+      <EnglishText>In order to make {16}{35}{D8}{C0} you need
+these ingredients {18}{45}{D4}{C0}</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>材料を持っているじゃないか</JapaneseText>
+      <EnglishText>You dont have the necessary ingredients</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>ゆずってくれれば{16}{35}{D8}{C0}を
+作るがどうだい？ </JapaneseText>
+      <EnglishText>Hand over the ingredients 
+to make {16}{35}{D8}{C0}?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい
+　いいえ</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes
+ No</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>そうか、待ってな　
+すぐに{16}{35}{D8}{C0}を作ってやるよ</JapaneseText>
+      <EnglishText>Well, wait here
+I'll go cook {16}{35}{D8}{C0} at once</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>残念だな
+凄く美味いのに･･･</JapaneseText>
+      <EnglishText>What a shame!
+It's too good...</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>食材を探しているんだ
+見つけたら持ってきてくれないかい？</JapaneseText>
+      <EnglishText>I'm looking for ingredients, if you
+find some can you bring them to me?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>お前には資格がない
+また、出直して来るといい</JapaneseText>
+      <EnglishText>You're not qualified
+Well, you'll have to visit again</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>お前のような奴を待ってた
+これをゆずるのに相応しい料理人を</JapaneseText>
+      <EnglishText>I've been waiting for someone like you.
+A cook worthy of this recipe!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>{16}{35}{D8}{C0}のレシピを拾いました</JapaneseText>
+      <EnglishText>Acquired the recipe for {16}{35}{D8}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>{16}{35}{EC}{C0}の作り方を覚えました</JapaneseText>
+      <EnglishText>Learned how to cook {16}{35}{EC}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

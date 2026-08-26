@@ -1,0 +1,1389 @@
+<SceneText>
+  <FriendlyName>Aigrette - Grand Bazaar</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>アイグレッテ</JapaneseText>
+      <EnglishText>Aigrette</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;char:000003E8&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>おじさん</JapaneseText>
+      <EnglishText>Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>むすめ</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>屋台</JapaneseText>
+      <EnglishText>Food Stand</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>青年</JapaneseText>
+      <EnglishText>Youth</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>学者</JapaneseText>
+      <EnglishText>Scholar</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>アイグレッテ・グランドバザール</JapaneseText>
+      <EnglishText>Aigrette - Grand Bazaar</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>アイグレッテ・グランドバザール</JapaneseText>
+      <EnglishText>Aigrette - Grand Bazaar</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>早く大聖堂に行かないと！</JapaneseText>
+      <EnglishText>We have to get to the cathedral, fast!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>アイグレッテ・グランドバザール</JapaneseText>
+      <EnglishText>Aigrette - Grand Bazaar</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>荷車には、アクアヴェイル産の食材が積まれている</JapaneseText>
+      <EnglishText>The cart is loaded with produce from Aquaveil.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>アクアヴェイル地方で採れたライスだ
+ライスはアクアヴェイル地方の主食らしい</JapaneseText>
+      <EnglishText>Rice from the Aquaveil region.
+Apparently, rice is a staple food in the Aquaveil region.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>工事用のヘルメットだ
+ずいぶんと使い込まれている</JapaneseText>
+      <EnglishText>It's a construction helmet.
+It's been used for a long time.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>人の身長ほどもある、大きなタルだ
+中身は････食材のようだ</JapaneseText>
+      <EnglishText>It's a large barrel, as tall as a person.
+Looks like it contains food.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>タルの中身は････
+カルバレイス特産のスパイスだ</JapaneseText>
+      <EnglishText>The contents of the barrel are...
+A traditional spice from Calvalese.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>小麦の袋だ
+袋には「クレスタ産」と書かれている</JapaneseText>
+      <EnglishText>A bag of wheat.
+The bag is labeled &quot;Cresta Grown&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>クレスタの水車小屋でひいた小麦だろうか？</JapaneseText>
+      <EnglishText>Is it wheat that was ground
+in Cresta's watermill?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>うわぁ････！</JapaneseText>
+      <EnglishText>Whoa...!</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>ここが、聖都アイグレッテ
+この大陸一番の都市だ</JapaneseText>
+      <EnglishText>This is the Holy City of Aigrette.
+The greatest city on this continent.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>そして、アタモニ神団の総本山である
+ストレイライズ大神殿も、ここにある</JapaneseText>
+      <EnglishText>The headquarters of the Order of Atamoni are here,
+as well as the Great Straylize Temple.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>どうだ、&lt;Kyle&gt;？
+クレスタなんかより
+ずーっと、でかいだろ？</JapaneseText>
+      <EnglishText>What do you think, &lt;Kyle&gt;?
+A lot bigger than Cresta, right?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>うん、うん！
+すごいなぁ････</JapaneseText>
+      <EnglishText>Yeah, yeah!
+It's amazing...</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>とりあえず
+適当に街をぶらつきながら
+宿を探そうぜ</JapaneseText>
+      <EnglishText>Let's just explore the city for now,
+and find a place to stay.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>おれっちはよ
+今度、ここで店を出すんだ
+よかったら、来てくれよ</JapaneseText>
+      <EnglishText>I'm... I'm gonna open a restaurant here.
+You're welcome to visit.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>ほー
+で、何を売るんだよ？</JapaneseText>
+      <EnglishText>Hey!
+So, what are you selling?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>その辺で、売ってる
+安い品物を仕入れて、高く売る！
+商売の基本だろ、基本！</JapaneseText>
+      <EnglishText>It's just around the corner.
+Buy low, sell high!
+It's basic business. Basic business!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>店ができたら
+バンバン買い物して
+おれっちを、もうけさせてくれよ！</JapaneseText>
+      <EnglishText>When the store opens,
+I'd like you to buy from me.
+You're gonna make me a lot of money!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>誰が行くか！</JapaneseText>
+      <EnglishText>As if!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>あ～っ、しくじったなぁ
+ちっきしょう････</JapaneseText>
+      <EnglishText>Ahhh, I screwed up.
+Damn it...</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>あのう
+どうしたんですか？</JapaneseText>
+      <EnglishText>Excuse me.
+What's going on?</EnglishText>
+      <SpeakerId>6</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>安いものをたくさん仕入れて
+高く売ろうとしたんだけどよ
+金を使いはたして、店が出せねえんだ</JapaneseText>
+      <EnglishText>I bought a lot of cheap stuff
+and tried to sell it at a high price.
+Spent all my money, and now I can't open a store.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>そういうのを
+「安物買いの銭失い」というんだ</JapaneseText>
+      <EnglishText>That's called &quot;wasting money on cheap things&quot;.</EnglishText>
+      <SpeakerId>7</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>まさか、出店資金を
+使いはたしちまうなんてなぁ････
+商売ってのは、こわいぜ････</JapaneseText>
+      <EnglishText>I never thought I'd run out
+of money to open a store...
+Business is a scary thing...</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>ボウズたち、この街は初めてかい？
+実は、おれっちもそうなんだ
+ここで、なにか商売を始めるつもりさ</JapaneseText>
+      <EnglishText>Are you kids new in town?
+So am I, and I'm gonna start
+a business here.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>カネはないけど
+ここにゃあ、チャンスが転がってる
+おれっちも、ガンバっちゃうぞ！</JapaneseText>
+      <EnglishText>I don't have a lot of money, but
+there are a lot of opportunities here,
+and I'm going to do my best!</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>いらっしゃ～い★
+ここは、甘味処「あまあま」よん
+甘いモノは、疲れが取れるわよ</JapaneseText>
+      <EnglishText>Welcome!
+This is the candy shop &quot;Ama Ama&quot;.
+These sweets will give you lots of energy!</EnglishText>
+      <SpeakerId>8</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>ありがとね</JapaneseText>
+      <EnglishText>Thanks</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>またね</JapaneseText>
+      <EnglishText>See you later</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>むすめ</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>いらっしゃ～い★
+ここは、甘味処「あまあま」よん
+甘いモノは、疲れが取れるわよ</JapaneseText>
+      <EnglishText>Welcome!
+This is the candy shop &quot;Ama Ama&quot;.
+These sweets will give you lots of energy!</EnglishText>
+      <SpeakerId>8</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>おう！
+ちょっと立ち食いして行かねえか！</JapaneseText>
+      <EnglishText>Hey!
+Let's go grab a bite to eat!</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>ありがとよ！</JapaneseText>
+      <EnglishText>Thank you!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>またこいよ！</JapaneseText>
+      <EnglishText>Come again!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>屋台</JapaneseText>
+      <EnglishText>Food Stand</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>おう！
+ちょっと立ち食いして行かねえか！</JapaneseText>
+      <EnglishText>Hey!
+Let's go grab a bite to eat!</EnglishText>
+      <SpeakerId>9</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>オラぁ正直すぎて
+いままで、だまされてばかりだったから
+今度は、だますほうにまわるだ</JapaneseText>
+      <EnglishText>I'm too naive, and I've been
+tricked many times in the past.
+Now it's my turn to fool others.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>････ということで
+お、おまえら、このあやしげなツボ
+買ってくれ････</JapaneseText>
+      <EnglishText>...Um, guys, can you
+buy this weird vase?...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>あんた、その仕事
+むいてねえんじゃねえか････</JapaneseText>
+      <EnglishText>I don't think you're
+cut out for this job...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>こ、このツボを買ってくれ！
+しあわせになれるぞ････</JapaneseText>
+      <EnglishText>I want you to buy this vase!
+It'll make you happy...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>オラが････</JapaneseText>
+      <EnglishText>I'm gonna...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>エルレインさまのスッゲエ奇跡で
+オラのツボが売れるように
+してくんねえかな～</JapaneseText>
+      <EnglishText>I hope the miracles of Lady Elrane
+can help me sell my vase.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>いっしょうけんめいツボ売って
+レンズが集まったら
+たのんでみるかな～</JapaneseText>
+      <EnglishText>I'm going to try my best to sell
+the vase and earn Lens.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>あ、あんたら
+水が、いくらでも入るツボ
+買ってくれねえだか？</JapaneseText>
+      <EnglishText>Hey guys, this vase can hold as much
+water as you want. Would you like to buy it?</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>まさか、底に穴があいてるから
+いくら入れてもイッパイにならない
+なんて言わないだろうねぇ？</JapaneseText>
+      <EnglishText>You're not going to tell me there's
+a hole in the bottom so it won't fill up
+no matter how much I put in, are you?</EnglishText>
+      <SpeakerId>11</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>思いっきり、目をそらしやがったな</JapaneseText>
+      <EnglishText>Don't look away...</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>オラぁ正直すぎて
+いままで、だまされてばかりだったから
+今度は、だますほうにまわるだ</JapaneseText>
+      <EnglishText>I'm too naive, and I've been
+tricked many times in the past.
+Now it's my turn to fool others.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>････ということで
+お、おまえら、このあやしげな像
+買ってくれ････</JapaneseText>
+      <EnglishText>...Um, guys, can you
+buy this weird statue?...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>そこまでいわれて買うバカが
+どこにいるってんだ････</JapaneseText>
+      <EnglishText>What kind of idiot would
+buy something like that?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>････って
+ものほしそうな目で見るな&lt;Kyle&gt;！</JapaneseText>
+      <EnglishText>...Don't look at me like I'm greedy, &lt;Kyle&gt;!</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>こ、この像を買ってくれ！
+ムチャクチャはやってるんだぞ････
+オラの中では････</JapaneseText>
+      <EnglishText>I need you to buy this statue!
+It's really popular...
+In my opinion...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>十八年前の騒乱のあと
+神殿に救いをもとめて集まった人々が
+この大きな街をつくったそうです</JapaneseText>
+      <EnglishText>It is said that after the uprising 18 years ago,
+the people who gathered at the temple
+for salvation built this large city.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>へ～え
+じゃあ、アイグレッテって
+けっこう新しい街なんだね</JapaneseText>
+      <EnglishText>I see. So then, I guess
+Aigrette is a pretty new city.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>神の眼をめぐる動乱から十八年････
+このような大きな街ができるなんて
+人の力は偉大ですね</JapaneseText>
+      <EnglishText>18 years since the upheaval over the
+Eye of Atamoni... It's great to see the
+power of mankind creating such a large city.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>初めてエルレイン様の力を
+目にしましたが････
+おどろきました････
+あれが神の力というものなんですね</JapaneseText>
+      <EnglishText>This is the first time I've seen Master
+Elrane's power... I was astonished...
+That's divine power, isn't it?</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>人の力も偉大だと思っていましたが
+神の力は、もっと偉大ですね</JapaneseText>
+      <EnglishText>I've always thought the power of man was great,
+but the power of God is even greater.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>この街は
+神の力をもとめて集まった
+人たちがつくったもの････</JapaneseText>
+      <EnglishText>This city was built by people who gathered
+together to seek the power of God...</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>やはり人は
+神にたよらずには
+生きていけないのでしょうか</JapaneseText>
+      <EnglishText>Is it true that we cannot live
+without relying on God?</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>十八年前の騒乱のあと
+神殿に救いをもとめて集まった人々が
+この大きな街をつくったそうです</JapaneseText>
+      <EnglishText>It is said that after the uprising 18 years ago,
+the people who gathered at the temple
+for salvation built this large city.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>たった十八年で
+このような大きな街ができるなんて
+人の力は偉大ですね</JapaneseText>
+      <EnglishText>It's amazing how people can build
+such a big city in just 18 years.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>神の眼をめぐる動乱から十八年････
+このような大きな街ができるなんて
+人の力は偉大ですね</JapaneseText>
+      <EnglishText>18 years since the upheaval over the
+Eye of Atamoni... It's great to see the
+power of mankind creating such a large city.</EnglishText>
+      <SpeakerId>12</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>みんな、エルレイン、エルレインって
+さわいでるけど、僕に言わせりゃ
+奇跡なんてトリックだね</JapaneseText>
+      <EnglishText>Everyone's talking about Elrane, Elrane,
+but in my opinion, miracles are just gimmicks.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>祈るだけで、病気が治ったり
+赤ん坊がスクスク育ったり
+そんなことができれば、苦労しないさ</JapaneseText>
+      <EnglishText>If I could be cured of my illness or have
+my baby grow up healthy just by praying,
+life would be really easy.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>しょせん、聖女の奇跡なんて
+トリックなんだ
+僕には、すぐにわかったね</JapaneseText>
+      <EnglishText>In the end, the miracle of the saints
+is just a trick, as I soon learned.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>キミたち！
+この石を、見てくれよ！
+すばらしいだろ？</JapaneseText>
+      <EnglishText>Hey guys! Look at these rocks!
+Aren't they wonderful?</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>ただの石ころじゃん</JapaneseText>
+      <EnglishText>They're just rocks.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>これは、エルレインさまが
+おふみになった
+道ばたの石なんだよ！</JapaneseText>
+      <EnglishText>These are the rocks on the road
+that Elrane used to walk on!</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>さすが
+エルレインさまともなれば
+ただの石にも、高貴な香りが････</JapaneseText>
+      <EnglishText>As one would expect from Lady Elrane,
+even a mere stone has a noble scent...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>そんなわけないじゃん</JapaneseText>
+      <EnglishText>That can't be true.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>ああ････エルレインさま････</JapaneseText>
+      <EnglishText>Oh... Lady Elrane...</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>アイグレッテにやってきたものの
+何をすればいいのかわからずに
+僕はずっと路地をさまよっていた</JapaneseText>
+      <EnglishText>I didn't know what to do after I arrived
+in Aigrette, so I kept wandering the alleys.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>だけどね、あの日、エルレインさまの
+奇跡の力を目の当たりにして思ったんだ
+僕は、あの人についていこうって</JapaneseText>
+      <EnglishText>But that day, when I saw the miraculous power
+of Lady Elrane, I decided to follow her.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>僕は、一生エルレインさまについていく
+僕自身が迷っていても、あの方が
+光となって、導いてくれるからね</JapaneseText>
+      <EnglishText>I will follow Elrane for the rest of my life,
+and if I ever feel lost, she will be
+my guiding light.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>知ってるかい？
+フィリアさまは
+僕に、気があるんだよ</JapaneseText>
+      <EnglishText>You know what? Lady Philia
+has a thing for me.</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>はぁ？
+なんで、そんなことが
+わかるんだよ？</JapaneseText>
+      <EnglishText>Huh? How could you possibly know that?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>だって、僕に向かって
+ほほえみかけてくれたもの
+あれは僕にホレてるね、絶対！</JapaneseText>
+      <EnglishText>I mean, she was smiling at me, so she
+must have a crush on me, that's for sure!</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>フィリアさま、僕に向かって
+ほほえみかけてくれたんだよ
+あれは僕にホレてるね、絶対！</JapaneseText>
+      <EnglishText>Lady Philia, you just smiled at me,
+that's a crush on me, I swear!</EnglishText>
+      <SpeakerId>10</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>あほらし
+あの人は、いつだって
+笑顔じゃねえか</JapaneseText>
+      <EnglishText>She's always smiling, isn't she?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>こっちは街はずれみたいだ</JapaneseText>
+      <EnglishText>Looks like we're on the outskirts of town.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>こっちは街はずれみたいだな</JapaneseText>
+      <EnglishText>Looks like we're on the outskirts of town.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>こっちは街はずれみたいだ</JapaneseText>
+      <EnglishText>Looks like we're on the outskirts of town.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>&lt;item:00000012&gt;屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>こちらでは&lt;item:00000012&gt;の
+販売を行っています</JapaneseText>
+      <EnglishText>We sell &lt;item:00000012&gt; here!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>&lt;item:00000012&gt;を使ってリファインすると
+ステキな物が作られることがあるようです</JapaneseText>
+      <EnglishText>Refining with &lt;item:00000012&gt; seems
+to create some nice things!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>武器や鎧をリファインすると
+付加能力が引継がれることがあるようです</JapaneseText>
+      <EnglishText>Refining weapons and armor
+may transfer additional abilities.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>ひと瓶&lt;0B:00000001&gt;{14}{35}{CC}{C0}&lt;0B:00000000&gt;ガルドになりますが、
+&lt;item:00000012&gt;を買いますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　&lt;0B:00000001&gt;{14}{25}{D6}{C0}本まとめて買う（{14}{35}{D0}{C0}ガルド）&lt;0B:00000000&gt;　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>&lt;item:00000012&gt;はひと瓶
+&lt;0B:00000001&gt;{14}{35}{CC}{C0}&lt;0B:00000000&gt;ガルドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>リファイン講座を聞きたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>&lt;03:00000000&gt;　聞きたい　
+　聞きたくない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>何について知りたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>&lt;03:00000000&gt;　４、スロットについて　
+　５、装飾品のリファイン　
+　６、リファインできない装備品について　
+　前のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>&lt;03:00000000&gt;　１、リファインとは
+　２、アイテムの変化　　　　　　　　　　
+　３、装備品の合成　
+　次のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>リファインとは、選択したアイテムを
+別なアイテムに変化させたり
+武器や防具を合成することのできるコマンドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>リファインを行うのに必要なのは
+&lt;item:00000012&gt;とレンズです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>&lt;item:00000012&gt;は、各地にいる
+私たちルーンボトル屋からお求めください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>レンズはモンスターと
+戦えば拾うことができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>これを機会に、あなたも
+どんどんリファインを行ってください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>アイテムの変化とは、アイテム単体に
+リファインを行うことによって
+別なアイテムに変化させることです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>例えば、&lt;item:00000001&gt;にリファインを行うと
+&lt;item:00000002&gt;に変化し
+逆に、&lt;item:00000002&gt;にリファインを行うと
+&lt;item:00000001&gt;に変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>また、装備品単体をリファインすることによって
+&lt;item:00000001&gt;などのアイテムにも変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>ダンジョンなどでアイテムが尽きてしまった時などに
+行うと、有効な場合もあります
+もちろん、最初からきちんと準備をしておくほうが
+賢いといえますが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>リファインの一番の特徴は
+やはり、装備品の合成です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>装備品を合成すると
+お気に入りの装備品に
+お気に入りのスロットが付いた
+装備品を作ることができます････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>ああ、まずはスロットの説明を
+しなければいけませんね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>スロットとは、装備品に
+付けることができる
+付加能力のようなものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>スロットについては、また別に
+詳しく説明させていただきます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>いちばん簡単な装備品のリファインは
+スロットが一つついた装備品どうしの
+リファインです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>これを行うと、何とステキなことに
+スロットが二つ付いた装備品ができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>注意しなければいけないのは
+剣は剣、鎧は鎧といったように
+同じ種類の装備品でしか
+リファインできません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>他にもいろいろな組み合わせがありますが
+それはやってみてのお楽しみです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>スロットについて
+詳しく説明いたします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>スロットは数多くの種類があり
+アタック：攻撃力が上昇します
+ディフェンス：防御力が上昇します
+などが代表的なものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>スロットによって装備品の名前も変わります
+&lt;item:00000078&gt;　＋　アタックで
+アタックソードなどです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>また、スロットにはレベルがあり
+レベルが高いと効果も上昇します
+最高はレベル８です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>スロット付きの装備品は
+主にモンスターが落とします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>モンスターとたくさん戦って
+スロット付き装備品を手に入れて
+あなただけのスロット付き装備品を
+作ってみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>ここだけの話ですが、装飾品も
+リファインすることができます
+でも、それは装飾品どうしではありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>装飾品と、装備品のような
+形でのみリファインが可能なのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>この場合の利点は、リファインする
+装備品の場所によってスロットが
+変化するということです
+武器、防具によって違います</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>また、装飾品は一つしか装備できないので
+いらない装飾品を、リファインに活用すれば
+非常に有効です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>その他にも、外装つまり「マント」も
+装飾品と同様に装備品とリファインできます
+その場合はなんと、装備品に属性を
+付加することができるのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>141</Id>
+      <JapaneseText>装飾品とのリファインもうまく活用し
+さらにステキなリファイン職人を
+目指してみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>142</Id>
+      <JapaneseText>たまに、装備品の中に黄色い枠の
+アイコンが付いたものがありますね
+それは、ユニークアイテムと
+呼ばれているものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>143</Id>
+      <JapaneseText>ユニークアイテムは見た目にも
+かっこよく、攻撃力も高く
+スロットレベルも高いものが多いですが
+スロットは一つしかありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>144</Id>
+      <JapaneseText>しかし、その反面、装飾品以外のユニークアイテムは
+リファインすることができません
+これ以上強化することができないのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>145</Id>
+      <JapaneseText>ですから、いらなくなったアイテムは
+どんどん売ってしまうことをお勧めします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>146</Id>
+      <JapaneseText>なぜなら、アイテムをたくさん持っていると
+モンスターがアイテムを
+落としてくれなくなってしまうという
+噂があるからです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>147</Id>
+      <JapaneseText>････アイテム整理も大切ですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>148</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>149</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>150</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>151</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>152</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>153</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>154</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>155</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>156</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>157</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>158</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>159</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>160</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

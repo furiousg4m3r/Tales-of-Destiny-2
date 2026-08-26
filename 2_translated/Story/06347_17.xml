@@ -1,0 +1,694 @@
+<SceneText>
+  <FriendlyName>Old Darilsheid City</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Old Darilsheid City</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>おじさん</JapaneseText>
+      <EnglishText>Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>おばさん</JapaneseText>
+      <EnglishText>Woman</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>おじいさん</JapaneseText>
+      <EnglishText>Old Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>光り物好きなメイド</JapaneseText>
+      <EnglishText>Maid who likes shiny things</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Old Darilsheid City</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Old Darilsheid City</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Old Darilsheid City</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>昔はこの先にダリルシェイド港があったようだ
+ガレキに覆われてとても進めそうに無い････</JapaneseText>
+      <EnglishText>It seems the ruins of Darilsheid Port is ahead
+It's covered in rubble and unable to be crossed....</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>今さら、なにをしたってムダだよ
+なにかが変わるわけでも
+ないからな････
+It's pointless to try to cross
+Even if you tried,
+you couldn't.</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ったく、エラそうにしやがって
+こんな像、ジャマなだけで
+酒代の足しにもならねえよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>おじさん、像にやつあたりしても
+しょうがないだろ
+酒代がないなら、働けばいいじゃん</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ほっといてくれよ
+酒を飲んで、思い出にひたるくらいしか
+やることがないんだからよ････</JapaneseText>
+      <EnglishText>Leave me alone.
+I'm just drinking and remembering the good ol' days.
+God I'm so bored....</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>十八年前の騒乱が俺からすべてを
+もぎ取っていっちまったのさ
+家族も、財産も････
+That chaos that happened 18 years ago,
+My family, my property,
+all of it's gone....</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>どんなにさびれても
+俺は、この街が好きなんだ</JapaneseText>
+      <EnglishText>No matter how old it is,
+I like this city.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>だけど、ここにはなにもねえ
+いや、かつてはあったが十八年前の</JapaneseText>
+      <EnglishText>騒乱が全部もっていきやがった
+But there's nothing here now.
+Not like it was 18 years ago.
+That chaos ruined it all.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>待ってるだけじゃ、どうにもならねえ
+やっぱり、自分たちの力で
+動かないとな</JapaneseText>
+      <EnglishText>Just waiting won't help.
+We have to use our own power.
+If we want to move on.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>ボウズも、街の復興作業に
+参加したくなったら
+いつでも、声をかけてくれよ！
+Bowes is also involved in reconstuction.
+If you want to help out,
+then you can ask me anytime!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>みんなで力をあわせれば
+街の復興も進むと思うんだ
+だから、俺は組織を作ろうと考えてる</JapaneseText>
+      <EnglishText>If we all work together,
+then I think we can reconstruct the city.
+So I'm thinking of creating an organization.</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>どうだ、ボウズもやってみないか？
+今どきの若いモンにしちゃあ
+ホネもありそうだしな！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>いいなぁ、そういうの！
+でも、オレには、やることがあるんだ
+ごめんね、おじさん</JapaneseText>
+      <EnglishText>Good, that's it!
+But there's something else I've gotta do.
+Sorry sir.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>今じゃ
+火をおこすだけでも苦労するよ
+ホント、昔はよかったねぇ</JapaneseText>
+      <EnglishText>Now,
+it's hard just to make a fire.
+It was better in the old days.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>昔は、レンズ商品のおかげで
+楽できたのに
+不便な世の中になったもんだよ</JapaneseText>
+      <EnglishText>Back then, when we had lens products,
+I was able to enjoy this.
+Now it's just so inconvienent.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>そういや、昔はナントカって会社が
+いろんなレンズ商品を
+作ってたんだっけ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>オベロン社だよ
+俺がガキのころは
+いろんな品物があったぜ</JapaneseText>
+      <EnglishText>Oberon
+When I was a kid,
+there were lots of items.</EnglishText>
+      <SpeakerId>5</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>オベロン社っていう大きな会社が
+なくなってから、この街は
+すたれる一方さ</JapaneseText>
+      <EnglishText>A big company called Oberon.
+Since it's been gone,
+the city's gone down the hole.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>オベロン社総帥のヒューゴは
+大悪人だったけど、この街に
+レンズ商品の恩恵をもたらしてくれた</JapaneseText>
+      <EnglishText>Hugo, the manager of Oberon Corperation,
+He ended up being a villian
+but for the city, his lens products was so beneficial.</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>そう考えると、あの男は
+この街に必要な人間だったのかも
+しれないね････</JapaneseText>
+      <EnglishText>If you think about it,
+he was just the person this city needed.
+I don't know....</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>たまごを焼くのだって
+まきを使ってたんだ
+昔の人は、それで生活してたんだよね</JapaneseText>
+      <EnglishText>You were cooking eggs,
+so I had to use fire wood.
+That's how they did it in the old days, right?</EnglishText>
+      <SpeakerId>4</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>なんでもレンズがやってくれた
+昔とは違って、今はタイヘンよ
+たまごを焼くだけでもね</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>でも、それっていいと思うんだ
+なんだか「生きてる」って
+実感するじゃないか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>フガフガ！　なにをかくそう
+あの英雄スタンを育てたのは
+このワシぢゃ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>えっ!?
+それって本当!?</JapaneseText>
+      <EnglishText>Eh!?
+Is that true?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>本当ぢゃ！
+町中で迷子になっていたスタンに
+道案内をしたことがあるのぢゃ！
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>じいさん
+それは、育てたとは
+言わねえぞ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>フガフガ！
+なんと、アタモニ神団の連中が
+脱獄犯をおいかけているそうぢゃ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>なんでも、１５歳と２３歳くらいの
+ふたり組らしいのう</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>へ、へぇ～
+神団にたてつくなんて
+悪いヤツらだなぁ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>まったくぢゃのう！
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>フガフガ！　なにをかくそう
+あの英雄スタンを育てたのは
+このワシぢゃ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>えっ!?
+それって本当!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>本当ぢゃ！
+町中で迷子になっていたスタンに
+道案内をしたことがあるのぢゃ！
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>じいさん
+それは、育てたとは
+言わねえぞ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>たとえひとりでも、わしはやるぞい
+この街が、なによりも好きじゃからのう
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>人生は七転び八起きぢゃ
+たとえ７回転んでも
+８回起きあがれば、こっちのモンぢゃ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>壊れたものは、新しく造り直せばよい
+誰もやらんのなら、ワシがやるぞい
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>おぬしは、ワシににておるのう
+いずれ、大人物になろうぞ
+カッカッカ、フゴッ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>フガフガ！
+おぬし、いい目をしているのう
+まるで、若いころのワシを見ているようぢゃ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>ええ～～っ！
+てことは、オレは歳をとったら
+じいちゃんみたいになるの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>なんぢゃ、そのイヤそうな顔は!?
+これでも、若いころのワシは
+ピチピチキュートな少年だったんぢゃぞ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>レンズ&lt;0B:00000001&gt;&lt;num:00000005&gt;&lt;0B:00000000&gt;枚で
+アイグレッテへの
+行き方を知りたくない？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>聞きたい　
+　自力でいきます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>へへ････まいど♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>アイグレッテへ行くには
+ハーメンツヴァレーを
+通る必要があるの</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>街の西の橋を渡り
+海岸線を右手にしてくとつり橋が見える
+そこがハーメンツヴァレー</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>ハーメンツヴァレーを渡ると
+今度は東へ
+川が見えたらそこがアイグレッテよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>････って、足りてないじゃない！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>さまよい続けても
+しらないからネ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>『七将軍像』
+ヒューゴの乱の時代、セインガルドを
+統治していた７人の将軍を奉った像</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>外殻崩壊時、ふりそそいだ破片を浴びて
+セインガルド城と共に土中へ消える</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>{16}{25}{BA}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BA}{C0}.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>{16}{25}{C2}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Acquired {16}{25}{C2}{C0} but
+inventory is full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

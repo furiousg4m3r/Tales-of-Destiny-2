@@ -1,0 +1,48 @@
+<SceneText>
+  <FriendlyName>ヒートリバー</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ヒートリバー</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ヒートリバー</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>{16}{34}{8C}{C0}を
+&lt;0B:00000001&gt;{14}{34}{88}{C0}&lt;0B:00000000&gt;個手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>{16}{34}{8C}{C0}が&lt;0B:00000001&gt;{14}{34}{90}{C0}&lt;0B:00000000&gt;個ありましたが
+これ以上もてません
+宝箱に戻しました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>{16}{34}{8C}{C0}が&lt;0B:00000001&gt;{14}{34}{90}{C0}個ありましたが
+全部は持つことはできません
+・{14}{34}{88}{C0}個取り、{14}{34}{94}{C0}&lt;0B:00000000&gt;個捨てる
+・宝箱に戻す</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

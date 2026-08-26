@@ -1,0 +1,365 @@
+<SceneText>
+  <FriendlyName>Darilsheid Prison</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Darilsheid Prison</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>古都ダリルシェイド</JapaneseText>
+      <EnglishText>Darilsheid Prison</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ダメだ、見張りがいる
+これ以上は進めないよ</JapaneseText>
+      <EnglishText>It's no use, there're guards.
+We can't go any farther.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ダメだ、見張りがいる
+これ以上は進めないよ</JapaneseText>
+      <EnglishText>It's no use, there're guards.
+We can't go any farther.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>しかし他に出口は無いぞ
+どうする？　強行突破するか？</JapaneseText>
+      <EnglishText>But there's no other way out.
+What now?
+Should we bust our way through?</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>待て
+････こっちだ、ついて来い</JapaneseText>
+      <EnglishText>Wait...
+This way, follow me.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>ここはオベロン社総帥だった
+『ヒューゴ』の屋敷だ</JapaneseText>
+      <EnglishText>This mansion belongs to Hugo,
+who used to be the head of
+the Oberon Corporation.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>オベロン社解体と同時に屋敷は接収され、
+神殿に改修されたが、
+隠し通路はまだ残っているはずだ</JapaneseText>
+      <EnglishText>When the Oberon Corp. was dissolved, this
+mansion was confiscated and converted into a temple, but
+the hidden passageway should still be here.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>････ここだ
+おい、これを使って
+そこのマークを撃ってみろ</JapaneseText>
+      <EnglishText>This is the spot...
+Here, use this and try to hit that mark.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>&lt;item:0000002B&gt;をもらいました</JapaneseText>
+      <EnglishText>Acquired &lt;item:0000002B&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>これは？</JapaneseText>
+      <EnglishText>What's this?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>レンズからエネルギーを引き出し、
+熱線と衝撃を撃ち出す道具だ</JapaneseText>
+      <EnglishText>It's a tool that extracts energy from Lenses,
+which is then used to shoot out a blast of heat
+in the form of a beam.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>&lt;button:0000003C&gt;ボタンで熱線を発射できるが、
+一発毎にレンズを一枚消費する
+ムダ撃ちはするなよ</JapaneseText>
+      <EnglishText>You can fire a heat ray by using the &lt;button:0000003C&gt; button,
+but each shot consumes one Lens.
+Don't go around shooting everything in sight.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>&lt;item:0000002B&gt;を使えば
+手の届かない場所にあるスイッチを押せる</JapaneseText>
+      <EnglishText>If you use the &lt;item:0000002B&gt;, you can activate
+switches in places that you cannot normally reach.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>むろん、熱を利用して
+火をともすことも可能だ
+上手く使え</JapaneseText>
+      <EnglishText>Needless to say, the heat which is generated
+can also be used to light a fire.
+Utilize it well.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>わかった
+････ところで&lt;Judas&gt;
+なんでこんな通路の事を知ってるの？</JapaneseText>
+      <EnglishText>Got it... by the way, &lt;Judas&gt;,
+how did you know about this passageway?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>････それを聞いてどうする？</JapaneseText>
+      <EnglishText>What's the point of asking me that?</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>いや、別にどうもしないけど････</JapaneseText>
+      <EnglishText>Well, there's not really a point persay, but...</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>なら、行くぞ</JapaneseText>
+      <EnglishText>Then let's go.</EnglishText>
+      <SpeakerId>3</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>&lt;Judas&gt;は
+称号「&lt;item:00000826&gt;」を得ました</JapaneseText>
+      <EnglishText>&lt;Judas&gt; acquired the title &quot;&lt;item:00000826&gt;&quot;!</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>オベロン社の物らしき書類が保管されている
+どうやら、神の眼の騒乱に関係した物のようだ</JapaneseText>
+      <EnglishText>There are documents in storage that appear
+to belong to Oberon Corporation, related to
+a disaster and the Eye of Atamoni.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>書類にサインがされている
+『ヒューゴ』『イレーヌ』『レンブラント』
+という名前が読み取れた</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>『ダリルシェイド復興を祈願して
+　ストレイライズ神殿フィリア＝フィリスより』</JapaneseText>
+      <EnglishText>The papers are signed:
+&quot;Hugo,&quot; &quot;Irene,&quot; and &quot;Rembrandt&quot;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>{16}{25}{BE}{C0}を手に入れました</JapaneseText>
+      <EnglishText>Acquired {16}{25}{BE}{C0}</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>{16}{25}{C6}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText>Found {16}{25}{C6}{C0}, but
+inventory full already.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>

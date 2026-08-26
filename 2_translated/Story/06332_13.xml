@@ -1,0 +1,137 @@
+<SceneText>
+  <FriendlyName>Laguna Ruins</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ラグナ遺跡</JapaneseText>
+      <EnglishText>Laguna Ruins</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>すごい････　すごいよ　&lt;Loni&gt;！
+こんな大きなレンズ見たの
+生まれて初めてだ</JapaneseText>
+      <EnglishText>Amazing... Look, &lt;Loni&gt;!
+That's the biggest lens
+I've seen in my life.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>俺もや　&lt;Kyle&gt;
+こりゃ夢やあらへんやろな････」</JapaneseText>
+      <EnglishText>Me too, &lt;Kyle&gt;
+It's like a dream....</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いつまでも
+突っ立ってても　しょうがあらへん
+問題はこいつを
+どうやって持って帰るか････</JapaneseText>
+      <EnglishText>This lens has been
+sitting here forever.
+It's a shame, 
+we'll have to move it....</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>う　うおっ････!!</JapaneseText>
+      <EnglishText>Oh, Oh no....!!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>どうしたの　&lt;Loni&gt;？</JapaneseText>
+      <EnglishText>What's wrong, &lt;Loni&gt;?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>い　いま
+レンズの中に　なんかおった！</JapaneseText>
+      <EnglishText>It's okay.
+There's something in the Lens!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>レンズの中にぃ？
+光の具合で
+そう見えただけじゃないの？</JapaneseText>
+      <EnglishText>In the Lens?
+That light.
+Did you just see that?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>気ぃつけろ　&lt;Kyle&gt;！
+罠がしかけられてるのかもしれん！</JapaneseText>
+      <EnglishText>Be careful, &lt;Kyle&gt;!
+It might be a trap!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>ハハッ　だいじょうぶだって　ほら</JapaneseText>
+      <EnglishText>It should be safe.</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>うわあぁっ!!
+な　なんだ････!?</JapaneseText>
+      <EnglishText>Wow!!
+W What....!?</EnglishText>
+      <SpeakerId>1</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>あぶない！
+ふせろ　&lt;Kyle&gt;っ！</JapaneseText>
+      <EnglishText>It's dangerous!
+Get back &lt;Kyle&gt;!</EnglishText>
+      <SpeakerId>2</SpeakerId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

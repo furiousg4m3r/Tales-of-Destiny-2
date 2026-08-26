@@ -1,0 +1,3897 @@
+<SceneText>
+  <FriendlyName>ノイシュタット</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;char:000003E8&gt;</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Kyle&gt;</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Loni&gt;</JapaneseText>
+      <EnglishText>Loni</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Reala&gt;</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>&lt;Judas&gt;</JapaneseText>
+      <EnglishText>Judas</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>おじさん</JapaneseText>
+      <EnglishText>Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>青年</JapaneseText>
+      <EnglishText>Youth</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>男性</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>おじいさん</JapaneseText>
+      <EnglishText>Old Man</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>船員</JapaneseText>
+      <EnglishText>Sailor</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>女の子</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>子供</JapaneseText>
+      <EnglishText>Kid</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>グリッド</JapaneseText>
+      <EnglishText>Grid</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>ミリー</JapaneseText>
+      <EnglishText>Millie</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>ジョン</JapaneseText>
+      <EnglishText>John</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>少女</JapaneseText>
+      <EnglishText>Girl</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>&lt;Nanaly&gt;</JapaneseText>
+      <EnglishText>Nanaly</EnglishText>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ノイシュタット</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>広場の中央に立派な噴水がある</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>『幸運の噴水にガルドを投げ入れましょう』
+噴水の中に小銭が沈んでいます
+持っていきますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>&lt;03:00000000&gt;　ありがたく頂きます　
+　そんなみみっちいマネはしない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>１００ガルド、いただいてしまいました
+なんだか自分がとても小さな人間のように思えました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>『幸運の噴水にガルドを投げ入れましょう』
+････&lt;Kyle&gt;がガルドをいただいてしまったため
+噴水には１ガルドも入っていない････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>これは！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>ＴＯＤ２の追加クイズ問題を見つけた！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>クイズ本に新しいジャンルが追加されました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>広告が貼ってある
+『コングマン自伝・俺と拳　大好評発売中！』</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>『万雑貨・新鮮な食材のお求めはこちらで！』</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>16</Id>
+      <JapaneseText>&lt;item:0000000A&gt;を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>17</Id>
+      <JapaneseText>門の先に立派な庭が見える
+ここは大金持ちの家なのだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>18</Id>
+      <JapaneseText>あはははっ！
+ねぇ、あの顔見た!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>19</Id>
+      <JapaneseText>金を渡すときだろ？
+苦虫噛みつぶしたような顔してたな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>20</Id>
+      <JapaneseText>これで、よかったのよね
+&lt;Judas&gt;？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>21</Id>
+      <JapaneseText>････おまえたちにしては、上出来だ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>22</Id>
+      <JapaneseText>さて、これでヒマもつぶせたことだし
+船着き場に行ってみるか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>23</Id>
+      <JapaneseText>うん、そうだね！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>24</Id>
+      <JapaneseText>貧民層のオレたちが
+ボロボロになったこの街を
+建てなおしたんだぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>25</Id>
+      <JapaneseText>富豪層のヤツらは
+金がなくなったとたん
+なにも、できなくなっちまった</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>26</Id>
+      <JapaneseText>金がなくても生きてきたオレたちは
+街がボロボロになっても
+いつもどおり生きてこられたのさ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>27</Id>
+      <JapaneseText>金があることが幸せじゃねえ････
+つまり、貧しくても
+美人のヨメをさがせってことだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>28</Id>
+      <JapaneseText>なんか、ビミョーに
+ズレてる気がするんだけど････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>29</Id>
+      <JapaneseText>ノイシュタットは
+昔ほど豊かじゃなくなったが
+人の心は逆に豊かになった気がするな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>30</Id>
+      <JapaneseText>いくら豊かでも
+金持ちだけが幸せになれる街なんか
+もう、たくさんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>31</Id>
+      <JapaneseText>貧しくても
+みんなで支えあって生きていく････
+そんな街であってほしいな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>32</Id>
+      <JapaneseText>金持ち連中と、おれたち労働者が
+それなりに平等に暮らしてるなんて
+昔じゃ、信じられない話だよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>33</Id>
+      <JapaneseText>十八年前の、あの騒乱････
+たくさんのものを失ったけど
+だからこそ、今の幸せがあるんだよな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>34</Id>
+      <JapaneseText>失ったもの････
+それと引き換えに、手に入れた幸せ････
+････なんか、どこかで････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>35</Id>
+      <JapaneseText>多くの人の犠牲の上に
+今の幸せがあるってこと
+忘れちゃ、ダメなんだよな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>36</Id>
+      <JapaneseText>闘技場に行ってみたか？
+あそこは、この街で焼けのこった
+数少ない建物のひとつなんだぜ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>37</Id>
+      <JapaneseText>あの闘技場がなければ
+この街の復興も
+今ほどすすんでなかっただろうな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>38</Id>
+      <JapaneseText>よかったら、あんたがたも
+この街の復興のためだと思って
+闘技大会に参加してみてくれよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>39</Id>
+      <JapaneseText>いつの時代も
+人々は強い者にあこがれるもんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>40</Id>
+      <JapaneseText>オレのあこがれは
+ありきたりだが、コングマンと
+伝説のチャンプ・英雄スタンだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>41</Id>
+      <JapaneseText>おまえも伝説のチャンプ
+英雄スタンに会ってみたいと
+思わないか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>42</Id>
+      <JapaneseText>オレは、もう会えたからいいよ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>43</Id>
+      <JapaneseText>おまえ知ってるか？
+ここの闘技場で、あの英雄スタンが
+戦ったことがあるんだよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>44</Id>
+      <JapaneseText>もちろん、チャンプになったさ！
+いやぁ、英雄スタンに敵なしだね！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>45</Id>
+      <JapaneseText>でも、真のチャンプは
+その父さんの頭をフライパンでなぐる
+母さんなのかも････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>46</Id>
+      <JapaneseText>闘技大会での
+英雄スタンの勇姿！
+ぜひまた拝みたいもんだね！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>7</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>47</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>48</Id>
+      <JapaneseText>その昔、ノイシュタットは
+一部の特権階級が貧しい人を支配する
+ひどい街だったんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>49</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>50</Id>
+      <JapaneseText>思えば、外殻の落下で街は壊滅したけれど
+あれは彼女からのプレゼント
+だったのかもしれない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>51</Id>
+      <JapaneseText>彼女ってだれ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>52</Id>
+      <JapaneseText>イレーヌ＝レンブラントという女性だ
+彼女は、貧富の差が激しい現状に
+誰よりも心を痛めていたからな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>53</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>54</Id>
+      <JapaneseText>十八年前の外殻の落下で
+支配階級が権力と財産を失ったとき
+この街は、生まれ変わったのさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>55</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>56</Id>
+      <JapaneseText>今では、復興も進んで
+ごらんのとおり、貧富の差のない
+平等な街になったんだよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>57</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>58</Id>
+      <JapaneseText>貧富の差がなくなりつつある
+今のノイシュタットを見て
+イレーヌさんは、なんていうかな････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>59</Id>
+      <JapaneseText>きっと、よろこんでくれると思いますよ
+彼女が思い描いていた街の姿に
+近づいていっているのだから････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>60</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>61</Id>
+      <JapaneseText>イレーヌさんは、子供がおなかを
+すかしていると、とても悲しそうだった
+だから、人一倍救いたいって気持ちが
+強かったんだろうね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>62</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>63</Id>
+      <JapaneseText>今のノイシュタットを見て
+イレーヌさんはどう思うのかな？
+喜んでくれてるいるといいけど････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>64</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>65</Id>
+      <JapaneseText>どうだい、ここはいい街だろう？
+でも、昔は一部の特権階級が
+貧しい人を支配する街だったんだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>66</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>67</Id>
+      <JapaneseText>今のノイシュタットを
+イレーヌさんに見せたかったなぁ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>68</Id>
+      <JapaneseText>イレーヌ？
+････なんだろう？
+聞いたことが、あるような気が････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>69</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>70</Id>
+      <JapaneseText>イレーヌさんってのはさ
+この街で、慈善事業をやっていた人さ
+リッパな人だった････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>71</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>72</Id>
+      <JapaneseText>先の騒乱で、亡くなっていなければ
+きっと今でも元気に
+街のために、走りまわってたはずさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>73</Id>
+      <JapaneseText>その人のこと、よくは知らないけど････
+きっと、いい人だったんだと思う
+････わかるんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>74</Id>
+      <JapaneseText>君たち、船に乗るつもりかい？
+しばらくは、あきらめたほうがいいよ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>75</Id>
+      <JapaneseText>理由かい？　港に行ってみればわかるさ
+港は、この道をいったすぐそこだから</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>76</Id>
+      <JapaneseText>あの悪徳商人
+なにをニタニタしてるんだか････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>77</Id>
+      <JapaneseText>ほら、すぐそこに屋敷が見えるだろ？
+あそこに商人が住んでるんだが
+こいつが、まぁ評判が悪くてな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>78</Id>
+      <JapaneseText>あそこの屋敷に住んでる、商人な
+メチャメチャ落ちこんでんだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>79</Id>
+      <JapaneseText>オベロン社とか、遺産とか
+ブツブツつぶやいててさ
+なんか、あったのかねぇ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>80</Id>
+      <JapaneseText>あそこに、でっかい屋敷があるだろ？
+商人が住んでるんだけどさ
+なんか、みょ～に落ちこんでんだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>81</Id>
+      <JapaneseText>あそこの商人は、やり方こそどうかと思うが
+バイタリティだけは、尊敬してんだよ
+だから、元気がないのが気になってな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>8</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>82</Id>
+      <JapaneseText>おい、聞いたか？
+デビルズ・リーフの主が
+だれかに、たおされちまったってよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>83</Id>
+      <JapaneseText>それならオレたちが
+チョチョイのチョイって
+ヒネってやったよ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>84</Id>
+      <JapaneseText>ハッハッハ
+バカいっちゃいけねえよ
+おまえらに、あいつがたおせるもんか</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>85</Id>
+      <JapaneseText>デビルズ・リーフの主は
+とんでもなく、強いんだ
+おまえさんたちにゃ、ムリだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>86</Id>
+      <JapaneseText>なんだよ！
+ホントに倒したんだってば！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>87</Id>
+      <JapaneseText>デビルズ・リーフの主が
+いなくなってから
+ノイシュタットへの客も増えたんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>88</Id>
+      <JapaneseText>だれがたおしてくれたかしらねえが
+ホントにありがたいこった</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>89</Id>
+      <JapaneseText>この街への観光客がふえりゃ
+闘技場のもうけもふえて
+より復興にちかづくってわけだな</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>9</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>90</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>91</Id>
+      <JapaneseText>デビルズ・リーフの主のせいで
+船客が、のびなやんでるんだ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>92</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>93</Id>
+      <JapaneseText>あぁ、どっかの
+どえらい英雄さんとかが
+倒してくれたりしねえかなぁ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>94</Id>
+      <JapaneseText>金持ち</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>95</Id>
+      <JapaneseText>どっかの、どえらい英雄さんとかが
+デビルズ・リーフの主
+倒してくれたりしねえかなぁ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>96</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+港ごとに愛する女をのこし
+今日もひとり、旅をつづけるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>97</Id>
+      <JapaneseText>クッ････
+なんて、うらやましいヤツ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>98</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+港ごとに愛する女をのこし
+今日もひとり、旅をつづけるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>99</Id>
+      <JapaneseText>なぜなら････
+オレが愛する女は、だれひとりとして
+オレを愛してくれないからだ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>100</Id>
+      <JapaneseText>なんて、うらやましくないヤツ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>101</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+だれにも、なにものにもしばられず
+自由に生きてやるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>102</Id>
+      <JapaneseText>なにものにも、しばられず････かぁ
+そういう風に生きるのって
+けっこう大変なことだよね････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>103</Id>
+      <JapaneseText>そうなんだ！
+言うこと聞かないからって
+どの船も、やとってくれなくて････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>104</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+今日も空を流れる雲のように
+だれにも、しばられずに生きるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>105</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+「さすらい」と言ってるにもかかわらず
+もう三年もこの街でくらしてるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>106</Id>
+      <JapaneseText>ぜんぜん、さすらってないじゃん</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>107</Id>
+      <JapaneseText>仕事をさがして、この街の港を
+えんえんとさすらってるのさ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>108</Id>
+      <JapaneseText>オレは、さすらいの船乗りジョー
+先の見えない人生を
+手さぐりでさまよう男････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>10</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>109</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>110</Id>
+      <JapaneseText>あたし
+闘技大会を見物したくて
+この街に来たのよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>111</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>112</Id>
+      <JapaneseText>ねえ、あなたたちも
+参加するの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>113</Id>
+      <JapaneseText>ハッハッハ
+俺にまかせときな！
+おじょうさん</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>114</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>115</Id>
+      <JapaneseText>キャ～！スッテキィィ～ッ!!
+応援するから、がんばってねぇっ♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>116</Id>
+      <JapaneseText>ハッハッハ
+キミのために闘うとも！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>117</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>118</Id>
+      <JapaneseText>キャ～！スッテキィィ～ッ!!
+応援するから、がんばってねぇっ♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>119</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>120</Id>
+      <JapaneseText>闘技大会で長い間
+チャンピオンをつとめた
+無敵のコングマンって人がいるの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>121</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>122</Id>
+      <JapaneseText>でも、そのコングマンをも
+やぶった人がいた････
+それが、あの英雄スタン＝エルロンよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>123</Id>
+      <JapaneseText>女性</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>124</Id>
+      <JapaneseText>ああ！
+伝説のチャンピオンを越える
+ステキな人があらわれないかしら★</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>125</Id>
+      <JapaneseText>あたし
+マッハくんファンクラブの
+かいちょ～さんなの！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>11</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>126</Id>
+      <JapaneseText>マッハくんは
+このまちでいちばん足のはやい
+男の子なんだよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>11</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>127</Id>
+      <JapaneseText>コーナーからコーナーを
+はやてのように
+かけぬけるんだから♪</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>11</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>128</Id>
+      <JapaneseText>むかし、初代マッハくんをやぶった
+すごく足のはやい人が、いたんだってさ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>11</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>129</Id>
+      <JapaneseText>たしか、その人のなまえは
+「すかたん＝えろりん」とかゆ～
+ヘンな、なまえだったの</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>11</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>130</Id>
+      <JapaneseText>「すかたん＝えろりん」？
+う～ん････
+どこかで聞いたことあるような････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>131</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>132</Id>
+      <JapaneseText>フッ　オレに勝つとはな
+世の中にはまだまだ強者がいるものだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>133</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>134</Id>
+      <JapaneseText>フッ　早くしろよ
+オレの隣に居る娘に
+エントリーしてもらえ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>135</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>136</Id>
+      <JapaneseText>フッ　オレの名はマッハ
+ノイシュタットレースの現王者だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>137</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>138</Id>
+      <JapaneseText>フッ　お前、なかなか良い足を
+してるじゃないか
+その足でオレと戦ってみる気は無いか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>139</Id>
+      <JapaneseText>SELECT</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>140</Id>
+      <JapaneseText>&lt;03:00000000&gt;　勝負する！　
+　興味無い</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>141</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>142</Id>
+      <JapaneseText>フッ　ならば勝負だ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>143</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>144</Id>
+      <JapaneseText>フッ　オレの隣に居る娘に
+エントリーしてもらえ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>145</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>146</Id>
+      <JapaneseText>フッ　ならば早々に
+立ち去るが良い</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>147</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>148</Id>
+      <JapaneseText>フッ　オレの名はマッハ
+ノイシュタットレースの現王者にして
+初代王者の息子だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>149</Id>
+      <JapaneseText>マッハ少年</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>150</Id>
+      <JapaneseText>フッ　このオレの走りは誰にも
+止められんさ
+アタモニ神にすら、な</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>151</Id>
+      <JapaneseText>ねえねえ、海のはじっこまで行ったら
+滝になってて、下に落ちるしかないって
+ホントなの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>152</Id>
+      <JapaneseText>ゲッ！
+そうだったのか!?</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>153</Id>
+      <JapaneseText>もう一度
+この子どもといっしょに
+勉強しなおしてこい････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>154</Id>
+      <JapaneseText>ときどき船が帰ってこないのは
+海のはじっこから
+落っこちたからなのかな～？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>155</Id>
+      <JapaneseText>ぼくね、おっきくなったら
+海のはじっこが、どうなってるか
+自分の目で見てくるんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>156</Id>
+      <JapaneseText>だから、船乗りになる！
+いつかきっと
+ぜ～ったいに、船乗りになる！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>157</Id>
+      <JapaneseText>ぼく、大きくなったら船乗りになる！
+いつかきっと
+ぜ～ったいに、船乗りになる！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>158</Id>
+      <JapaneseText>いつか、きっと････
+････でも、オレが選ばなきゃ
+この子の未来も････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>159</Id>
+      <JapaneseText>海のはじっこが、どうなってるか
+ぼく、見たいの！
+だから、船乗りを目指してるんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>160</Id>
+      <JapaneseText>なりたいものに、なればいいさ！
+未来は、自分の手で
+切り開くものだ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>161</Id>
+      <JapaneseText>････あれ？　今の言葉
+前に、どこかで････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>162</Id>
+      <JapaneseText>海のはじっこが、どうなってるか
+ぼく、見たいの！
+だから、船乗りを目指してるんだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>12</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>163</Id>
+      <JapaneseText>ぐぬぬぬぬ････
+今日は、調子が悪かっただけだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>164</Id>
+      <JapaneseText>おれさまの実力は
+いや、我等、漆黒の翼の力は
+こんなものではない！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>165</Id>
+      <JapaneseText>おれさまは、グリッド！
+戦闘からの離脱の速さゆえについた
+あざ名が「音速の貴公子」！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>166</Id>
+      <JapaneseText>そのおれさまが
+あんなガキに
+負けるハズはないのだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>167</Id>
+      <JapaneseText>もう３０回も負けてるんだからさあ････
+いい加減、あきらめなって</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>14</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>168</Id>
+      <JapaneseText>普段のおやびんなら
+あんなガキ、ぶっちぎりで
+抜くでやんす！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>15</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>169</Id>
+      <JapaneseText>今日は、たまたま
+調子が悪かっただけでやんすよ！
+そうでやんすよね、おやびん！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>15</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>170</Id>
+      <JapaneseText>おれさまは、グリッド！
+戦闘からの離脱の速さゆえについた
+あざ名が、「音速の貴公子」！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>171</Id>
+      <JapaneseText>我等、漆黒の翼に負けは無いのだ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>13</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>172</Id>
+      <JapaneseText>こりないねぇ、グリッドも････
+３０回目で、やっとあきらめてくれたよ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>14</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>173</Id>
+      <JapaneseText>普段のおやびんなら
+あんなガキ、ぶっちぎりで
+抜くでやんす！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>15</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>174</Id>
+      <JapaneseText>エントリー娘。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>175</Id>
+      <JapaneseText>レースをやりますか？
+&lt;03:00000000&gt;　はい　
+　いいえ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>176</Id>
+      <JapaneseText>娘</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>177</Id>
+      <JapaneseText>少年たちによるかけっこレースは
+ノイシュタットの名物よ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>178</Id>
+      <JapaneseText>{15}{14}{B4}{C0}は
+称号「{16}{A0}{00}{08}{24}{B2}{CA}{C0}」を得ました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>179</Id>
+      <JapaneseText>あっ！　あれは････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>180</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>181</Id>
+      <JapaneseText>おうおう、ねーちゃん！
+正義の味方気どりかよ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>182</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>183</Id>
+      <JapaneseText>へっ！
+とっとと、どかねえと
+ケガすんぜ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>184</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>185</Id>
+      <JapaneseText>････そうはいかないわね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>186</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>187</Id>
+      <JapaneseText>んだとコラ！
+やろうってのか!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>188</Id>
+      <JapaneseText>どうしよう、助けないと！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>189</Id>
+      <JapaneseText>いや、その必要はないだろう
+黙って見ているんだ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>190</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>191</Id>
+      <JapaneseText>なんとかいったらどうだよ、アン！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>192</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>193</Id>
+      <JapaneseText>ケガをしたくなければ
+すぐに立ち去りなさい････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>194</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>195</Id>
+      <JapaneseText>もうガマンできねぇ････
+おい、やっちまえ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>196</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>197</Id>
+      <JapaneseText>････安心しなさい
+これ以上の手出しはしないわ････
+剣が泣くだけだもの････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>198</Id>
+      <JapaneseText>悪漢</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>199</Id>
+      <JapaneseText>つ、強ぇ････
+････つよ、すぎ････る････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>200</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>201</Id>
+      <JapaneseText>････とんだ寄り道をしてしまったわね
+やはり、もっと強い敵とまみえてこその
+剣の道ね････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>202</Id>
+      <JapaneseText>あ、あの！
+ありがとうございました！
+なにか、お礼を････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>16</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>203</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>204</Id>
+      <JapaneseText>必要ないわ
+当然のことを、したまでよ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>205</Id>
+      <JapaneseText>すごい････ホントに一瞬で
+全員、やっつけちゃった････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>206</Id>
+      <JapaneseText>あれでおそらく
+実力の欠片すら出していないだろう
+まさに、すご腕だ</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>207</Id>
+      <JapaneseText>しかし、なんであの子
+&lt;Kyle&gt;のほう見たんだ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>208</Id>
+      <JapaneseText>さぁ････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>209</Id>
+      <JapaneseText>ああ････おねえさま････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>16</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>210</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>211</Id>
+      <JapaneseText>キミは････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>212</Id>
+      <JapaneseText>リムルさん、だよね？
+ねぇ、なにしてたの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>213</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>214</Id>
+      <JapaneseText>････考えごとよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>215</Id>
+      <JapaneseText>考えごと？
+なにを考えてたの？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>216</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>217</Id>
+      <JapaneseText>強くなること････
+今よりも強くなるには
+どうしたらいいかを、考えていたの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>218</Id>
+      <JapaneseText>そんだけ強くて
+まだ、強くなりたいってのか？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>219</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>220</Id>
+      <JapaneseText>今が、どうあろうと関係ないの
+わたしは、強くなりたい････
+それだけ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>221</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>222</Id>
+      <JapaneseText>今のわたしには、切り札がないわ
+どんな不利な状況をも、はね返せる
+強力な切り札････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>223</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>224</Id>
+      <JapaneseText>それがあれば、もっと高みに昇れる
+そこまでは、考えいたったのよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>225</Id>
+      <JapaneseText>ふぅん････</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>226</Id>
+      <JapaneseText>ヒュ～♪
+かっ飛ばしてんなぁ！</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>227</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>228</Id>
+      <JapaneseText>ただ、速く走ることだけを
+追い求める････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>229</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>230</Id>
+      <JapaneseText>同じところを、何度もまわり
+ただ、速く走ることだけを考える
+････剣の道も、また同じ････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>231</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>232</Id>
+      <JapaneseText>････走る････
+････････同じところを････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>233</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>234</Id>
+      <JapaneseText>まわる････走る････
+････できるだけ、速く････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>235</Id>
+      <JapaneseText>リムル</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>236</Id>
+      <JapaneseText>････！！！
+そう！　そういうことね！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>237</Id>
+      <JapaneseText>････なんだ、ありゃ？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>238</Id>
+      <JapaneseText>さぁ
+なんか、いいことでも
+思いついたんじゃない？</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>17</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>239</Id>
+      <JapaneseText>ベテラン</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>240</Id>
+      <JapaneseText>ひよっこ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>241</Id>
+      <JapaneseText>「武器攻撃」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>242</Id>
+      <JapaneseText>さて俺たちも冒険を始めるわけだが、
+基本は身に付いたか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>243</Id>
+      <JapaneseText>もちろんさ、&lt;button:00000045&gt;で武器攻撃しまくりさ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>244</Id>
+      <JapaneseText>まあそうだが方向キー&lt;button:00000006&gt;、&lt;button:00000021&gt;、&lt;button:00000016&gt;、&lt;button:00000017&gt;
+と組み合わせることによって、
+四種類の攻撃が出るぞ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>245</Id>
+      <JapaneseText>まずは実際に何度か繰り出してみて、
+速度や射程を覚えていくといいな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>246</Id>
+      <JapaneseText>連続攻撃はどうやればいいのさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>247</Id>
+      <JapaneseText>攻撃中に再度&lt;button:00000045&gt;を押せばいい
+もちろん方向キー&lt;button:00000006&gt;、&lt;button:00000021&gt;、&lt;button:00000016&gt;、&lt;button:00000017&gt;
+により攻撃方法は変わるぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>248</Id>
+      <JapaneseText>攻撃をするとスピリッツゲージが減る
+（ＳＰ　戦闘中の&lt;color:00000001&gt;青いゲージ&lt;color:00000007&gt;です）
+減りすぎたら攻撃を控えて、
+回復を待ったほうがいい</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>249</Id>
+      <JapaneseText>なんでさ？　しまくりゃいいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>250</Id>
+      <JapaneseText>スピリッツゲージが少ないと
+攻撃の命中・回避が下がるからな
+かえって不利な状況になることもある
+気をつけることだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>251</Id>
+      <JapaneseText>防御が成功するとＳＰが多く回復するから、
+防御&lt;button:00000047&gt;も大切ということだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>252</Id>
+      <JapaneseText>「特技」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>253</Id>
+      <JapaneseText>どうだ、特技を覚えて
+戦略に幅が出たろう？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>254</Id>
+      <JapaneseText>特技&lt;button:00000046&gt;はつえーけどＴＰがすぐなくなるさ
+戦闘中も自動的に回復するけど、
+まだ貧弱なので速度が遅いさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>255</Id>
+      <JapaneseText>それはそうだ　そこで重要なのが
+&lt;button:00000045&gt;の通常攻撃となるわけだ
+一回通常攻撃がヒットすると、
+ＴＰが１回復するぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>256</Id>
+      <JapaneseText>じゃあ通常攻撃&lt;button:00000045&gt;しまくりさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>257</Id>
+      <JapaneseText>････ＴＰが余ってももったいないからな
+術を使ってＳＰを回復させるなど、
+うまく使っていくのが大切だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>258</Id>
+      <JapaneseText>ＴＰは敵を倒したときも少量回復する
+しかも、敵を連携中に
+まとめて倒したりすると、
+より多くのＴＰを回復できるのだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>259</Id>
+      <JapaneseText>「エンチャント」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>260</Id>
+      <JapaneseText>エンチャントも覚えたさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>261</Id>
+      <JapaneseText>････で、エンチャントって何さ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>262</Id>
+      <JapaneseText>うむ　簡単に言えば
+「覚えている特技、術を
+　自分好みにカスタムできる能力」だな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>263</Id>
+      <JapaneseText>まずは使い続けて使用回数を上げること！
+そうすれば様々なエンチャントが
+装備できるようになるだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>264</Id>
+      <JapaneseText>じゃあ、ひとつの特技を使いまくりさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>265</Id>
+      <JapaneseText>それもひとつの方法ではあるな
+ただ、戦闘中はエンチャントは変更できない
+多くの技に多彩なエンチャントを
+つけておくのも悪くないぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>266</Id>
+      <JapaneseText>敵の能力を下げる術を使ってから
+武器で切り込む････など、特技と術を
+使いこなすことで戦略は拡がっていく
+････仲間同士で補い合っていってもいいな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>267</Id>
+      <JapaneseText>ちなみに、装備したエンチャントは外せば
+使用回数は戻るから、いろいろと
+試してみるのがいいだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>268</Id>
+      <JapaneseText>ボクのお気に入りの特技はあまり
+当たらないから、欠点を補うために
+命中のエンチャントをつけるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>269</Id>
+      <JapaneseText>････お前の場合は単に空振りしてるだけだな
+空振りは、使用回数が増えないので
+もったいないぞ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>270</Id>
+      <JapaneseText>それと、回復晶術は
+「対象のＨＰが５０％以下のときに
+　使用したとき」のみ
+使用回数が増える　気をつけろ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>271</Id>
+      <JapaneseText>確かにかすり傷で使っても
+経験にはならないさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>272</Id>
+      <JapaneseText>「戦闘の作戦」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>273</Id>
+      <JapaneseText>いろんな敵に遭っても対処できるように、
+作戦を決めておこうではないか！
+「防御がかたい敵」が現れたらどうする？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>274</Id>
+      <JapaneseText>みんなして術使いまくりさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>275</Id>
+      <JapaneseText>術を使うのは悪くないが、
+全員が術を唱えてると、
+いいようになぐられるので、
+前衛を一人置くのがいいな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>276</Id>
+      <JapaneseText>「敵の後衛が強力な術を使う」場合は？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>277</Id>
+      <JapaneseText>昨日暗記して覚えたさ
+「術を使わせるな」で
+詠唱をジャマするのさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>278</Id>
+      <JapaneseText>まあそんな感じだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>279</Id>
+      <JapaneseText>作戦は同時に３つまで登録できるから、
+戦闘中に瞬時に切り替えながら闘うと、
+見ていて気持ちがいいぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>280</Id>
+      <JapaneseText>攻撃頻度、回復割合もキャラクターの能力と
+敵に合わせて変えていくと、
+より効率的な戦いが望めるだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>281</Id>
+      <JapaneseText>「テクニカルスマッシュ」
+について話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>282</Id>
+      <JapaneseText>テクニカルスマッシュってなにさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>283</Id>
+      <JapaneseText>うむ　戦いのプロも認める、
+「華麗なとどめのさし方」を行うと、
+テクニカルスマッシュと認定される</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>284</Id>
+      <JapaneseText>テクニカルスマッシュで敵を倒すと、
+あまりにステキなのか、アイテムの
+入手確率が跳ね上がるというもっぱらの噂だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>285</Id>
+      <JapaneseText>きっと真実だろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>286</Id>
+      <JapaneseText>連携とか、まとめて倒すとかで出まくりさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>287</Id>
+      <JapaneseText>うむ　特に「とどめは連携でさす」のは
+重要だ　とどめをさした時点で、その連携
+に使っていたＳＰは全て回復するのだ
+長い連携をしても態勢を立て直せる</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>288</Id>
+      <JapaneseText>じゃあ追加特技とかはとどめ用にとっとくさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>289</Id>
+      <JapaneseText>ＳＰ不足に悩んでいる場合は、
+それがいいだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>290</Id>
+      <JapaneseText>アクションエンチャントは
+ＳＰを消費するのが悩みだが、
+とどめをうまく利用するのが達人への道だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>291</Id>
+      <JapaneseText>「スピリッツ」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>292</Id>
+      <JapaneseText>敵に攻撃しても防御されまくりさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>293</Id>
+      <JapaneseText>回避が高い敵には困ったものだ
+術を当てるのも作戦のひとつだが、敵に
+よっては、一回の攻撃でスピリッツを
+激減させる一発屋もいるぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>294</Id>
+      <JapaneseText>空振りなどを誘い、スピリッツを
+減らすと回避の能力も落ちる････
+そこを狙うのもいいだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>295</Id>
+      <JapaneseText>ボクは&lt;button:00000047&gt;と&lt;button:0000001D&gt;のプレスガードで
+狙ってＳＰを減らすのさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>296</Id>
+      <JapaneseText>お前は連続攻撃のときもやるから困る
+プレスガードは敵の最後の攻撃で行うのが
+いい　プレスガードではＳＰは２０も減る
+敵の攻撃を見極めることだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>297</Id>
+      <JapaneseText>敵ターゲットをカスタムで表示させて
+いる場合、カーソルの色が明るいほど
+ＳＰが高いということが分かる
+戦いながら敵のＳＰを見切れるぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>298</Id>
+      <JapaneseText>「連続ヒット」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>299</Id>
+      <JapaneseText>連続ヒットってなにさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>300</Id>
+      <JapaneseText>ダメージを与えた敵が戦闘態勢に
+復帰する前に連続してダメージを与えると
+ヒット数が加算されて表示されるのだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>301</Id>
+      <JapaneseText>いっぱい当てるとどうなるのさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>302</Id>
+      <JapaneseText>うむ　最高のヒット数は取得経験値に
+影響する　なぜなら、そんな素晴らしい
+連続攻撃は何よりも勝る経験だからな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>303</Id>
+      <JapaneseText>より高いヒット数を求めるなら
+仲間との連携が不可欠だ　ヒット数とは
+関係ない「攻撃のひと種類」は
+ＣＨＡＩＮとして加算される</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>304</Id>
+      <JapaneseText>ＳＰをうまい具合に使っていかないと
+大変さ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>305</Id>
+      <JapaneseText>そうだな　低いＳＰで連続攻撃に
+参加しても足を引っ張ってしまうのが
+オチだな　やはりここでも術と特技の
+バランスが重要だな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>306</Id>
+      <JapaneseText>「影響エリア」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>307</Id>
+      <JapaneseText>敵の裏側から攻撃したら有利だと思ったけど
+なんだか疲れるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>308</Id>
+      <JapaneseText>うむ　スピリッツも含め、
+仲間たちとの連携が勇気を与えているので、
+敵により分断されていると様々な
+回復速度が落ちてしまうようだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>309</Id>
+      <JapaneseText>意に反して敵の右側に回ってしまった
+ときは&lt;button:00000047&gt;＋&lt;button:00000019&gt;のバックステップで
+左側に戻るといいだろう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>310</Id>
+      <JapaneseText>そりゃあ裏には回らないほうがいいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>311</Id>
+      <JapaneseText>基本的にはそう考えてよいな
+しかし戦況を見極めてくると、
+そのペナルティを補える働きが
+出来るかもしれないな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>312</Id>
+      <JapaneseText>セオリーが全て正しいとは限らないさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>313</Id>
+      <JapaneseText>たまにはいいこと言うな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>314</Id>
+      <JapaneseText>ベテランすぎ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>315</Id>
+      <JapaneseText>息子</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>316</Id>
+      <JapaneseText>「ステータス変化」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>317</Id>
+      <JapaneseText>戦闘でステータス異常になってしもうた
+パナシーアボトルもないのじゃ
+もうダメかのう････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>318</Id>
+      <JapaneseText>あきらめちゃいけません父さん
+戦闘中にステータス異常になっても
+時間の経過で回復するようですよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>319</Id>
+      <JapaneseText>ステータス異常はレベルがあるので
+防止の装備をしていても軽減しきれずに
+喰らってしまう場合があるので
+気をつけねばいけませんね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>320</Id>
+      <JapaneseText>むう････また戦いにいかねばならんのか
+つらいのう････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>321</Id>
+      <JapaneseText>やはりステータス異常を回復できる
+料理を用意しておくのがいいですよ父さん
+防止できる料理やアイテムもあるみたいですし</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>322</Id>
+      <JapaneseText>後の祭りじゃあ　毒&lt;button:00000056&gt;に麻痺&lt;button:0000005F&gt;に衰弱&lt;button:0000005A&gt;に凍結に
+鈍足でもうへとへとじゃあ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>323</Id>
+      <JapaneseText>うそはいけません父さん
+ステータス異常は一人につき四つまでしか効果は
+残らないのです　エンチャントで能力を
+上げて毒が消えることもあるんです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>324</Id>
+      <JapaneseText>しかも凍結と鈍足は
+戦闘終了で回復しますよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>325</Id>
+      <JapaneseText>そうじゃった　しかも鈍足は
+もとからじゃったの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>326</Id>
+      <JapaneseText>はっはっはっはっはっはっはっはっ
+はっはっはっはっはっはっはっは</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>327</Id>
+      <JapaneseText>（笑いすぎじゃと思うのじゃが････）</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>328</Id>
+      <JapaneseText>ベテランすぎ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>329</Id>
+      <JapaneseText>息子</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>330</Id>
+      <JapaneseText>「スピリッツブラスター」
+について話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>331</Id>
+      <JapaneseText>ピンチになっても、スピリッツブラスター
+になれば逆転のチャンスができるわい</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>332</Id>
+      <JapaneseText>スピリッツブラスターになりたいなら
+攻撃を当てることと敵にガードされないこと
+が有効ですね父さん、まあ攻撃を受けてても
+なりますけど父さんには危険ですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>333</Id>
+      <JapaneseText>体力が衰えたワシも、
+スピリッツブラスターになれば
+のけぞることなく攻撃できるしのう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>334</Id>
+      <JapaneseText>そうはいっても父さん、ＨＰがなくなれば
+効果が切れてしまいますし、回復魔法などを
+かけても効果が早く切れてしまいますよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>335</Id>
+      <JapaneseText>そんな細かいことは気にせんわい
+ワシの最高の秘奥義はスピリッツブラスター
+にならんと見せれんでの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>336</Id>
+      <JapaneseText>いえ父さん　確かに秘奥義はＳＰを多く
+消費しますが、敵を倒すことでＳＰが
+回復することを利用すると秘奥義を
+出せることもあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>337</Id>
+      <JapaneseText>ただ、弓使いにはスピリッツブラスター
+状態を利用して、追加晶術のかわりに
+秘奥義を出せる人もいるらしいですよ
+父さん</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>338</Id>
+      <JapaneseText>まあ奥義がヒットしても敵がのけぞって
+ないと秘奥義にはいけぬから、
+浮かす奥義だと重い敵にはうまく
+いかんこともあるがの</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>339</Id>
+      <JapaneseText>そんなわけでさっそく二人で
+秘奥義を出しにいこうではないか</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>340</Id>
+      <JapaneseText>いえ父さん　私は晶術使いなんで
+秘奥義なんて使わないんですよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>341</Id>
+      <JapaneseText>というか秘奥義の後はＳＰが０になるから
+すごいジャマなんですよ父さん
+とどめもさせないのに秘奥義
+しないでください父さん</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>342</Id>
+      <JapaneseText>ジャマなんで</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>343</Id>
+      <JapaneseText>（一回言えば分かると思うが・・・）</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>344</Id>
+      <JapaneseText>ベテランすぎ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>345</Id>
+      <JapaneseText>息子</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>346</Id>
+      <JapaneseText>「フィールドオブエフェクト」
+について話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>347</Id>
+      <JapaneseText>この間の、敵が出す
+「フィールドオブエフェクト」には
+ほとほと手を焼いたわい</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>348</Id>
+      <JapaneseText>略してＦＯＥ（フォエ）ですね父さん
+あれには大きく二種類があって、
+範囲内の敵たちに効果があるのと、
+こちらの能力を下げるものがありますね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>349</Id>
+      <JapaneseText>あれが出たらお手上げかのう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>350</Id>
+      <JapaneseText>あきらめるのは早いです父さん
+時間で切れるものや、ヒットを重ねることで
+切れるものもあるんですもちろん、
+とどめをさせば消えますしね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>351</Id>
+      <JapaneseText>こちらに効果のあるものを出されたら、
+前衛を一人だけにして術を使うのが
+いいかのう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>352</Id>
+      <JapaneseText>そうですね父さん　でもやはり状態変化に
+応じて作戦を変えるのがいいようですよ
+敵に効果がある場合は、スペクタクルズを
+使えば内容が分かりますし</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>353</Id>
+      <JapaneseText>それはそうと最近の若者は
+なんでもかんでも略したがって困るわい</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>354</Id>
+      <JapaneseText>（言うのが遅いよ父さん････）</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>355</Id>
+      <JapaneseText>「バトルグレード」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>356</Id>
+      <JapaneseText>バトルグレードって結局なにさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>357</Id>
+      <JapaneseText>戦闘中の様々な行動を集計して、
+「戦闘のうまさ」を図るものでしたね先輩
+ダメージの比率とか、空振りとか、
+同じ技ばかりを使うことも審査されます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>358</Id>
+      <JapaneseText>高い得点を目指したい場合、
+やはりテクニカルスマッシュを目指しつつ、
+エンチャントを織り交ぜながら、
+できるだけダメージをうけずにいきましょう</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>359</Id>
+      <JapaneseText>戦闘中にアイテムを使ったり、
+回復晶術をかけたり、装備を変えたり
+するのは、すこぶるイケてないと
+いうウワサですよ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>360</Id>
+      <JapaneseText>高いと、どんないいことがあるのさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>361</Id>
+      <JapaneseText>それについては調査中です先輩
+現世では役に立たないなどと
+いう不届きな輩もいますが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>362</Id>
+      <JapaneseText>まあ深く気にせずに自らの技術を
+磨けばいいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>363</Id>
+      <JapaneseText>さすが先輩、勉強になります</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>364</Id>
+      <JapaneseText>「受身」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>365</Id>
+      <JapaneseText>地面にたたきつけられると
+倒れてしまうさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>366</Id>
+      <JapaneseText>確かにつらいですね先輩
+でも、地面に接地したまさに
+その瞬間に&lt;button:00000047&gt;を押すと、
+受身がとれますよね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>367</Id>
+      <JapaneseText>ももももちろん知ってたさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>368</Id>
+      <JapaneseText>受身を取れるとダウンの時間が
+減るし、なによりＳＰとＴＰが
+回復するのがうれしいですよね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>369</Id>
+      <JapaneseText>もももももちろん知ってたさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>370</Id>
+      <JapaneseText>「戦闘難易度」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>371</Id>
+      <JapaneseText>戦闘難易度を高くするのに、
+なんの意味があるのさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>372</Id>
+      <JapaneseText>まあ確かに戦闘難易度を高くしたって
+世界は平和にならないですね
+でも、噂によると、敵が落とす武具が
+よいものになるそうです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>373</Id>
+      <JapaneseText>それだったら上げまくるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>374</Id>
+      <JapaneseText>でも、知っての通り戦闘難易度を上げると、
+敵の攻撃力や知性が上がるうえ、
+普通の難易度では使ってこない壮絶な攻撃を
+してきたりするので悩みどころですよね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>375</Id>
+      <JapaneseText>そういうことなら一回世界を平和にするまで
+ＮＯＲＭＡＬでいいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>376</Id>
+      <JapaneseText>おっしゃってる意味が
+よくわかりませんけど
+その通りですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>377</Id>
+      <JapaneseText>ＳＥＣＯＮＤはほどよい難易度なので
+ちょっと手ごたえがほしかったり
+するならお勧めな気がします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>378</Id>
+      <JapaneseText>「通常攻撃」について
+深く話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>379</Id>
+      <JapaneseText>慣れてきたから最近は通常攻撃は
+&lt;button:00000045&gt;だけ叩きっぱなしさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>380</Id>
+      <JapaneseText>まったくなっとらんな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>381</Id>
+      <JapaneseText>実は、二段目、三段目ではある程度
+命中、ダメージが下がってしまうが、
+同じ組み合わせの攻撃だと
+より下がってしまうのだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>382</Id>
+      <JapaneseText>なにー
+じゃあどうすればいいのさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>383</Id>
+      <JapaneseText>うむ　「&lt;button:00000017&gt;&lt;button:00000045&gt;、&lt;button:00000045&gt;、&lt;button:00000016&gt;&lt;button:00000045&gt;」
+と組み立てるなど、組み合わせを
+変えるのがまず第一歩だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>384</Id>
+      <JapaneseText>第二歩はなにさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>385</Id>
+      <JapaneseText>&lt;button:00000045&gt;は攻撃力、命中の減少量が多い、
+&lt;button:00000017&gt;&lt;button:00000045&gt;では攻撃力が上がり命中が下がる、
+&lt;button:00000019&gt;&lt;button:00000045&gt;では攻撃力が下がり命中が上がる、
+&lt;button:00000016&gt;&lt;button:00000045&gt;は攻撃力、命中の減少量が少ない、</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>386</Id>
+      <JapaneseText>以上を覚えておけ！
+&lt;button:00000045&gt;による攻撃は効果範囲が広く、
+当たりやすいことが多いが、その反面、
+連続攻撃時にはあまり有効ではない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>387</Id>
+      <JapaneseText>これは次の攻撃にも影響を与えるから、
+「&lt;button:00000017&gt;&lt;button:00000045&gt;、&lt;button:00000017&gt;&lt;button:00000045&gt;、&lt;button:00000045&gt;」と
+「&lt;button:00000019&gt;&lt;button:00000045&gt;、&lt;button:00000019&gt;&lt;button:00000045&gt;、&lt;button:00000045&gt;」では、
+三段目の攻撃の数値が変わるぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>388</Id>
+      <JapaneseText>じゃあ回避が高い敵には
+&lt;button:00000019&gt;&lt;button:00000045&gt;から組み立てることにするさ
+逆に回避が低い敵には
+&lt;button:00000017&gt;&lt;button:00000045&gt;から始めるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>389</Id>
+      <JapaneseText>例としてはそんな感じだ
+まあ、変化量は微々たるものだから、
+他のルールで手一杯だというなら
+無理して覚えなくてもいいぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>390</Id>
+      <JapaneseText>「長い話」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>391</Id>
+      <JapaneseText>ためになる話も十年くらい聞いてると
+さすがにつかれるさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>392</Id>
+      <JapaneseText>そういえば教えてなかったな
+&lt;button:0000002F&gt;と&lt;button:0000002E&gt;を押しっぱなしにすると
+メッセージを早送りできる
+同じ会話を読み飛ばすとき便利だ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>393</Id>
+      <JapaneseText>なにー
+どうして十年もそれを教えて
+くれなかったのさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>394</Id>
+      <JapaneseText>バカモン！　ひよっこのお前が
+私の話を読み飛ばすなどとは
+十年早いわ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>395</Id>
+      <JapaneseText>と思ってたので今教えることに
+したわけだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>396</Id>
+      <JapaneseText>納得さ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>397</Id>
+      <JapaneseText>「アイテム拾得」について
+話し合っているようです
+耳を傾けますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>398</Id>
+      <JapaneseText>冒険者として生きるからには
+敵からアイテムを拾いまくりたいさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>399</Id>
+      <JapaneseText>うむ　確かにそうだな
+しかし冒険者の間で、まことしやかな
+噂が流れているぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>400</Id>
+      <JapaneseText>噂ってなにさ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>401</Id>
+      <JapaneseText>「どうやら同じ種類のアイテムを多く持って
+　いるほど敵がアイテムを落とす確率が
+　減ってしまうようだ」というのだ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>402</Id>
+      <JapaneseText>そりゃ困るさ　全部売るさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>403</Id>
+      <JapaneseText>それはどうかと思うが、いらない装備品
+などはできるだけ売ったほうがいいのは
+整理面でもおすすめだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>404</Id>
+      <JapaneseText>もちろん
+リファインをして量を減らして質を
+上げるのが冒険者の知恵ともいえるがな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>405</Id>
+      <JapaneseText>他にも消費アイテムを使いながら進みたい
+場合は、聞いた話では少な目の数をキープ
+したほうがいいということだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>406</Id>
+      <JapaneseText>消費アイテムの場合、全体の総数ではなく
+それぞれの所持数が関係するというのが
+冒険者筋での通説らしいぞ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>407</Id>
+      <JapaneseText>でも少ないと、つえー敵で困りがちさ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>408</Id>
+      <JapaneseText>それもある　それぞれの冒険スタイルに
+あった冒険をするのが重要ということだな</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>409</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>410</Id>
+      <JapaneseText>オレはオレの道を極めるぜ!!</JapaneseText>
+      <EnglishText/>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>411</Id>
+      <JapaneseText>いってらっしゃいませ</JapaneseText>
+      <EnglishText>Have a good day.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>412</Id>
+      <JapaneseText>&lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt;ガルドになりますが
+お泊まりになりますか？</JapaneseText>
+      <EnglishText>It'll be &lt;0B:00000001&gt;{14}{34}{08}{C0}&lt;0B:00000000&gt; gald a night.
+Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>413</Id>
+      <JapaneseText>お泊まりになりますか？</JapaneseText>
+      <EnglishText>Would you like to stay?</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>414</Id>
+      <JapaneseText>&lt;03:00000000&gt;　はい　
+　いいえ　</JapaneseText>
+      <EnglishText>&lt;03:00000000&gt; Yes 
+ No </EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>415</Id>
+      <JapaneseText>ごゆっくりお休みください</JapaneseText>
+      <EnglishText>Have a good night.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>416</Id>
+      <JapaneseText>おはようございます</JapaneseText>
+      <EnglishText>Good morning.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>417</Id>
+      <JapaneseText>お金が足りません</JapaneseText>
+      <EnglishText>Not enough money.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>418</Id>
+      <JapaneseText>またのおこしをお待ちしております</JapaneseText>
+      <EnglishText>See you again soon.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>419</Id>
+      <JapaneseText>{16}{26}{0E}{C0}を手に入れました</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>420</Id>
+      <JapaneseText>&lt;item:FFFFFFFF&gt;を手に入れました</JapaneseText>
+      <EnglishText>Acquired &lt;item:FFFFFFFF&gt;.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>421</Id>
+      <JapaneseText>{16}{26}{16}{C0}がありましたが
+いっぱいで持てませんでした</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>422</Id>
+      <JapaneseText>何もありません</JapaneseText>
+      <EnglishText>There's nothing here.</EnglishText>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <Id>423</Id>
+      <JapaneseText>&lt;item:00000012&gt;屋</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>424</Id>
+      <JapaneseText>こちらでは&lt;item:00000012&gt;の
+販売を行っています</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>425</Id>
+      <JapaneseText>&lt;item:00000012&gt;を使ってリファインすると
+ステキな物が作られることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>426</Id>
+      <JapaneseText>武器や鎧をリファインすると
+付加能力が引継がれることがあるようです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>427</Id>
+      <JapaneseText>ひと瓶&lt;0B:00000001&gt;{14}{36}{20}{C0}&lt;0B:00000000&gt;ガルドになりますが、
+&lt;item:00000012&gt;を買いますか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>428</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　&lt;0B:00000001&gt;{14}{26}{2A}{C0}本まとめて買う（{14}{36}{24}{C0}ガルド）&lt;0B:00000000&gt;　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>429</Id>
+      <JapaneseText>&lt;03:00000000&gt;　買う　
+　リファイン講座　
+　いらない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>430</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>431</Id>
+      <JapaneseText>お買い上げ、ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>432</Id>
+      <JapaneseText>&lt;item:00000012&gt;はひと瓶
+&lt;0B:00000001&gt;{14}{36}{20}{C0}&lt;0B:00000000&gt;ガルドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>433</Id>
+      <JapaneseText>リファイン講座を聞きたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>434</Id>
+      <JapaneseText>&lt;03:00000000&gt;　聞きたい　
+　聞きたくない</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>435</Id>
+      <JapaneseText>何について知りたいですか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>436</Id>
+      <JapaneseText>&lt;03:00000000&gt;　４、スロットについて　
+　５、装飾品のリファイン　
+　６、リファインできない装備品について　
+　前のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>437</Id>
+      <JapaneseText>&lt;03:00000000&gt;　１、リファインとは
+　２、アイテムの変化　　　　　　　　　　
+　３、装備品の合成　
+　次のページ</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>438</Id>
+      <JapaneseText>リファインとは、選択したアイテムを
+別なアイテムに変化させたり
+武器や防具を合成することのできるコマンドです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>439</Id>
+      <JapaneseText>リファインを行うのに必要なのは
+&lt;item:00000012&gt;とレンズです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>440</Id>
+      <JapaneseText>&lt;item:00000012&gt;は、各地にいる
+私たちルーンボトル屋からお求めください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>441</Id>
+      <JapaneseText>レンズはモンスターと
+戦えば拾うことができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>442</Id>
+      <JapaneseText>これを機会に、あなたも
+どんどんリファインを行ってください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>443</Id>
+      <JapaneseText>アイテムの変化とは、アイテム単体に
+リファインを行うことによって
+別なアイテムに変化させることです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>444</Id>
+      <JapaneseText>例えば、&lt;item:00000001&gt;にリファインを行うと
+&lt;item:00000002&gt;に変化し
+逆に、&lt;item:00000002&gt;にリファインを行うと
+&lt;item:00000001&gt;に変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>445</Id>
+      <JapaneseText>また、装備品単体をリファインすることによって
+&lt;item:00000001&gt;などのアイテムにも変化します</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>446</Id>
+      <JapaneseText>ダンジョンなどでアイテムが尽きてしまった時などに
+行うと、有効な場合もあります
+もちろん、最初からきちんと準備をしておくほうが
+賢いといえますが････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>447</Id>
+      <JapaneseText>リファインの一番の特徴は
+やはり、装備品の合成です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>448</Id>
+      <JapaneseText>装備品を合成すると
+お気に入りの装備品に
+お気に入りのスロットが付いた
+装備品を作ることができます････</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>449</Id>
+      <JapaneseText>ああ、まずはスロットの説明を
+しなければいけませんね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>450</Id>
+      <JapaneseText>スロットとは、装備品に
+付けることができる
+付加能力のようなものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>451</Id>
+      <JapaneseText>スロットについては、また別に
+詳しく説明させていただきます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>452</Id>
+      <JapaneseText>いちばん簡単な装備品のリファインは
+スロットが一つついた装備品どうしの
+リファインです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>453</Id>
+      <JapaneseText>これを行うと、何とステキなことに
+スロットが二つ付いた装備品ができます</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>454</Id>
+      <JapaneseText>注意しなければいけないのは
+剣は剣、鎧は鎧といったように
+同じ種類の装備品でしか
+リファインできません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>455</Id>
+      <JapaneseText>他にもいろいろな組み合わせがありますが
+それはやってみてのお楽しみです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>456</Id>
+      <JapaneseText>スロットについて
+詳しく説明いたします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>457</Id>
+      <JapaneseText>スロットは数多くの種類があり
+アタック：攻撃力が上昇します
+ディフェンス：防御力が上昇します
+などが代表的なものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>458</Id>
+      <JapaneseText>スロットによって装備品の名前も変わります
+&lt;item:00000078&gt;　＋　アタックで
+アタックソードなどです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>459</Id>
+      <JapaneseText>また、スロットにはレベルがあり
+レベルが高いと効果も上昇します
+最高はレベル８です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>460</Id>
+      <JapaneseText>スロット付きの装備品は
+主にモンスターが落とします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>461</Id>
+      <JapaneseText>モンスターとたくさん戦って
+スロット付き装備品を手に入れて
+あなただけのスロット付き装備品を
+作ってみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>462</Id>
+      <JapaneseText>ここだけの話ですが、装飾品も
+リファインすることができます
+でも、それは装飾品どうしではありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>463</Id>
+      <JapaneseText>装飾品と、装備品のような
+形でのみリファインが可能なのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>464</Id>
+      <JapaneseText>この場合の利点は、リファインする
+装備品の場所によってスロットが
+変化するということです
+武器、防具によって違います</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>465</Id>
+      <JapaneseText>また、装飾品は一つしか装備できないので
+いらない装飾品を、リファインに活用すれば
+非常に有効です</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>466</Id>
+      <JapaneseText>その他にも、外装つまり「マント」も
+装飾品と同様に装備品とリファインできます
+その場合はなんと、装備品に属性を
+付加することができるのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>467</Id>
+      <JapaneseText>装飾品とのリファインもうまく活用し
+さらにステキなリファイン職人を
+目指してみてください</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>468</Id>
+      <JapaneseText>たまに、装備品の中に黄色い枠の
+アイコンが付いたものがありますね
+それは、ユニークアイテムと
+呼ばれているものです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>469</Id>
+      <JapaneseText>ユニークアイテムは見た目にも
+かっこよく、攻撃力も高く
+スロットレベルも高いものが多いですが
+スロットは一つしかありません</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>470</Id>
+      <JapaneseText>しかし、その反面、装飾品以外のユニークアイテムは
+リファインすることができません
+これ以上強化することができないのです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>471</Id>
+      <JapaneseText>ですから、いらなくなったアイテムは
+どんどん売ってしまうことをお勧めします</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>472</Id>
+      <JapaneseText>なぜなら、アイテムをたくさん持っていると
+モンスターがアイテムを
+落としてくれなくなってしまうという
+噂があるからです</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>473</Id>
+      <JapaneseText>････アイテム整理も大切ですね</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+    <Entry>
+      <Id>474</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>475</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>476</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>477</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>478</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>479</Id>
+      <JapaneseText>NOTICE</JapaneseText>
+      <EnglishText>NOTICE</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>480</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>481</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>482</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>483</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>484</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>485</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>486</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>487</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>488</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>489</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>490</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>491</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>492</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>493</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>494</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>495</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>496</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>497</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>498</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>499</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>500</Id>
+      <JapaneseText>set_parameter( myself, C_PARTY, 0 );</JapaneseText>
+      <EnglishText>set_parameter( myself, C_PARTY, 0 );</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>501</Id>
+      <JapaneseText>wait_map_scroll();</JapaneseText>
+      <EnglishText>wait_map_scroll();</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>502</Id>
+      <JapaneseText>exit-party_togather( short spd )</JapaneseText>
+      <EnglishText>exit-party_togather( short spd )</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>503</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>504</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>505</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>506</Id>
+      <JapaneseText>notice</JapaneseText>
+      <EnglishText>notice</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>507</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>508</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>509</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>510</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <Id>511</Id>
+      <JapaneseText>select</JapaneseText>
+      <EnglishText>select</EnglishText>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+</SceneText>
