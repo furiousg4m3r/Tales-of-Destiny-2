@@ -1,6 +1,3 @@
-# Spiritual Successor
-Latest updates here:
-https://github.com/Gandorfin/Tales-of-Destiny-2
 
 # Tales of Destiny 2 (PS2)
 This project is an attempt at an open-source translation for Tales of Destiny 2, both for PS2 and PSP.
