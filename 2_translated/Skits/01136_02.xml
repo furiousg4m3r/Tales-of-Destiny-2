@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>なーんだ、ズイブンとあっさり入れるんだな‥‥ちょっと拍子抜けしちゃったよ。いったい、なにを言ったの、&lt;Loni&gt;？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>なーに、『英雄スタンとルーティの息子が、ウッドロウを訪ねてきた』と言ったのさ。そしたら、すんなり通してくれたよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>へぇ～。へへっ！　オレって、結構有名人だったんだね♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

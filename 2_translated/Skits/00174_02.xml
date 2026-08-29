@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>だけど、おっどろいたよなあ！　エルレイン、あの女の子とおんなじペンダントつけてるんだもん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>驚いたのはこっちだ！　相手は、天下の聖女だぞ！　ごまかせたからいいものの、下手すりゃ牢屋に逆戻りだ！　だいたい、おまえは昔から‥‥！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ご、ごめんってば！　今度から気をつけるよ！　‥‥でもさあ、どうして、おなじペンダントを持ってたんだろ？　もしかしたら、あの子も神団の関係者なのかな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>うーん‥‥でも、俺が神団にいたころ、あんな女は見かけなかったぞ。第一、レンズから出てきたじゃねえか。わっかんねえなぁ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねえ、&lt;Loni&gt;。クレスタの噴水に、コイン投げ入れたことある？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ああ。あの後ろ向きに投げて入ったら、恋愛がうまくいくってヤツだろ？　あれだったら、いくらでも入れたことあるぞ。コイン一個で恋がうまくいくんなら安いもんだからな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>で、どうだったの？　御利益はあった？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>そんなもんがあったら、今ごろおまえなんかと旅せずに、かわいい奥さんといっしょに暮らしてるっつ～の！　‥‥‥‥だいたいあのとき、もっとうまくやってれば‥‥ううっ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>あっちゃ～なんか、イケナイ傷に触れちゃったみたいだ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

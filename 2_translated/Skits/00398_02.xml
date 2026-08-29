@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>しかし、おまえらと合流できてホント助かったよ。もう、チビどもの相手するのはコリゴリだからな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>えっ？　&lt;Loni&gt;も&lt;Judas&gt;も、いっしょに遊んだりして、ずいぶん楽しそうだったじゃん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>バ～カ！　ありゃ、「遊び」なんて生やさしいもんじゃねえ。怪物との戦闘を想定した、れっきとした訓練なんだ。おまえらが来るまでの間、俺と&lt;Judas&gt;がどれだけボコボコにされたことか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>僕はちゃんと、ダメージが残らないようによけてたぞ。おまえは、もう少し、ここで鍛えてもらった方がいいんじゃないか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ハハッ。そりゃ言えてるね。子供たちには、あたしからヨロシク言っとくよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>げげっ‥‥マジでカンベンしてくれ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

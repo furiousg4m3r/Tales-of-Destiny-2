@@ -1,0 +1,71 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>そうだ。念をおしとくけど、「未来から来た」なんてこと、うかつにペラペラしゃべんないようにね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>わかってるって。自分が考えつくまえに、答えを言われたくないんだよね？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>それだけじゃない。もし、&lt;Harold&gt;以外の人間にしゃべってみろ。信じない人間にはおかしいようにしか見えないし、信じる人間がいたとしても、悪用しようとする可能性があるからな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>悪用？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>未来を知っていれば、その情報から戦況を覆すことが可能になるだろう。歴史を好きに改ざんできるということだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>その通り。あんた、ヘンなお面を被ってるのに、ずいぶんまともなことを言うじゃない。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>‥‥ふん。だが心配はいらん。こいつらのようなバカどもの言葉を、誰が信じるものか。それを信じるのは、&lt;Harold&gt;、おまえのような「本物の変わり者」だけだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ふむ。ま、それもそね。私のような天才にしか、理解できないのは確かだわ。でも、あなた、ずいぶんちゃんと考えてるじゃない。私ほどじゃないけど、なかなかのモンよ。もしかして、そのお面にもなにか意味があって？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>くっ、この仮面のことには触れるなッ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>おおっ、あの&lt;Judas&gt;がやり込められている‥‥なんか新鮮だ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

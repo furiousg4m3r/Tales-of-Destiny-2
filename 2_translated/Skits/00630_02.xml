@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>しっかし、あの&lt;Harold&gt;＝ベルセリオスが女だったなんて、ビックリしたよなぁ！　歴史学者たちの驚く顔が、目に浮かぶぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>現代に戻って、学者たちに話したところで、信じてはもらえないだろうがな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>語り継がれた歴史なんて、みんな、そんなもんよ。自分たちに都合がいいようにねじ曲げられたり、改ざんされたり。ウワサがひとり歩きすることだってあるしね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ウワサがひとり歩きって‥‥あんたのは、計画的犯行じゃねーか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>グフフッ！　千年間もだまし通せるなんて、すべて私の思惑どおりってワケね★</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

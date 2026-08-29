@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねぇ、今度ホープタウンの子供たちにも、おみやげ持って行ってやろうよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ああ。べつにいいけど、俺はもうちょっと、こう‥‥大人の女性がいっぱいいるところに行きたいというか‥‥ほら、あそこってほとんど子供しかいねえだろ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>なに言ってるんだよ、&lt;Loni&gt;。あの子供たちの中に&lt;Loni&gt;の将来のお嫁さんがいるかもしれないじゃん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>バ～カ！　そんなの天地がひっくり返ってもありえねえよ。俺はあくまで「大人のお姉さん一筋」なんだからな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>そうかなぁ‥‥なんか、ありそうな予感がするんだけどなあ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

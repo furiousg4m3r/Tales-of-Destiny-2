@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>チッ！　レンズ奪ったら、すぐ帰るつもりだったのに、ドジふんだおかげで、すっかり遅くなっちまったぜ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>母さん、きっとカンカンに怒ってるだろうな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ああ、間違いない。あの美しい顔のミケンに、シワよってるとこが目に浮かぶぞ‥‥こりゃ、強烈ビンタ三往復は確実だな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>問題は、そのあとだよ。旅に出たいってことを、ちゃんと言わないと。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>まあ、そればっかりは、なるようにしかならねえよな‥‥とにかく今は、ビンタを一往復でも減らしてもらうために、ダッシュで孤児院まで帰ろうぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>うん‥‥あのビンタ食らったら、話する前に気絶しちゃうもんね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

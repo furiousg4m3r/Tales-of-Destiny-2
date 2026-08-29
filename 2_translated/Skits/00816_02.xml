@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ん～～？　男ども、ずいぶんとうれしそうな顔してるじゃない。なんかあったの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>当然だわ。&lt;Kyle&gt;は子供のころに亡くしたお父さんに会えたんだし、&lt;Loni&gt;は子供の頃守れなかった人を守ることができたんだもん。&lt;Judas&gt;だって、昔、裏切ってしまった仲間を助けることができて、すごくうれしかったんじゃないかしら‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ああ‥‥みんな‥‥なんか吹っ切れたような‥‥イイ顔してるよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

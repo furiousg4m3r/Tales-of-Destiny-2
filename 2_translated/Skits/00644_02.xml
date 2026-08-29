@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ね、ねぇ&lt;Harold&gt;。ホントに、ここにいてだいじょうぶなの？　なんかオレ、頭痛くなってきたよ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ふむ。未来人は、私たちよりも毒に対する耐性が低いのかしら？　これは興味ある研究対象ね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>それじゃ、おまえだけ無事で、俺たちが先にぶっ倒れちまうってことか!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>だいじょうぶよ。いざとなったら、人工肺を移植してあげるから。それとも、いっそのこと頭以外、全部機械にしてあげよっか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>さ、さぁ！　くっちゃべってるヒマはないぜ！　とっととカギを探すぞ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

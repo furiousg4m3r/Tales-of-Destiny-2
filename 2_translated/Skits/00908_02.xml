@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>シャル‥‥どこかで見てるか？　もし見てるなら、ひとつだけおまえに頼みたいことがあるんだ‥‥‥‥‥‥‥‥ボクは、一度死んだ人間だからいい‥‥ただ‥‥‥‥あいつらの命だけは守ってやってくれないか？　‥‥‥‥チャランポランでどうしようもない連中だが、これからの未来には必要なんだ‥‥‥‥それに、ルーティの‥‥あいつの泣き顔はもう見たくないからな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>お～い！　&lt;Judas&gt;！　この間の戦いの傷は、もう大丈夫なのか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>よけいなお世話だ。人のことを心配するヒマがあったら、自分の心配をしていろ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ちぇっ！　せっかく人が心配してやってるのに‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>たのんだぞ‥‥シャル。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

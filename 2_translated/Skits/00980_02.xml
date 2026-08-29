@@ -1,0 +1,95 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>さて、これからどうする？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>決まってるよ、あの子を探すんだ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>探すねぇ‥‥なんの手がかりもないのに？　草むらかきわけて、探すつもりか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>しょうがないじゃん、他に方法がないんだから！　それとも&lt;Loni&gt;には、いいアイデアでもあるのかよ!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>こういうときは、頭を使うんだよ。いいか、あの子の『英雄を探してる』って言葉が本当だとするぞ。今生きていて、英雄と呼ばれるような人といえば、先の騒乱から世界を救った、四英雄だ。まず、おまえの両親であるスタンさんとルーティさん。それから、英雄王の誉れ高い、ファンダリアのウッドロウ王。そして、アタモニ神団に所属し、ストレイライズ大神殿にいるフィリアさんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>うんうん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>おそらくは、この四人のうち、誰かに会いに行くはずだ。そして、そのうちふたりは除外できる。ひとりは、居所がわからないスタンさん。そしてあの子は、ルーティさんのところにも来なかった。これも除外。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>とすると‥‥残るのは、ウッドロウ王と、フィリアさんか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>ここで問題。ウッドロウ王のいるファンダリアへは、どうやって行く？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>たしか、アイグレッテの港から、船に乗って行くんだよね‥‥あ、そうか！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>そう。フィリアさんにしろ、ウッドロウ王にしろ、会うためには必ずアイグレッテを通る必要があるってことだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>じゃあ、まずはアイグレッテに行こう！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>そうと決まれば、出発だ。ここからアイグレッテを目指すなら、ダリルシェイドの西にある橋を渡り、さらに北にあるハーメンツヴァレーを通って行くのが普通だな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>つまり、ダリルシェイドの方を目指せばいいんだね！　よし！　行こう、&lt;Loni&gt;。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

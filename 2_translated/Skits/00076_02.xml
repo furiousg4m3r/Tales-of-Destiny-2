@@ -1,0 +1,59 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>母さんから聞いたんだけど、父さんもオレとおなじくらいの歳で、冒険に出たんだってさ‥‥ってことは、オレだってそのうち英雄になれるってことだよな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あ～まいあま～い！　そんな簡単に英雄になれると思ったら大間違いだぞ、&lt;Kyle&gt;。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ムッ！　なんだよ！　どうしてなれないって、決めつけるのさ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>だれもなれないとは言ってねえよ。ただ、もっともっと修行が必要だって言ってんだ。いいか、よ～く考えてみろ？　そんな簡単になれるモンなら、だれもありがたいって思わねえだろ？　だれもなれないから、英雄はみんなのあこがれのマトなんだぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>そっか、そうだよね‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>つまり、英雄になりたけりゃ、人の百倍は修行しなきゃならないってことだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>百倍か！　よし！　そうと決まったら、さっそく走って遺跡まで行くぞ！　でえぇやぁぁ～～～っっ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>お、おい！　一人で勝手に行くんじゃねえ!!　はぁ‥‥こりゃ、まだまだ俺がついてねえとダメだな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

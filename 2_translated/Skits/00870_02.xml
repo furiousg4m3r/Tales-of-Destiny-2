@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>あ！　マルグラーナ＝ナナホシカマキリ発見っ!!　‥‥と思ったら、なんかちょっとちがうわね‥‥千年の間に、ちょっと進化したのかしら？　フムフム‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>おぃおぃおぃ、のんきに虫なんか捕ってる場合かよ！　‥‥ったくもぅ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>失礼ね。私はいつだって真剣よ。ま、あーんたにこの研究の重要性を説いたって、わかりゃしないだろうけど。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>そんなもん、いくら調べたって、世界が破壊されちまったらそれまでなんだぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>それはそれ。これはこれ。おっ！　チャクラタン＝ミドリクワガタちゃん、はっけぇ～ん！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>あたしも、マズったね‥‥こんなことになるなら、あの時、もっとあの子のことを見守っているべきだったよ。しっかりしてる子だから、だいじょうぶだろうと思ってたんだけど、まさか、こんな思い切った行動に出ちまうなんてね‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>それを言うなら、俺だってそうだ。&lt;Reala&gt;の気持ちも知らずに、不用意な言葉をぶつけちまって‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>過ぎたことを悔やんでもしょうがない。今は、一刻も早く&lt;Reala&gt;に追いつく。それだけを考えるんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

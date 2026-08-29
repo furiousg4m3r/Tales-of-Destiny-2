@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>父さんって、ずっと特別なんだって思ってたよ。子供の頃から、英雄になる特訓をしてたり、今のオレぐらいの年には、もう英雄として活躍してたんだって‥‥でも、違ってた。父さんも、普通の少年だったんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>そりゃそうさ。なにも、生まれたときから英雄だったわけじゃない。スタンさんも、ルーティさんもな‥‥だが、その後はちがう。わかるよな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>そう！　要は努力が大切だってことだよな！　つまり、努力すればオレだって、いつかは英雄になれるってワケさ！　へへ、そう思うとオレ、なんだか安心しちゃった！　がんばろ～っと♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>‥‥‥‥‥‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

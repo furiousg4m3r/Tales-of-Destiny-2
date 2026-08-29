@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>あーっ!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>どうした、なにか問題でもあったのか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ああ。もう少しで重大なミスを犯すとこだったぜ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なんだ。そのミスというのは？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>俺たちがアトワトさんを助けるとする。そうすっと、アトワイトさんは、当然ながらこのカッコいい俺にホレてしまうだろう。ってことは、俺たちが元の世界に戻ることになったとき、彼女もいっしょについてきてしまうんじゃないか？　その結果、ソーディアンチームは一人欠けてしまい、バルバトスの歴史改変の企みを手助けしてしまう形になる‥‥‥‥‥‥くそっ！　なんてこった。イヤ、敵ながらアッパレな計画‥‥‥‥‥‥‥‥‥‥‥‥ぐふが‥‥げっ‥‥うげっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>歩きながらネゴト言ってたみたいだから、眠気覚ましに一発入れてやったよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>上出来だ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

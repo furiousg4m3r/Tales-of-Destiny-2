@@ -1,0 +1,23 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>今まで、いろんなとこ旅してきたけど、よく考えたら、オレ‥‥「世界中の人間の命を背負ってる」なんてこと、考えたことなかったな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ウッドロウ王なら‥‥今でも、国民たちを背負って生きてる王なら、なんかいい答えをくれるんじゃねえか？　とりあえず、「ハイデルベルグ城」に行ってみようぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

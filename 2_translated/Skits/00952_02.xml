@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>そういえばおまえ、ガキの頃、よく森の中で迷子になったよな。昔からお前は、めずらしいものがあると、あっちにフラフラ、こっちにフラフラと‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>なに言ってんだよ。自分だって、旅芸人のお姉さんのおシリ追っかけてって、そのまま行方不明になったじゃないか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>‥‥ま、まあ、あれから二人とも成長したわけだし、お互い、勝手な行動はつつしもうってことで‥‥って、おい！　&lt;Kyle&gt;、どこ行くんだよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なんか今、すっごくめずらしい生き物が見えた気がして‥‥あっ！　発見！　逃がすか！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ったく‥‥あいつは言ったそばから、これだ‥‥‥‥ん？　おい！　&lt;Kyle&gt;。なんか、今、すごい美人が通らなかったか？　ああっ！　もう、幻でもなんでもいい！　俺は、あの美人を追うぞ！　ぬうぉりゃぁ～～っ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

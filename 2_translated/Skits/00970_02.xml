@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>父さんや母さんもすごいんだろうけど、身近すぎてなんかいまいち英雄って感じがしないんだよなぁ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>じゃあ、おまえはどういうのが英雄だと思うんだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>う～ん‥‥ウッドロウさんもそうだけど、やっぱ天地戦争時代のソーディアンチームかな。ディムロスさん、アトワイトさん、クレメンテさんに&lt;Harold&gt;とか‥‥なんか伝説の英雄って感じがするじゃんか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Harold&gt;？　&lt;Harold&gt;って、&lt;Harold&gt;＝ベルセリオス博士の事か？　あの人は科学者だから、英雄とは言えないんじゃねえか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ああ、そっか‥‥でも&lt;Harold&gt;って、科学者っぽくない‥‥ような気がするんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>はぁ？　何言ってんだオマエ？　それにだ、なんで「&lt;Harold&gt;」だけ呼び捨てなんだよ？　ほかのメンバーはみんな「さん」付けで呼んでるのによお‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>なんでだろう‥‥？　なんか、そのほうが自然な感じがしたんだけど‥‥う～ん‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

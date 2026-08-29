@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねえ、&lt;Loni&gt;はどうして、&lt;Nanaly&gt;を口説かないの？　いつもなら、もうとっくに手を出してるはずなのに。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>バ～カ！　人聞きの悪ぃこと言ってんじゃねえよ。俺は女ならだれでも口説くわけじゃねえ。ちゃんと、厳選なる審査を重ねてだなぁ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>じゃあ、あたしはその審査とやらを通過しなかったってわけだね、へえぇ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>‥‥&lt;char:00002715&gt;、&lt;Nanaly&gt;さん、どうしてそんなに指をポキポキ鳴らしていらっしゃるのでございます？　ま、待て！　なんなら審査をやりなおしてもいい！　いや、今からやりなおす！　だから関節をキメるのは‥‥！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

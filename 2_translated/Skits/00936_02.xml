@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ふぁ～～‥‥ねむ～‥‥なんか最近、いくら眠っても足りないんだよな。なんでだろ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>そういえば、お前、よくネゴト言ってるもんな。ヘンな夢でも見てるんじゃねえか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ネゴト‥‥って、どんなネゴト？　ニンジンとかピーマンとか、出てくる？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なんでニンジンとかピーマンなんだよ。ネゴトで言ってるのは、誰かの名前だと思うぞ。よく聞き取れなかったが‥‥‥‥たぶん、ありゃ、女の名前だな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ふ～ん‥‥誰だろ？　その女の子は‥‥その‥‥ニンジンとかピーマンとか‥‥‥‥ムニャムニャ‥‥もう食べられないよ、母さん‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ダメだ、コイツ‥‥寝ぼけてやがる。というよりも、歩きながら寝てるのか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

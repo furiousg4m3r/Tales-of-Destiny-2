@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>あっち～～～！　カルバレイスの人って、なんでこんなとこに住む気になったのかなー。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>おやおや、あんた、歴史の勉強さぼってたね？　天地戦争は知ってるだろ？　その戦いで負けたほうが、あたしらのご先祖さま「天上人」さ。そんでもって、負けた天上人は、暑いばっかでやせたこの土地、「カルバレイス」に押し込められたってわけ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>うへ、それでこんなとこに住んでんのかぁ～。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

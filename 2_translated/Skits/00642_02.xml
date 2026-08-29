@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>なぁ、&lt;Harold&gt;。おまえ、天才科学者なんだよな？　だったら、ひとつ、俺を世界一モテる男にしてくれよ。世界中の女の子が『&lt;Loni&gt;さまステキ～～ッ★　キャ～～～ッ★』とか言うような、そういうヤツだよ。できるんだろ？　な？　な？　な？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あぁ、そんなのお安いご用よ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>いよっしゃ！　じゃあ&lt;Harold&gt;、さっそく頼むぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>それじゃまず、脳ミソを取り替える作業からはじめなきゃね。そのあとは、顔のパーツを全面的に改修して‥‥いや、いっそ首から上を全部すげ替えた方が早いかも‥‥あ、そういえば、ＨＲＸ－２型の予備パーツが、まだ余ってたっけ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いや、もういい‥‥俺が悪かった‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

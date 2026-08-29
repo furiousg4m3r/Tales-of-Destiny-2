@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Reala&gt;‥‥レンズの力を使って、世界を滅ぼすことってできるの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>たぶん、ムリだと思う。ベルクラントみたいに、レンズとなにかを組み合わせれば、もしかしたら、できるかもしれないけど‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>あんなものが、そうそう簡単に作れるはずがない。しかし、&lt;Harold&gt;の調査結果も、おまえたちの見た幻視も、世界の破滅を意味していた‥‥いったい、どんな手段を使うつもりだ、エルレインは？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>とにかく、未来にもう一度行ってみよう！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

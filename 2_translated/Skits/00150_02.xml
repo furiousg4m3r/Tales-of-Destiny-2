@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>しっかし、あしながおじさんのこと、すっかりバレてたな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>う～ん、うまくやったつもりなんだけどなぁ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ま、さすが歴戦の強者だけあって、ルーティさんのほうが、一枚も二枚も上手だったってことだ。おまけに、渡したのよりずっとたくさん、金ももらっちまって‥‥なんか、ワリぃことしちまったな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>それなら、だいじょうぶ！　オレが英雄になって、二倍‥‥いや、十倍にして返せばいいんだよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>‥‥あのなぁ、&lt;Kyle&gt;。英雄になったら、金がバカバカ入ってくるとでも思ってるのか？　もしそうなら、今ごろルーティさんは苦労してないだろうが。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

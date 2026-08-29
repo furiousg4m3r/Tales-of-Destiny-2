@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねえ、宝物ってなんだと思う？　やっぱり、伝説の剣とかなのかなぁ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ソーディアンみたいなモンか？　そんなのつまんねーよ。もっとこう‥‥‥‥そうだな。誰も見たことのないような、ものすご～い宝物がいいって‥‥‥‥たとえば‥‥美女とか、美女とか、美女とか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>それって、&lt;Loni&gt;が欲しいものじゃない‥‥だったら、わたしは英雄がいいな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なんだよ、&lt;Reala&gt;～。英雄なら、もうここにいるじゃん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>おまえたちの思考は理解できんな。人間が宝箱に入っているわけないだろう。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>やあね、&lt;Judas&gt;。冗談に決まってるじゃない♪　ねぇ、&lt;Loni&gt;。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>え？　‥‥‥‥冗談なの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

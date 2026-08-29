@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>結局、&lt;Harold&gt;のロケットは、完成したのかしら？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>どうだろうな。一晩で完成させるなど、にわかには信じがたいが‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>なんちゅーか、ちょっと変わったヤツだよなぁ。カーレルさんと双子の兄妹ってことは、それなりの歳だろ？　なのに、なんであんなガキみたいな顔してんだよ。あいつ‥‥実はロボットなんじゃねえの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>また、あんたは好き勝手なこと言って。たしかに、&lt;Harold&gt;はちょっと変わってるところもあるけど、可愛くて面白い子じゃない。あんた、意外と女を見る目がないんだね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

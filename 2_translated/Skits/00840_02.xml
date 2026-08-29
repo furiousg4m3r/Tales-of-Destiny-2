@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ところで、&lt;Kyle&gt;。この俺に黙って、早朝から&lt;Reala&gt;とデートとは、やるじゃねえか。このっ！　ウリウリウリウリ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥‥‥や、やだなぁ。そんなんじゃないよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>なんだよ、隠さなくてもいいじゃねえか。そうだよなぁ、&lt;Kyle&gt;もそういう年頃だもんなぁ。ったく‥‥この俺さまをさしおいて、ナマイキだぞぉ。このこのぉっ♪　このっ！　このっ！　てめえっ！　きさまっ！　こんちくしょうっ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>いたたっ、痛いって！　&lt;Loni&gt;、なんか本気で怒ってないか!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ん～怒ってねえよ！　ちきしょう！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

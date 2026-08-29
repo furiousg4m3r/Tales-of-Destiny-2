@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>なんだか&lt;Loni&gt;と&lt;Kyle&gt;って、幼なじみっていうより、本当の兄弟みたいね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>まあな‥‥ホントは「俺のせいで亡くなったスタンさんの代わり」っていうか‥‥あいつの父親代わりになってやりたかったんだけどよ、あホラ、俺って若さにあふれすぎてて、どう見ても父親ってガラじゃねえだろ？　それに‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>おまえなんかに父親になられても、迷惑なだけだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ああっ！　横からゴチャゴチャ口をはさむな！　‥‥えっと‥‥どこまで話したっけ‥‥あっ！　そうだ。それに、オレ、ルーティさん‥‥あいつの母親に頼まれたことがあったんだ。『あいつを本当の弟だと思って、しっかり守ってやってくれ』って‥‥『自分にも弟がいたけど、守ってやれなかったから』って‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>‥‥‥‥‥‥そうか。そうだったのか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

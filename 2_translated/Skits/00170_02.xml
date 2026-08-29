@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>うっわ～！　ニギヤカな街だなぁ。お祭りでもやってるのかなぁ？　歩いてるだけで、目が回ってくるなぁ‥‥あっ、あっちに、なんか面白そうなモノがあるよ！　行ってみようよ、&lt;Loni&gt;！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>むぁて！　落ち着け、&lt;Kyle&gt;！　ウロチョロするんじゃない。迷子になるぞ！　しっかり、俺の手を掴んどけ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>なんだよ～。子供扱いすんなよな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>そういえばさ、なんで&lt;Reala&gt;は、母さんのとこに行かなかったの？　母さんだって、ウッドロウさんやフィリアさんと同じように、英雄のひとりなのに。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥行ったわよ、わたし。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>え!?　そうなの!?　そんなこと、母さんはひと言も話さなかったけど‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>それはそうよ。だって、直接は会わなかったもの。遠くで見てただけ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>なんで？　フィリアさんのときみたいに、話を聞こうと思わなかったの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>そのつもりだったんだけど‥‥話しかけようとしたら、男の子が泣きながらルーティさんのところにやってきたの。あやし終わったと思ったら、今度は洗濯物が風に飛んじゃったとかで、ルーティさんどこかいっちゃって‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>あははははっ！　それで、話しかけるタイミング逃しちゃったのか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

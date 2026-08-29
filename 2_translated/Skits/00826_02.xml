@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>久しぶりに、この世界に戻ってきて、あらためて思ったわ。あんなドームなんか必要ない。フォルトゥナの加護なんか受けなくても、人は強く生きていけるんだって。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ああ、そうだね。こんなに寒くてキビシイ土地でも、みんな、肩寄せあって楽しそうに暮らしてる。あたしの故郷だっておんなじさ。幸せは、神様にもらうもんじゃない。自分たちの手で、つかみとるものなんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>んじゃ、そいつをアタマの固いエルレインに教えに行こうぜ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

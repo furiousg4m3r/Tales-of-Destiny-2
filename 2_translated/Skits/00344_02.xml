@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>十年後の世界かぁ‥‥‥‥‥‥ねえ、&lt;Nanaly&gt;？　&lt;Kyle&gt;っていう英雄のウワサ聞いたことない？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ん～‥‥‥‥ないねぇ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>あっちゃ～‥‥なにやってんだよ、十年後のオレ！　いや、待てよ‥‥もしかしたら英雄になったのをきっかけに、名前を変えたのかも‥‥‥‥きっとそうだ‥‥うん、そうに決まってる!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なに、これ‥‥？　なんか自分の世界に入っちまったみたいだけど‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>だっ、だいじょうぶ。その‥‥ちょっとしたビョウキみたいなものだから‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>‥‥「スタンジュニア」は？　ちょっとダサイか。「デュナミス将軍」とか‥‥う～ん、もう一歩かな。「デュナミス王」とかいって、今や一国のあるじになってたり‥‥いや、でももしかしたら‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>でさ、&lt;Nanaly&gt;、カルビオラまでは、どうやって行けばいいの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ちゃんとした道が、あるにはあるんだけどさ、それはフォルトゥナの神官しか使えないんだよ。だから、裏から回りこんで行くしかないね。あの山を越えた‥‥‥‥その先が‥‥聖地カルビオラだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>お、おいおい、あんな岩山を登んのか!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>人の話は最後まで聞く！　あの山のふもとには、大昔のゴミ捨て場があるんだ。そのゴミ捨て場の道を使えば、山の中を通って、向こう側に出られるハズだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ゴミ山‥‥気が進まねえなぁ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>でもさ、他に道がないなら、しかたないじゃん。とにかく、出発だ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

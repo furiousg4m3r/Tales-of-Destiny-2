@@ -1,0 +1,17 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>いいか、&lt;Kyle&gt;。「動かせそうなもの」の目の前に立って、&lt;button:00000025&gt;ボタンを押すんだ。&lt;button:0000002D&gt;ボタンを押しっぱなしにして移動すれば、物をひきずって歩くことができるぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

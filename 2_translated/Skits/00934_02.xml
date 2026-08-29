@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>そういや&lt;Kyle&gt;、お前、出発する前に、ちゃんとみんなにあいさつしてきたか？　冒険者なんていつ故郷に帰れるかわからないんだ。大切な人には、ちゃんとあいさつをしておくべきだぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>なんだよ、子供扱いすんなよな。あいさつくらい、ちゃんとしてきたよ。父さんと母さんだろ、ヴィレッタさんにジョーさん、それに孤児院のみんな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ふんふん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>それに、孤児院で飼ってるヤギのミユとアーノルド、ニワトリのジョバンニ。それから‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>動物にまであいさつしてきたのか!?　律義なやつだな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

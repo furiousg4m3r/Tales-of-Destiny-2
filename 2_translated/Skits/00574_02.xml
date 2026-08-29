@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>しかし、あれがおとりだったとはな‥‥エルレインのヤツに、してやられたぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>彼女には、飛行竜など使わなくても、大量のレンズごと転移する能力があったんだ。だが、彼女はこちらの先入観を利用して、あの巨大な飛行竜に目を向けさせた‥‥くっ！　僕としたことが、あんなワナに引っかかるとは‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>まあ、過ぎたことをとやかく言ってもしょうがないし、とりあえず、このシケたとこから出ないかい？　こういうジメジメしたとこは、性に合わないんだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>
