@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ファンダリア軍が必死こいて守ってる飛行艇の名前まで知ってるとは‥‥&lt;Judas&gt;に知らないものはなんにもないって感じだな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥今はそんなことを話している時か？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>そうつっかかんなよ。こっちだって、あんまりにも多すぎて、疑うのにも飽きちまった。今さら、なにも聞く気はねえよ。それに、今はそんなことを話している時じゃねえんだろ？　行こうぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

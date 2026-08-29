@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ここの連中は、自分の人生になにも疑問を感じてないみたいだけど、それって幸せなことなのかねえ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>疑問を感じねえのは、ほかの生き方を知らねえからだろ？　ただエルレインが一方的に用意したシナリオどおりに生きて、なにが楽しいってんだ‥‥そりゃ、ふつうに生きてりゃ、つらいことも苦しいことも山ほどあるさ‥‥けど、そんな中でつかみとる幸せだからこそ、価値があるんだろうが。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>‥‥‥‥へぇ～。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なんだよ。なんか変なこと言ったか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>いや‥‥あんたでも、「たまにはまともなこと言うんだな」って思ってさ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>お、俺はいつだってまともだ‥‥！　おまえが聞き逃してるだけなんだよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

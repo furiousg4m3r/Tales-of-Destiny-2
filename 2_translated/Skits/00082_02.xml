@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>おい、&lt;Kyle&gt;。装備のほうは、ちゃんと整ってんだろうな？　いざというときに回復できなくなったら、ほんとシャレになんねえぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>何言ってんだよ、&lt;Loni&gt;。たまにはオレのこと信用してよ‥‥ほら、ちゃんとだいじょうぶだろ！　ん？　だいじょうぶだよ‥‥な？　‥‥だいじょうぶなのか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>俺に聞いてんじゃね～よ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

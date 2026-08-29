@@ -1,0 +1,101 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>どうした&lt;Kyle&gt;？　不景気そうなツラして。なにか悩みがあるんなら、この人生経験豊富な&lt;Loni&gt;お兄さんに相談してみろ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥あのさ、&lt;Loni&gt;。最近の&lt;Reala&gt;‥‥どう思う？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>お、恋の悩みか？　それなら俺の十八番だ。いいか&lt;Kyle&gt;、きっと&lt;Reala&gt;は‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>あいつなりに、覚悟を決めたんだろう。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>おいおい&lt;Judas&gt;、いきなり割って入ってくるなよ。&lt;Kyle&gt;は、俺に相談してるんだよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>「覚悟を決めた」って‥‥どういうこと？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>聖女として生きる道を。おまえを英雄として認め、それと共に生きる道を。すべて、おまえの望みどおりになったんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>そう‥‥なのかな？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>9</Id>
+      <JapaneseText>なに言ってんだよ。あれだけ『英雄になりたい』って、さんざん言ってたじゃねえか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>10</Id>
+      <JapaneseText>うん、でも‥‥なんか、ちがうんだ。‥‥なんて言うのかな‥‥今の&lt;Reala&gt;って、なにが起きても、全然驚かなさそうじゃない？　それって、&lt;Reala&gt;じゃないみたいで‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>11</Id>
+      <JapaneseText>あん？　それじゃまるで、&lt;Judas&gt;みたいじゃねえか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>12</Id>
+      <JapaneseText>‥‥案外、そうかもしれない。あいつはあいつなりに、なにかを捨てようとしているのかもしれないな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>13</Id>
+      <JapaneseText>捨てるって‥‥なにをだよ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>14</Id>
+      <JapaneseText>それは‥‥‥‥自分で考えてみろ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>15</Id>
+      <JapaneseText>&lt;Reala&gt;‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,59 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねぇ、&lt;Loni&gt;。アタモニ神団にいたんなら、あの英雄のフィリアさんにも会ったことあるんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>遠くからチラッと見たことがあるくらいだな。俺らみたいな下っぱは、地方にまわされるから、なかなか会える機会がねえんだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>で？　で？　どんな人だった？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>眼鏡の似あう知的美人だな‥‥‥‥へっ‥‥ルーティさんみたいなタイプもいいけど、ああいう清楚なお姉さんタイプも、あれはあれでグッとくるっていうか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>そういうことじゃなくって！　ほら、もっとあるだろ？　英雄らしいオーラをただよわせていたとか、すごい気迫を感じたとか！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>知らん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>『知らん』って、なんだよ。&lt;Loni&gt;の判断基準は「美人かそうじゃないか」しかないのかよ!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ない！　ほかになにがあるってんだ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

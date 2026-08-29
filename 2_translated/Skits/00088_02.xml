@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>なあ、&lt;Kyle&gt;。なんか思いださねえか？　この帰り道‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あのときだろ？　迷子のネコさがしにいって、そのまま迷子になったとき。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>二人して、夜中おそくになんとか孤児院までたどりついて‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>よろこんで玄関のドアを開けたとたん、母さんの往復ビンタが飛んできて‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>あのビンタは一生忘れられねぇだろうなあ‥‥こんなにも俺のことを心配してくれる人がいるんだって‥‥そう思ったら、涙が止まらなかったもんな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>バルバトスの野郎が英雄とはな。まったく、この世界の歴史は、いったいどんなになっちまってるんだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あいつは、ウッドロウさんやフィリアさんを襲って、ひどい目にあわせたんだ。そんなヤツが‥‥！　やっぱ、おかしいよ、この世界は！　あいつが英雄って呼ばれるなんてさ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Kyle&gt;‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>熱くなるのはいいが、今は歴史がどう改変されたかを調べるのが先だ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>そうだぜ、&lt;Kyle&gt;。怒りは、やつをぶん殴る時までとっておけよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

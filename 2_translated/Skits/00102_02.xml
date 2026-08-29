@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ハァ～。また当分の間、ルーティさんの手料理が食えなくなっちまうなあ～。あの「ビーストミートのポワレ」、もっとよく味わっとくんだったぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あれって、母さんが昔の友だちに教えてもらったんだよね？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ああ、知ってる。マリーさんって人だろ？　料理はうまくて、その上、すっごい美人なんだってよ。一回会ってみてえよなあ♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>でも、母さんより年上だって話だから、きっと、もうオバさんだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>わかってないな、&lt;Kyle&gt;。ほんっとに美しい女性は、歳をとるほどに美しさを増すんだぜ。ま、お子チャマには、わかんねえだろうがな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

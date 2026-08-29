@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ここが別の世界だとしたら、どうやって元の世界に戻ればいいんだい？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>う～ん‥‥迷ったときは、『来た道を逆にもどるのがいい』って言うから、もう一回浜辺にもどって‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>それからどうするつもりだ？　僕らは、&lt;Reala&gt;の空間移動能力で、あそこにたどり着いたんだぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>そのくらい、わかってるよ。&lt;Reala&gt;は、『みんなを安全なところへ！』って念じたわけだから、今度は、その逆で『みんなを危険なところへ！』って念じれば‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>そんなことだから、おまえはいつも迷子になるんだよ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

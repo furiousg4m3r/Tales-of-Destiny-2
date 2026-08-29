@@ -1,0 +1,17 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>クレスタとアイグレッテのちょうど中間あたりに、ダリルシェイドがある。クレスタの西、アイグレッテの南西辺りだな。そこで装備の補給をしたほうがいいだろう。だけどよ、俺たちは、ダリルシェイドじゃ、おたずね者になってるだろうから、大手を振っては歩けないぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

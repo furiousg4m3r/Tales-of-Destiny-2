@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Kyle&gt;、どうして、あの女に執着するんだ？　そりゃあ、モトがいいってのは俺も認める。あと十年もすれば、いい女になるのは間違いない。だけどな、世の中には、もっともっといい女がワンサカいるんだぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Loni&gt;と一緒にするなよ！　オレがあの子を追いかけるのは、なにか予感があるからさ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>『予感』‥‥‥‥ひょっとして、恋の予感か？　はっ‥‥な～んだ、おまえもそんな年頃かぁ。よ～し、わかった！　そういうことなら、俺も応援してやるよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ち、ち、違うってば！　オレが感じたのは、「冒険の予感」！　あの子を追いかけることが、英雄になるための道だって思えたんだ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>はいはい、そういうことにしといてやるよ。ま、恋の手ほどきは、この&lt;Loni&gt;さまに任せとけってな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>！　だから、冒険の予感だってば！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

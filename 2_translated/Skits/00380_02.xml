@@ -1,0 +1,23 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>&lt;Loni&gt;も&lt;Judas&gt;も無事だといいんだけど‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あの二人なら、きっとだいじょうぶさ。&lt;Judas&gt;はスゴ腕だから、自分でなんとかできるだろうし、&lt;Loni&gt;だって、『美人の奥さんをもらうまでは死ねない』って言ってたからね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>男ふたりでテクテク歩いて、モンスター倒して‥‥まぁ、悪かぁねえけど、なんつーか、こう‥‥「華」がねえんだよな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>花？　&lt;Loni&gt;、花なんかほしいの？　オレ、どっかで摘んでこようか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ハァ～、わかってねぇな‥‥「華」ってのは、つまり女っ気のことだ。キレーな姉ちゃんが旅の道連れにほしいってことだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ふぅん‥‥でも、そうなったら、他の女の人に声かけられなくなるね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>うっ‥‥そうか。やすらぎはほしい‥‥でも新しい出会いもすてがたい‥‥ああっ！　俺は、いったいどうすればいいんだ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>実際にそういう状況になってから、悩みなよ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

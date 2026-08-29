@@ -1,0 +1,17 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>コンテナの前に立って&lt;button:00000035&gt;ボタンを押せば、コンテナを押し出すことができる。失敗したと思ったらＬ２&lt;button:0000003B&gt;ボタンでやり直すんだ。いきなり動かさず、まずは頭の中で考えてみたらどうだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

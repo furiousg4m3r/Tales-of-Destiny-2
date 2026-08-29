@@ -1,0 +1,59 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねえ、&lt;Nanaly&gt;の先祖って天上人だったんだよね？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ん？　まあカルバレイスの出身だから、そういうことになるね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ってことは、今の歴史だと、「ダイクロフトに&lt;Nanaly&gt;がいるかもしれない」ってこと？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>歴史の流れが変われば、人の生き方も考え方も変わるだろうから、まったく同じ&lt;Nanaly&gt;が生まれることは、ほとんどないだろうな。まあ、可能性としてはゼロではないだろうが‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>やめとくれよ。自分があんな高いところから、地上の人間見下して生きてるなんて、考えただけでもゾッとしないね。もし、まったく同じ外見をしたヤツがいたとしても、そいつはあたしとは、まったくの別モンだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>ったりめえだ。こんな凶暴女、二人も三人もいてたまるかってんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>‥‥ああ。あんたの息の根を止めるには、あたし一人で十分だからね!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>8</Id>
+      <JapaneseText>ぐあっ‥‥ま、マジで‥‥こ、呼吸が‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

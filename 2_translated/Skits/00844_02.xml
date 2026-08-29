@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ふう‥‥ようやく、あたしの時代に、戻ってこられたね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Nanaly&gt;、おまえ、これ以上ムリに俺たちにつきあう必要はないんだぜ。次に、この時代に戻ってこられる保証なんてねえんだし、このまま故郷に帰っても‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>冗談！　知らないとこで、世界を勝手にいじくられるのを、ほっとけってのかい？　あたしは、そういうのを黙って見過ごせるほど、人間ができちゃいないんだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>‥‥‥‥そう言うと思ったぜ‥‥まあ、こっちも‥‥おまえがいねえとなんか調子くるうっていうか‥‥‥‥その‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ま‥‥まぁ、そこまで言うんなら、あたしも‥‥ね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

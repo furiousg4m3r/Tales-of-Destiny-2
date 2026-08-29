@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>キャッ！　今、そこに、人影が！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>どどどどどど、どうした&lt;Reala&gt;？　オバケでもいたのか？　そうなのか？　なにがあったのか言ってくれ！　あ～やっぱり言うな！　でも、オバケだったら逃げなきゃな～、いや～、オバケなんかいないんだ！　いないハズなんだ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ふたりとも落ち着け。&lt;Reala&gt;、お前が見たのは、自分の影だ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>‥‥え？　そ、そうだ、&lt;char:00002714&gt;、&lt;Judas&gt;の言うとおりだ！　オバケなんか、いるハズないじゃないか&lt;Reala&gt;！　ま、まったく、人騒がせだな！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>あっ、&lt;Loni&gt;、ずるい！　わたし、オバケだなんて言ってないわ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

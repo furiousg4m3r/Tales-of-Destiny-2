@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>う～～～っ‥‥いよいよ、エルレインってヤツとご対面ってわけね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>なんだよ？　おまえ、震えてんのか？　やっぱ、すごい科学者っていっても、ふつうの女の子っぽいとこもあるんだな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>だって、そのエルレインってヤツ、「聖女」を名乗ってるんでしょ？　それがホントなら‥‥グフフフフ‥‥おもしろいデータが採れそう。ワクワクして、体が震えてきちゃう～★</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>こ‥‥こいつが一番やべえんじゃねえか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

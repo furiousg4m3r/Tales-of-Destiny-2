@@ -1,0 +1,17 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>おとなしそうに見えて、&lt;Reala&gt;って結構ムチャするよな‥‥‥‥なんて、感心してる場合じゃないぞ！　とにかく、早く&lt;Reala&gt;のトコに行かないと！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

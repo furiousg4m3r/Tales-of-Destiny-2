@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ウッドロウさんって、すごいよなぁ～！　オレも大人になったら、自分の王国つくろっかなぁ～♪</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ハハッ！　「&lt;Kyle&gt;王国」かぁ！　ハハッ！　なんか、一年くらいで滅びそうな名前だよな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ムッ！　なんだよぉ！　「&lt;Kyle&gt;王国」はすごいんだぞ！　まず、毎日が休日で、いつでもお祭りをやってて、めんどくさい決まりなんてひとつもないんだ。好きなときに食べて、好きなだけ遊んで、夜更かししても怒られないし、朝は早起きしなくていいし‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>確実に三日で滅びるな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

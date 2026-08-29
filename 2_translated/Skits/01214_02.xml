@@ -1,0 +1,17 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ダリルシェイドとアイグレッテの間には、ハーメンツヴァレーっていう大きな谷があって、そこを通らないと、アイグレッテには行けないんだ。海岸線沿いに北に進めば、大きな橋が見えてくるはずだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

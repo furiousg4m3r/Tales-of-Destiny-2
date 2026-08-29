@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>どうしたの、&lt;Judas&gt;。難しい顔して。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>いや、「クレメンテとアトワイトが捕らえられたのは、はたして、史実どおりのできごとなんだろうか」‥‥‥‥と、考えてな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>もしかして、エルレインが歴史に介入したせい‥‥!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>考えられるな‥‥ベルクラント開発チームの投降をあらかじめ知っていれば、ワナを張るのは容易だ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>このままだと、ソーディアンチームの存在自体があやうくなっちまう‥‥もし天上軍が勝利すると、あの世界が‥‥「地上人がドームの中でしか生活できない世界」が生まれるってわけか‥‥くそっ！　そんなこと、許してたまるかよ!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>いや、大丈夫さ。逆に言えば、「ここでオレたちが頑張れば、歴史を元に戻せる」ってことだろ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>‥‥発想の転換というヤツか‥‥&lt;Kyle&gt;、たまにはいいことを言うじゃないか。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>なんだか、こうしてるとさー、昔に戻ったみたいだよね。よく一緒に冒険ごっこしたころにさ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>そうだな‥‥‥‥ふぅ‥‥考えてみりゃ、俺はいっつも&lt;Kyle&gt;のお守りばっかりだ。あいかわらず、おまえは何ひとつ変わっちゃいないし‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>違うよ！　あのころは単なる「冒険ごっこ」だったけど、今は違う。今度こそ本当の冒険が、英雄になるための道のりがはじまったんだ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>はいはい。んじゃ、頼むから成長したとこ見せてくれよ。迷子になって泣きべそかいてるのを見るのは、もうゴメンだぜ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>！　なんだよ、オレばっか悪いみたいに言っちゃってさ！　そう思ってんなら、黙ってついてきてないで、どっちに行けばいいか、教えてくれたっていいじゃないかよ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>それできくような&lt;Kyle&gt;なら、俺だって苦労はしてないさ‥‥‥‥わかった、わかった！　そう睨むなって。あの女の子を追うんだろう？　&lt;Kyle&gt;と一緒にしては、ちょっとは色っぽい話になるかもじゃないか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>はぁ‥‥船旅かぁ‥‥気が乗らねーなー‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>どうしたの、&lt;Loni&gt;。ずいぶん、顔色悪いよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>だってさー、船に乗るんだぞ？　あんなでっかいカタマリが、水に浮くわきゃないんだ。乗ったら最後、二度と大地を踏めないかもしれないんだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>大丈夫よ。小さな子や、女の人だって、たくさん乗っていたもの。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>ほ、ホントか!?　どんな女だった!?　美人だったか!?　それとも可愛かったか!?　なあ!?　なあ!?　なあ!?</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>え？　いや、その‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>よーし、モタモタしている場合じゃないぞ！　行こうぜ、みんな！　美女が‥‥じゃなかった、海が俺たちを待ってるぜーー!!</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

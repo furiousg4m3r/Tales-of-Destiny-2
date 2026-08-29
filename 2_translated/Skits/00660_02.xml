@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねぇ、今オレたち、千年前の人と話したり、一緒に行動したりしてるわけだろ？　これって、スゴいことだよね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>それを言ったら、あたしと&lt;Reala&gt;は十年後、&lt;Judas&gt;は十八年前の人間だよ。あんたと同じ時代の人間なんか、そこのロクデナシしかいないんだから。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>だーれがロクデナシだ！　‥‥とはいえ、たしかに、考えようによっては、ぶっとんだパーティーだよなぁ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>なのに、なんか実感わかないんだよ。みんな、昔っからの知りあいだったみたいでさ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

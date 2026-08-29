@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>どうだ！　&lt;Loni&gt;さま特製スープの味は？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥うん、うまい！　知らなかったなあ。&lt;Loni&gt;にこんな特技があったなんて。いつどこで、こんな技術、身につけたんだよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>そりゃあ、おまえ、孤児院出てからひとり暮らしするようになって、彼女もできずに毎日毎日、自分のためだけに料理作って‥‥‥‥ナンパはうまくいかねえのに‥‥料理ばっかりうまくなって‥‥‥‥くっ‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>うわっ‥‥涙と鼻水がスープの中に‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

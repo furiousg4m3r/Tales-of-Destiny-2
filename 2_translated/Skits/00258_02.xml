@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>イレーヌさんかぁ‥‥口先だけじゃなくて、心から「ノイシュタットの民を救いたい」って想いが伝わってきた。きっと、美しい心の持ち主なんだろうな。俺、感動しちまったよ‥‥‥‥あん？　なんだよ、みんな。驚いたような顔をして。俺の顔に、何かついてるか？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>‥‥いや。女性の外見ではなく、内面を見るという概念が、おまえにあるのを知って驚いているだけだ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ったく、失礼なヤツだな、こう見えても俺は、美しいものには弱いんだぞ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>美女とか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>美女とか‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>美女とかにな‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>なんだよ、みんな‥‥ああそうだよ！　その通りだよ！　「イレーヌさんて、きっと美人なんだろーなー」とか考えたよ！　ケっ、悪かったな、チキショウ！</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

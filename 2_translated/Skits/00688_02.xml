@@ -1,0 +1,53 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ねぇ、ここって、軍の駐屯地でしょう？　わたしたち、こんな格好でウロウロしていたら、その、怪しまれないかしら‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>う～ん‥‥言われてみれば、確かに。どう見ても‥‥あたしたち、軍人には見えないだろうしねぇ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>もし、もしもだぜ？　怪しまれちゃったりしたら‥‥俺たち、どうなるんだ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>即、逮捕、拘束されるだろうな。天上軍のスパイにでも間違えられれば、軍事裁判にかけられてそのまま処刑‥‥なんてこともありうる。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>お、おいおい。脅かすなよ‥‥どうする、&lt;Kyle&gt;？　ここは、下手にウロウロしないほうがいかもしんねえぞ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>6</Id>
+      <JapaneseText>う～ん‥‥とにかく、歩きながら考えようよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>7</Id>
+      <JapaneseText>おまえ、ホンっトに事の重大さ、わかってんの‥‥？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

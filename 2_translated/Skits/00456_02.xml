@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ほんとに‥‥来るわけないって思ってた‥‥あんなひどいことしたわたしのことを‥‥助けにきてくれるはずないって‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>&lt;Reala&gt;‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>でも、ほんとは待ってたの！　他のだれでもない「あなたに、助けにきてほしい」って‥‥心の底から思った‥‥そしたら、&lt;Kyle&gt;‥‥ほんとうに来てくれた‥‥。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>&lt;Reala&gt;が泣いてたら、たとえそこが、世界の果てだとしても、駆けつけるよ。だってオレ‥‥&lt;Reala&gt;の英雄だから。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

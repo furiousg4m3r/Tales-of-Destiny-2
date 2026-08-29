@@ -1,0 +1,41 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>一生番号で呼ばれるなんて、オレ、なんかヤダなあ‥‥なんで、そんなことするんだろ？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>あいつらが言うには、管理がしやすいからだってさ。名前だと同姓同名ができたり、似たような名前があったりで、管理しにくいんだって。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>う～ん‥‥オレから見れば、数字の方がずっと間違いやすいと思うけどな。ほら、数字がいっぱいならんでるの見ると、頭が痛くなるじゃん。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>ハハッ！　いいね、あんた♪　あたしも、あんたとおんなじ意見だよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>5</Id>
+      <JapaneseText>英雄になったときも、「英雄Ｋ－３０８」とかじゃ、カッコつかないもんな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

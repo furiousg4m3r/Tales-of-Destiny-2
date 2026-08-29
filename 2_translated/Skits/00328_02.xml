@@ -1,0 +1,29 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>こんなに寒いのに、みんなすごく活気に満ちてる‥‥本当にいいところね、ハイデルベルグって‥‥やっぱり、ウッドロウさんの治世がいいからかしら。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>う～ん、ウッドロウさんも確かにすごいけど、ここの街の人みんながすごいっていうのも、あるんじゃないかな？　なんていうかさ『雪、どーんと来い！』って感じじゃん。これが&lt;Loni&gt;だったら、一日中家の中で『寒い～っ！』って言って、ふとんで丸まってると思うよ。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>ふふっ！　ホントに言いそう！　でも、&lt;Kyle&gt;の言う通りかも。だれかひとりが、すぐれているからじゃない。みんながそれぞれがんばって生きているから、ここはいい街なのね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>

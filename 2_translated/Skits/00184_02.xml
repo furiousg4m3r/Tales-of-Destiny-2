@@ -1,0 +1,35 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <Id>1</Id>
+      <JapaneseText>ストレイライズ大神殿かぁ。&lt;Loni&gt;からの手紙で、名前だけは知ってたけど、まさか、行くことになるなんてね。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>2</Id>
+      <JapaneseText>ま、信者以外の人間にとっては、どーでもいい場所だからな。レンズかき集めて、豪華な神殿造って、ロクなもんじゃない。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>3</Id>
+      <JapaneseText>&lt;Loni&gt;、アタモニ神団の騎士だったのに、そんなこと言っていいの？</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <Id>4</Id>
+      <JapaneseText>いいんだよ。俺は騎士になりたかっただけで、アタモニなんざ、オマケみたいなもんさ。ま、どうやら俺以外の人間は、そっちの方が大事だったみたいだけどな。</JapaneseText>
+      <EnglishText/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>system</Section>
+  </Strings>
+</SceneText>
